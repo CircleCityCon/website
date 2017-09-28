@@ -2,6 +2,7 @@ title = "CircleCityCon"
 baseURL = "https://circlecitycon.com"
 languageCode = "en-us"
 theme = "ananke"
+publishDir = "docs"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
