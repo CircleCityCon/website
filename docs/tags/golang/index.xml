@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Golang on CircleCityCon</title>
-    <link>https://circlecitycon.com/tags/golang/</link>
+    <link>http://circlecitycon.github.io/website/tags/golang/</link>
     <description>Recent content in Golang on CircleCityCon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://circlecitycon.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://circlecitycon.github.io/website/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://circlecitycon.com/news/welcome_to_hugo/</link>
+      <link>http://circlecitycon.github.io/website/news/welcome_to_hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://circlecitycon.com/news/welcome_to_hugo/</guid>
+      <guid>http://circlecitycon.github.io/website/news/welcome_to_hugo/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo

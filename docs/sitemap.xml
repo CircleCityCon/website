@@ -3,138 +3,138 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://circlecitycon.com/news/creating_a_new_theme/</loc>
+    <loc>http://circlecitycon.github.io/website/news/creating_a_new_theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://circlecitycon.com/news/welcome_to_hugo/</loc>
+    <loc>http://circlecitycon.github.io/website/news/welcome_to_hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://circlecitycon.com/about/</loc>
+    <loc>http://circlecitycon.github.io/website/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://circlecitycon.com/archives/</loc>
+    <loc>http://circlecitycon.github.io/website/archives/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://circlecitycon.com/bios/</loc>
+    <loc>http://circlecitycon.github.io/website/bios/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://circlecitycon.com/categories/</loc>
+    <loc>http://circlecitycon.github.io/website/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://circlecitycon.com/</loc>
+    <loc>http://circlecitycon.github.io/website/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://circlecitycon.com/tags/development/</loc>
+    <loc>http://circlecitycon.github.io/website/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://circlecitycon.com/categories/development/</loc>
+    <loc>http://circlecitycon.github.io/website/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://circlecitycon.com/events/</loc>
+    <loc>http://circlecitycon.github.io/website/events/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://circlecitycon.com/tags/go/</loc>
+    <loc>http://circlecitycon.github.io/website/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://circlecitycon.com/tags/golang/</loc>
+    <loc>http://circlecitycon.github.io/website/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://circlecitycon.com/categories/golang/</loc>
+    <loc>http://circlecitycon.github.io/website/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://circlecitycon.com/tags/hugo/</loc>
+    <loc>http://circlecitycon.github.io/website/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://circlecitycon.com/kids/</loc>
+    <loc>http://circlecitycon.github.io/website/kids/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://circlecitycon.com/news/</loc>
+    <loc>http://circlecitycon.github.io/website/news/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://circlecitycon.com/policies/</loc>
+    <loc>http://circlecitycon.github.io/website/policies/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://circlecitycon.com/schedule/</loc>
+    <loc>http://circlecitycon.github.io/website/schedule/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://circlecitycon.com/tags/</loc>
+    <loc>http://circlecitycon.github.io/website/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://circlecitycon.com/talks/</loc>
+    <loc>http://circlecitycon.github.io/website/talks/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://circlecitycon.com/training/</loc>
+    <loc>http://circlecitycon.github.io/website/training/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
