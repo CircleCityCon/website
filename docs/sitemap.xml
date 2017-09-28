@@ -3,138 +3,138 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://circlecitycon.github.io/website/news/creating_a_new_theme/</loc>
+    <loc>http://ccc.chigeek.com/news/creating_a_new_theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://circlecitycon.github.io/website/news/welcome_to_hugo/</loc>
+    <loc>http://ccc.chigeek.com/news/welcome_to_hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://circlecitycon.github.io/website/about/</loc>
+    <loc>http://ccc.chigeek.com/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://circlecitycon.github.io/website/archives/</loc>
+    <loc>http://ccc.chigeek.com/archives/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://circlecitycon.github.io/website/bios/</loc>
+    <loc>http://ccc.chigeek.com/bios/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://circlecitycon.github.io/website/categories/</loc>
+    <loc>http://ccc.chigeek.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://circlecitycon.github.io/website/</loc>
+    <loc>http://ccc.chigeek.com/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://circlecitycon.github.io/website/tags/development/</loc>
+    <loc>http://ccc.chigeek.com/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://circlecitycon.github.io/website/categories/development/</loc>
+    <loc>http://ccc.chigeek.com/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://circlecitycon.github.io/website/events/</loc>
+    <loc>http://ccc.chigeek.com/events/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://circlecitycon.github.io/website/tags/go/</loc>
+    <loc>http://ccc.chigeek.com/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://circlecitycon.github.io/website/tags/golang/</loc>
+    <loc>http://ccc.chigeek.com/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://circlecitycon.github.io/website/categories/golang/</loc>
+    <loc>http://ccc.chigeek.com/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://circlecitycon.github.io/website/tags/hugo/</loc>
+    <loc>http://ccc.chigeek.com/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://circlecitycon.github.io/website/kids/</loc>
+    <loc>http://ccc.chigeek.com/kids/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://circlecitycon.github.io/website/news/</loc>
+    <loc>http://ccc.chigeek.com/news/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://circlecitycon.github.io/website/policies/</loc>
+    <loc>http://ccc.chigeek.com/policies/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://circlecitycon.github.io/website/schedule/</loc>
+    <loc>http://ccc.chigeek.com/schedule/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://circlecitycon.github.io/website/tags/</loc>
+    <loc>http://ccc.chigeek.com/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://circlecitycon.github.io/website/talks/</loc>
+    <loc>http://ccc.chigeek.com/talks/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://circlecitycon.github.io/website/training/</loc>
+    <loc>http://ccc.chigeek.com/training/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

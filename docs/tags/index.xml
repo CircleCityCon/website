@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on CircleCityCon</title>
-    <link>http://circlecitycon.github.io/website/tags/</link>
+    <link>http://ccc.chigeek.com/tags/</link>
     <description>Recent content in Tags on CircleCityCon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://circlecitycon.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ccc.chigeek.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>http://circlecitycon.github.io/website/tags/development/</link>
+      <link>http://ccc.chigeek.com/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://circlecitycon.github.io/website/tags/development/</guid>
+      <guid>http://ccc.chigeek.com/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>http://circlecitycon.github.io/website/tags/go/</link>
+      <link>http://ccc.chigeek.com/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://circlecitycon.github.io/website/tags/go/</guid>
+      <guid>http://ccc.chigeek.com/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>http://circlecitycon.github.io/website/tags/golang/</link>
+      <link>http://ccc.chigeek.com/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://circlecitycon.github.io/website/tags/golang/</guid>
+      <guid>http://ccc.chigeek.com/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://circlecitycon.github.io/website/tags/hugo/</link>
+      <link>http://ccc.chigeek.com/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://circlecitycon.github.io/website/tags/hugo/</guid>
+      <guid>http://ccc.chigeek.com/tags/hugo/</guid>
       <description></description>
     </item>
     
