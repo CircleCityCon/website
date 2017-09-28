@@ -1,5 +1,5 @@
 title = "CircleCityCon"
-baseURL = "http://ccc.chigeek.com"
+baseURL = "http://ccc.chigeek.com/"
 languageCode = "en-us"
 theme = "ananke"
 publishDir = "docs"
