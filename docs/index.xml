@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CircleCityCon 5.0 on CircleCityCon</title>
+    <link>https://circlecitycon.com/</link>
+    <description>Recent content in CircleCityCon 5.0 on CircleCityCon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://circlecitycon.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://circlecitycon.com/news/creating_a_new_theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/news/creating_a_new_theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://circlecitycon.com/news/welcome_to_hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/news/welcome_to_hugo/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://circlecitycon.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/about/</guid>
+      <description>CircleCityCon is a security conference held in downtown Indianapolis. Our cons last years were big successes and we are only looking to grow and make it better.
+CircleCityCon is about the community. Our signature offering is the community led training classes offered to all participants. Events and contests are organized by members of the security community, including both CircleCityCon staffers and community partners. Three tracks, incredible entertainment, and technical villages help round out the CircleCityCom experience.</description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>https://circlecitycon.com/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/archives/</guid>
+      <description>Sites of CircleCityCon past live here.
+ CircleCityCon 1.0 (2014) CircleCityCon 2.0: Retro (2015) CircleCityCon 3.0: Game of Pwns (2016) CircleCityCon 4.0: Camp Circle City (2017)  </description>
+    </item>
+    
+    <item>
+      <title>Bios</title>
+      <link>https://circlecitycon.com/bios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://circlecitycon.com/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kids</title>
+      <link>https://circlecitycon.com/kids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/kids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policies</title>
+      <link>https://circlecitycon.com/policies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/policies/</guid>
+      <description>Code of Conduct We have no tolerance for physical/verbal/sexual harassment of any human!
+Our “Code of Conduct” is “Be Excellent to Each Other” AKA the Golden Rule. Failing that, it is “Do not be an Ass* or we will kick your ass out!”.
+Asking questions of a speaker during their talk, to get clarity or debate a point is not being an ass – heckling or haranguing the speaker is.</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://circlecitycon.com/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/schedule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://circlecitycon.com/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training</title>
+      <link>https://circlecitycon.com/training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
