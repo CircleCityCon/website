@@ -1,8 +1,8 @@
 title = "CircleCityCon"
-baseURL = "http://ccc.chigeek.com/"
+baseURL = "https://chirclecitycon.com"
 languageCode = "en-us"
 theme = "ananke"
-publishDir = "docs"
+# publishDir = "docs"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
