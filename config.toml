@@ -1,5 +1,5 @@
 title = "CircleCityCon"
-baseURL = "https://chirclecitycon.com"
+baseURL = "http://chirclecitycon.com"
 languageCode = "en-us"
 theme = "ananke"
 
