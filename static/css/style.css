@@ -1,0 +1,17 @@
+.header-icon-strip {
+    display: inline-block;
+}
+
+.header-icon-elem {
+    padding: 10px;
+}
+
+.header-icon-strip a {
+    color: #fff;
+    text-align: center;
+    /*padding: 20px;*/
+}
+
+.header-icon-strip a:hover {
+    color: #999;
+}

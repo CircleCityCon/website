@@ -1,7 +1,6 @@
 ---
 title: "Archives"
-description: "The history of years past"
-featured_image: "/images/paper-archive.jpg"
+featured_image: "/images/archive-header.jpg"
 menu: "main"
 ---
 

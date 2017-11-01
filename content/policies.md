@@ -1,7 +1,6 @@
 ---
 title: "Policies"
-description: "Follow these or bad things will happen"
-featured_image: "/images/smiley.png"
+featured_image: "/images/policies-header.jpg"
 menu: "main"
 ---
 
