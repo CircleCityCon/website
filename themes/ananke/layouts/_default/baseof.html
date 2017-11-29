@@ -17,8 +17,8 @@
         <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
       {{ end }}
 
-     <link href='{{ "dist/main.css" | absURL }}' rel='stylesheet' type="text/css" />
-     <link href='{{ "css/style.css" | absURL }}' rel='stylesheet' type="text/css" />
+     <link href='{{ "dist/main.css" | relURL }}' rel='stylesheet' type="text/css" />
+     <link href='{{ "css/style.css" | relURL }}' rel='stylesheet' type="text/css" />
 
      {{ if .RSSLink }}
       <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
@@ -34,8 +34,8 @@
       {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
         {{ template "_internal/google_analytics_async.html" . }}
       {{ end }}
-      <script src="https://use.fontawesome.com/34c673993c.js"></script>
-      <script src='{{ "dist/baffle.min.js" | absURL }}'></script>
+      <script src="//use.fontawesome.com/34c673993c.js"></script>
+      <script src='{{ "dist/baffle.min.js" | relURL }}'></script>
       <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
       <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
       <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
