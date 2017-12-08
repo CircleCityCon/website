@@ -17,7 +17,7 @@ description: >
                 <div class="header-strip-icon center">
                     <i class="fa fa-map-marker fa-5x" aria-hidden="true"></i>
                 </div>
-                <p class="center">The Westin Indianapolis</p>
+                <p class="center">The Westin<br /> Indianapolis</p>
             </div>
         </a>
         <a href="https://www.eventbrite.com/e/circlecitycon-50-2018-tickets-35093021171">
@@ -26,6 +26,22 @@ description: >
                         <i class="fa fa-ticket fa-5x" aria-hidden="true"></i>
                 </div>
                 <p class="center">Get your tickets</p>
+            </div>
+        </a>
+        <a href="/cfp/">
+            <div class="fl header-icon-elem">
+                <div class="header-strip-icon center">
+                        <i class="fa fa-comments-o fa-5x" aria-hidden="true"></i>
+                </div>
+                <p class="center">CFP is <strong>Open</strong></p>
+            </div>
+        </a>
+        <a href="/cft/">
+            <div class="fl header-icon-elem">
+                <div class="header-strip-icon center">
+                        <i class="fa fa-paper-plane fa-5x" aria-hidden="true"></i>
+                </div>
+                <p class="center">CFT is <strong>Open</strong></p>
             </div>
         </a>
     </div>
