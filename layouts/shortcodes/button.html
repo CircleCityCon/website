@@ -1,0 +1,6 @@
+<a class="ba br2 black-70 no-underline grow b inline-flex items-center mr3 mb3 pv2 ph3" {{ with .Get "href" }} href="{{.}}" {{ end }}>
+    <div class="w2 pv1 pr2">
+        <i {{ with .Get "faicon" }} class="fa fa-{{.}} fa-1x" {{ end }} aria-hidden="true"></i>
+    </div>
+    <span>{{ .Get "name" }}</span>
+</a>
