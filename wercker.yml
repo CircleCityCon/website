@@ -12,3 +12,8 @@ deploy:
         domain: circlecitycon.com
         branch: gh-pages
         basedir: public
+  after-steps:
+      - slack-notifier:
+          url: $SLACK_URL
+          channel: webops
+          username: werckerbot
