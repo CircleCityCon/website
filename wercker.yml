@@ -3,6 +3,13 @@ build:
   steps:
     - arjen/hugo-build@1.23.2:
       version: "0.30.2"
+  after-steps:
+      - install-packages:
+          packages: ruby
+      - wantedly/pretty-slack-notify:
+          channel: webops
+          username: werckerbot
+          webhook_url: $SLACK_URL
 deploy:
   steps:
     - install-packages:
@@ -12,7 +19,6 @@ deploy:
         domain: circlecitycon.com
         branch: gh-pages
         basedir: public
-    - dougley/pretty-slack-notify@0.3.5
   after-steps:
       - install-packages:
           packages: ruby
