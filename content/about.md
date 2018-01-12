@@ -1,6 +1,6 @@
 ---
 title: "About"
-featured_image: '/images/about-header.jpg'
+featured_image: '/images/touring-machine.jpg'
 menu: "main"
 ---
 CircleCityCon is a security conference held in downtown Indianapolis. Our cons last years were big successes and we are only looking to grow and make it better.

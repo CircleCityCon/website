@@ -1,7 +1,7 @@
 ---
 title: "Location"
 linktitle: "Location"
-featured_image: "/images/location-header.png"
+featured_image: "/images/indianapolis-circle.jpg"
 menu: "main"
 ---
 

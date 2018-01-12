@@ -1,6 +1,6 @@
 ---
 title: "Archives"
-featured_image: "/images/archive-header.jpg"
+featured_image: "/images/archive-papers.jpg"
 menu: "main"
 ---
 

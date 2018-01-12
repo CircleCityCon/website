@@ -1,7 +1,7 @@
 ---
 title: "Schedule"
 menu: "main"
-featured_image: "/images/sched-header.jpg"
+featured_image: "/images/minox.jpg"
 html_description: "yes"
 description: >
     <div class="header-icon-strip center">

@@ -1,6 +1,6 @@
 ---
 title: "Policies"
-featured_image: "/images/policies-header.jpg"
+featured_image: "/images/russian-hollow-book.jpg"
 menu: "main"
 ---
 

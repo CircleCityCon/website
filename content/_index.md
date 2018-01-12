@@ -1,9 +1,9 @@
 ---
 title: "CircleCityCon 5.0"
-featured_image: "/images/main-header.jpg"
+featured_image: "/images/noir-spy.jpg"
 html_description: "yes"
 description: >
-    <div class="bt bb tc mw7 center mt4">
+    <div class="tc mw7 center mt4">
         <a class="tc dim white" href="/ccc.ics">
             <div class="fl dib fl-ns w-100 w-20-l pr3-m pr5-l">
                 <div class="header-strip-icon center">
