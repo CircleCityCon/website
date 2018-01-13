@@ -1,5 +1,5 @@
 ---
-title: "CircleCityCon 5.0"
+title: "spycraft"
 featured_image: "/images/noir-spy.jpg"
 html_description: "yes"
 description: >
@@ -9,7 +9,7 @@ description: >
                 <div class="header-strip-icon center">
                     <i class="fa fa-calendar-check-o fa-4x" aria-hidden="true"></i>
                 </div>
-                <p class="center">June 1st - 3rd 2018</p>
+                <p class="center baffle">June 1st - 3rd 2018</p>
             </div>
         </a>
         <a class="tc white" href="/location">
@@ -17,7 +17,7 @@ description: >
                 <div class="header-strip-icon center">
                     <i class="fa fa-map-marker fa-4x" aria-hidden="true"></i>
                 </div>
-                <p class="center">The Westin<br /> Indianapolis</p>
+                <p class="center baffle">The Westin<br /> Indianapolis</p>
             </div>
         </a>
         <a class="tc white" href="https://www.eventbrite.com/e/circlecitycon-50-2018-tickets-35093021171">
@@ -25,7 +25,7 @@ description: >
                 <div class="header-strip-icon center">
                         <i class="fa fa-ticket fa-4x" aria-hidden="true"></i>
                 </div>
-                <p class="center">Get your tickets</p>
+                <p class="center baffle">Get your tickets</p>
             </div>
         </a>
         <a class="tc white" href="/cfp/">
@@ -33,7 +33,7 @@ description: >
                 <div class="header-strip-icon center">
                         <i class="fa fa-comments-o fa-4x" aria-hidden="true"></i>
                 </div>
-                <p class="center">CFP is <strong>Open</strong></p>
+                <p class="center baffle">CFP is <strong>Open</strong></p>
             </div>
         </a>
         <a class="tc white" href="/cft/">
@@ -41,10 +41,8 @@ description: >
                 <div class="header-strip-icon center">
                         <i class="fa fa-paper-plane fa-4x" aria-hidden="true"></i>
                 </div>
-                <p class="center">CFT is <strong>Open</strong></p>
+                <p class="center baffle">CFT is <strong>Open</strong></p>
             </div>
         </a>
     </div>
 ---
-
-Welcome agents to the 5th year of CircleCityCon.  This time around our theme is centered around spycraft

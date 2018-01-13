@@ -1,4 +1,6 @@
 <script src="{{ "dist/app.bundle.js" | absURL }}" async></script>
 <script type="text/javascript">
-    baffle('.lh-title').start().reveal(2000)
+    baffle('.baffle', {
+        exclude: [' ', '.', '\n']
+    }).start().reveal(1500)
 </script>

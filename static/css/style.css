@@ -25,3 +25,7 @@
 .font-spy {
     font-family: "SpyAgency"
 }
+
+.sepia {
+    filter:grayscale(100%) sepia(25%);
+}
