@@ -1,7 +1,7 @@
 ---
 title: "Policies"
 featured_image: "/images/russian-hollow-book.jpg"
-menu: "main"
+menu: None
 ---
 
 # Code of Conduct
