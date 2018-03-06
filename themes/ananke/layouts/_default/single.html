@@ -9,6 +9,43 @@
         <!-- <h1 class="f1">
           {{ .Title }}
         </h1> -->
+
+        {{ if isset .Params "trainers" }}
+        <span class="f6 b Trainers helvetica tracked">
+          Trainers:
+        </span>
+        {{ range .Params.trainers }}
+        {{ with $.Site.GetPage "page" . }}
+        <a href="{{ .URL }}">{{ .Title }}</a> 
+        {{ end }}{{ end }}{{ end }}
+
+        {{ if isset .Params "speakers" }}
+        <span class="f6 b Trainers helvetica tracked">
+          Speakers:
+        </span>
+        {{ range .Params.speakers }}
+        {{ with $.Site.GetPage "page" . }}
+        <a href="{{ .URL }}">{{ .Title }}</a> 
+        {{ end }}{{ end }}{{ end }}
+
+        {{ if isset .Params "talks" }}
+        <span class="f6 b Trainers helvetica tracked">
+          Talks:
+        </span>
+        {{ range .Params.talks }}
+        {{ with $.Site.GetPage "page" . }}
+        <a href="{{ .URL }}">{{ .Title }}</a> 
+        {{ end }}{{ end }}{{ end }}
+
+        {{ if isset .Params "training" }}
+        <span class="f6 b Trainers helvetica tracked">
+          Training:
+        </span>
+        {{ range .Params.training }}
+        {{ with $.Site.GetPage "page" . }}
+        <a href="{{ .URL }}">{{ .Title }}</a> 
+        {{ end }}{{ end }}{{ end }}
+
       </header>
       <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
         {{ .Content }}
