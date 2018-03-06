@@ -2,7 +2,7 @@
 title: "Call for Papers"
 linktitle: "CFP"
 featured_image: "/images/sab-field-manual.jpg"
-menu: "main"
+menu: None
 ---
 {{< button name="File your CFP Submission" href="https://ccc2018.busyconf.com/proposals/new" faicon="comments-o" >}}
 
