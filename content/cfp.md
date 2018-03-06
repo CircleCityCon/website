@@ -2,7 +2,7 @@
 title: "Call for Papers"
 linktitle: "CFP"
 featured_image: "/images/sab-field-manual.jpg"
-menu: "main"
+menu: None
 ---
 {{< button name="CFP Submission is now closed" href="https://circlecitycon.com/cfp" faicon="comments-o" >}}
 

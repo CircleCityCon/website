@@ -2,7 +2,7 @@
 title: "Call for Training"
 linktitle: "CFT"
 featured_image: "/images/field-training.jpg"
-menu: "main"
+menu: None
 ---
 {{< button name="File your CFT Submission" href="https://ccc2018.busyconf.com/proposals/new" faicon="paper-plane" >}}
 
