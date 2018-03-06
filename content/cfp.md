@@ -4,7 +4,7 @@ linktitle: "CFP"
 featured_image: "/images/sab-field-manual.jpg"
 menu: "main"
 ---
-{{< button name="File your CFP Submission" href="https://ccc2018.busyconf.com/proposals/new" faicon="comments-o" >}}
+{{< button name="CFP Submission is now closed" href="https://circlecitycon.com/cfp" faicon="comments-o" >}}
 
 ### Submission Guidelines
 
