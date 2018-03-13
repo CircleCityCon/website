@@ -1,0 +1,6 @@
+---
+title: "Social Engineering At Work - How to use positive influence to gain management buy-in for anything"
+trainers:
+  - "bios/april.wright.md"
+---
+Do you understand how to navigate office politics and regularly get what you want and need to make your security efforts take off and be successful?  Are there projects or programs you want to institute, but have trouble getting started or knowing how to get people on-board?  Most of us understand how SE can be used to test for human vulnerabilities, but socializing at work may give us a yucky feeling.  However, if you really want to learn how to get buy-in for your ideas or projects and get what you want, you need to be able to navigate the social system at work and exert indirect influence.  It is possible to study and reverse the "dark arts" of SE to actually achieve positive goals; SE principles are used every day by savvy business people to make things happen, even if they don't realize that they're using them.  Let's define ways even the most introverted person can play the corporate game in a non-malicious non-manipulative way.  Then, we can use this knowledge within our organizations to improve our security posture, "sell" security to stakeholders, and lessen risk.  Learn how to utilize the tools of SE "for good" so that we can better serve our infrastructures and customers.

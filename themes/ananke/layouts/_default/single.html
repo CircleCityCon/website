@@ -6,44 +6,48 @@
         <p class="f6 b helvetica tracked">
           {{ humanize .Section | upper  }}
         </p>
-        <!-- <h1 class="f1">
-          {{ .Title }}
-        </h1> -->
+
+        {{ if .Params.bio_image }}
+        <div class="pr3-ns mb4 mb0-ns w-100 w-20-ns">
+          {{ $featured_image := (trim .Params.bio_image "/") | absURL }}
+          <img src="{{ $featured_image }}" class="db center mb3" alt="image from {{ .Title }}">
+        </div>
+        {{ end }}
 
         {{ if isset .Params "trainers" }}
-        <span class="f6 b Trainers helvetica tracked">
+        <span class="f6 b helvetica tracked">
           Trainers:
         </span>
         {{ range .Params.trainers }}
         {{ with $.Site.GetPage "page" . }}
-        <a href="{{ .URL }}">{{ .Title }}</a> 
+        <a href="{{ .URL }}" class="f6 link dim br2 ba ph3 pv1 mb2 dib black">{{ .Title }}</a> 
         {{ end }}{{ end }}{{ end }}
 
         {{ if isset .Params "speakers" }}
-        <span class="f6 b Trainers helvetica tracked">
+        <span class="f6 b helvetica tracked">
           Speakers:
         </span>
         {{ range .Params.speakers }}
         {{ with $.Site.GetPage "page" . }}
-        <a href="{{ .URL }}">{{ .Title }}</a> 
+        <a href="{{ .URL }}" class="f6 link dim br2 ba ph3 pv1 mb2 dib black">{{ .Title }}</a> 
         {{ end }}{{ end }}{{ end }}
 
         {{ if isset .Params "talks" }}
-        <span class="f6 b Trainers helvetica tracked">
+        <span class="f6 b helvetica tracked">
           Talks:
         </span>
         {{ range .Params.talks }}
         {{ with $.Site.GetPage "page" . }}
-        <a href="{{ .URL }}">{{ .Title }}</a> 
+        <a href="{{ .URL }}" class="f6 link dim br2 ba ph3 pv1 mb2 dib black">{{ .Title }}</a> 
         {{ end }}{{ end }}{{ end }}
 
         {{ if isset .Params "training" }}
-        <span class="f6 b Trainers helvetica tracked">
+        <span class="f6 b helvetica tracked">
           Training:
         </span>
         {{ range .Params.training }}
         {{ with $.Site.GetPage "page" . }}
-        <a href="{{ .URL }}">{{ .Title }}</a> 
+        <a href="{{ .URL }}" class="f6 link dim br2 ba ph3 pv1 mb2 dib black">{{ .Title }}</a> 
         {{ end }}{{ end }}{{ end }}
 
       </header>
