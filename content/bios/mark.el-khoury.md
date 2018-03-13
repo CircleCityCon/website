@@ -1,6 +1,7 @@
 ---
 title: "Mark El-Khoury"
 bio_image: "/images/bios/mark.el-khoury.jpeg"
+show_title: true
 training:
    - training/wifi_training.md
 ---

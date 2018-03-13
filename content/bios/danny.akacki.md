@@ -1,6 +1,7 @@
 ---
 title: "Danny Akacki"
 bio_image: "/images/bios/danny.akacki.jpeg"
+show_title: true
 talks:
   - talks/the_never_ending_hack_mental_health_in_infosec_community.md
 ---

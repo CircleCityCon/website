@@ -1,6 +1,7 @@
 ---
 title: "Cheryl Biswas"
 bio_image: "/images/bios/cheryl.biswas.jpeg"
+show_title: true
 talks:
   - talks/patching__its_complicated.md
 ---

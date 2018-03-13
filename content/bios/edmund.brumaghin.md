@@ -1,6 +1,7 @@
 ---
 title: "Edmund Brumaghin"
 bio_image: "/images/bios/edmund.brumaghin.png"
+show_title: true
 talks:
   - talks/stealing_cycles_mining_coin_an_introduction_to_malicious_cryptomining.md
 ---

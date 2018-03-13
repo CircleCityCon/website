@@ -1,6 +1,7 @@
 ---
 title: "Himanshu Khokhar"
 bio_image: "/images/bios/himanshu.khokhar.png"
+show_title: true
 training:
    - training/designing_linux_rootkits.md
    - training/exploit_development__bootcamp.md

@@ -1,6 +1,7 @@
 ---
 title: "Dan Tentler"
 bio_image: "/images/bios/dan.tentler.jpeg"
+show_title: true
 talks:
   - talks/how_did_i_get_here.md
 ---

@@ -2,6 +2,7 @@
 title: "Patching - It's Complicated"
 trainers:
   - "bios/cheryl.biswas.md"
+show_title: true
 ---
 Tell me where it hurts. No - really! As much as we like to point fingers of blame and malign the processes in place, the fact is that one size does not fit all when security updates get issued.
 

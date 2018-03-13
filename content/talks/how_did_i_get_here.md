@@ -2,5 +2,6 @@
 title: "How did I get here?"
 trainers:
   - "bios/dan.tentler.md"
+show_title: true
 ---
 &nbsp; 2017 has been a monumental year for massive breaches. It's gotten to the point that they're starting to blend together. The Equifax and Deloitte breaches were so close together they are easily confused, and initial sweeps of their risk surfaces are nearly congruent. Additional sweeps of other large organizations are also unsurprisingly congruent. In this talk we'll be going over all the recent, major breaches, and doing a fly-over of their publicly available surfaces, comparing news reports and other public data, and analyzing what could have possibly gone wrong, if it isn't already known. It is also likely that we will spot new entrypoints and discover new and interesting vectors by which attackers can gain entry to these orgs, since in many cases the IR teams that are hired are hands-off and can merely "give advice" on how to resolve any security gaps discovered. It is clear that at a 100,000 foot level what we're doing isn't working as an industry. This talk aims to point out low hanging fruit, examples of vulnerable infrastructure, techniques on how to self-diagnose and suggestions on how to prevent these sorts of oversights.

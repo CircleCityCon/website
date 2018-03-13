@@ -1,6 +1,7 @@
 ---
-title: "dade can't be blank"
+title: "Dade Can't Be Blank"
 bio_image: "/images/bios/dade.can't.be.blank.png"
+show_title: true
 talks:
   - talks/the_five_spies_of_cyber.md
 ---

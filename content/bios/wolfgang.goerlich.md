@@ -1,6 +1,7 @@
 ---
 title: "Wolfgang Goerlich"
 bio_image: "/images/bios/wolfgang.goerlich.png"
+show_title: true
 talks:
   - talks/securing_without_slowing_devops.md
 ---

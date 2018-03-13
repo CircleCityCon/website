@@ -1,6 +1,7 @@
 ---
 title: "Derek Milroy"
 bio_image: "/images/bios/derek.milroy.png"
+show_title: true
 talks:
   - talks/enterprise_vulnerability_management_assessing_implementing_and_maintaining.md
 ---

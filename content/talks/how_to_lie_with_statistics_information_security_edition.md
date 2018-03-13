@@ -2,6 +2,7 @@
 title: "How to Lie with Statistics, Information Security Edition"
 trainers:
   - "bios/tony.martin-vegue.md"
+show_title: true
 ---
 Stiff statistics, prismatic pie charts, and questionable survey results drown the Information Security space in a sea of never-ending numbers that can be difficult to sift through. Have you ever finished reading a research institution's annual security report and felt your Spidey sense begin to tingle with doubt or disbelief? What you are probably sensing is a manipulation of statistics, an age-old hoodwink that has been occurring as long as numbers have been used to convey information.
 

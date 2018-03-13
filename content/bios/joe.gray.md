@@ -1,6 +1,7 @@
 ---
 title: "Joe Gray"
 bio_image: "/images/bios/joe.gray.jpeg"
+show_title: true
 talks:
   - talks/dear_blue_team_proactive_steps_to_supercharge_your_ir.md
 ---

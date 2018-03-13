@@ -1,6 +1,7 @@
 ---
 title: "Tony Martin-Vegue"
 bio_image: "/images/bios/tony.martin-vegue.jpeg"
+show_title: true
 talks:
   - talks/how_to_lie_with_statistics_information_security_edition.md
 ---

@@ -3,6 +3,7 @@ title: "Using Open Source Log Aggregation Tools to Improve Enterprise Security"
 trainers:
   - "bios/lennart.koopmann.md"
   - "bios/jim.nitterauer.md"
+show_title: true
 ---
 Securing the enterprise is a demanding task that requires a complete understanding of the infrastructure and its running services. To uncover signs of compromise, it is first necessary to know what normal activity looks like. Almost all services make use of some type of logging function with the vast majority of logs adhering to RFC 5424 or the Syslog protocol. Centralizing log analysis functions opens new opportunities for cross-referencing and analyzing data. 
 

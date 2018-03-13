@@ -1,6 +1,7 @@
 ---
 title: "David Liebenberg"
 bio_image: "/images/bios/david.liebenberg.jpeg"
+show_title: true
 talks:
   - talks/from_ddos_to_mining_chinese_cybercriminals_set_their_sights_on_monero.md
 ---

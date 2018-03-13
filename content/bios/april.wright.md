@@ -1,6 +1,7 @@
 ---
 title: "April Wright"
 bio_image: "/images/bios/april.wright.jpeg"
+show_title: true
 talks:
   - talks/social_engineering_at_work__how_to_use_positive_influence_to_gain_management_buyin_for_anything.md
 ---

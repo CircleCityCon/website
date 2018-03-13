@@ -2,6 +2,7 @@
 title: "Industrial Control Systems Security - Real-world Impact"
 trainers:
   - "bios/jamie.buening.md"
+show_title: true
 ---
 Industrial Control Systems (ICS) are at the heart of many processes and infrastructure touching our daily lives. Manufacturing lines at a company that creates your favorite beverage or treat are one example! ICS also exists in areas we take for granted like Water and Wastewater Treatment Plants. The government identifies some systems as Critical Infrastructure that are essential for the functioning of a society and economy. ICS security can affect the risk to a companyâ&euro;&trade;s finances or can be associated with life and death consequences!
 

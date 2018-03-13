@@ -1,6 +1,7 @@
 ---
 title: "Brian Baskin"
 bio_image: "/images/bios/brian.baskin.png"
+show_title: true
 talks:
   - talks/held_for_ransom_with_a_toy_gun.md
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Jamie Buening"
 bio_image: "/images/bios/jamie.buening.jpeg"
+show_title: true
 training:
    - training/industrial_control_systems_security__realworld_impact.md
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Courtney Falk"
 bio_image: "/images/bios/courtney.falk.jpeg"
+show_title: true
 talks:
   - talks/playing_russian_troll_whackamole.md
 ---

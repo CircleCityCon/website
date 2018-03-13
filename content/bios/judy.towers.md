@@ -1,6 +1,7 @@
 ---
 title: "Judy Towers"
 bio_image: "/images/bios/judy.towers.png"
+show_title: true
 talks:
   - talks/saedy_subversion_and_espionage_directed_against_you.md
 ---

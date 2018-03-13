@@ -1,6 +1,7 @@
 ---
 title: "Jay Smith"
 bio_image: "/images/bios/jay.smith.png"
+show_title: true
 training:
    - training/gotcha_intro_to_malware_analysis.md
    - training/gotcha_intro_to_memory_forensics.md

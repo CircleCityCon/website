@@ -2,6 +2,7 @@
 title: "Dear Blue Team: Proactive Steps to Supercharge your IR"
 trainers:
   - "bios/joe.gray.md"
+show_title: true
 ---
 In an age where data breaches and malware infections are quickly becoming the norm, we must prepare for Digital Forensics and Incident Response (DFIR). In doing so, there are many things that System Administrator, Enterprise Defenders, and Security Operations Centers can do proactively to not only enhance the security of an organization, but also assist the DFIR personnel in performing their duties in a more expeditious manner. 
 

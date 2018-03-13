@@ -1,6 +1,7 @@
 ---
-title: "Dan McInerney"
+title: "Dan Mcinerney"
 bio_image: "/images/bios/dan.mcinerney.png"
+show_title: true
 talks:
   - talks/automahack___automate_going_from_zero_to_domain_admin_with_2_tools.md
 ---

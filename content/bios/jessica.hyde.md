@@ -1,6 +1,7 @@
 ---
 title: "Jessica Hyde"
 bio_image: "/images/bios/jessica.hyde.jpeg"
+show_title: true
 talks:
   - talks/iot_4n6_the_growing_impact_of_the_internet_of_things_on_digital_forensics.md
 ---

@@ -2,6 +2,7 @@
 title: "*Gotcha! Intro to Memory Forensics*"
 trainers:
   - "bios/jay.smith.md"
+show_title: true
 ---
 We'll explore a victimized (or was it?) system using Volatility, a fantastic open source memory forensics tool. This workshop will give an introduction to forensic analysis and reporting as well as plenty of pointers for those who want to explore further. 
 This workshop is for penetration testers, students, n00bs, Law Enforcement, and anybody interested in the study of compromised system images who've had limited experience or exposure so far or who would like to know more of what can be discovered in volatile memory (RAM).

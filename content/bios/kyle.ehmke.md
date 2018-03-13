@@ -1,6 +1,7 @@
 ---
 title: "Kyle Ehmke"
 bio_image: "/images/bios/kyle.ehmke.png"
+show_title: true
 talks:
   - talks/applying_thermodynamic_principles_to_threat_intelligence.md
 ---

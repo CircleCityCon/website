@@ -1,6 +1,7 @@
 ---
 title: "Ben Hughes"
 bio_image: "/images/bios/ben.hughes.png"
+show_title: true
 training:
    - training/threat_hunting_with_elk.md
 ---

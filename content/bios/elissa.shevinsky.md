@@ -1,6 +1,7 @@
 ---
 title: "Elissa Shevinsky"
 bio_image: "/images/bios/elissa.shevinsky.png"
+show_title: true
 talks:
   - talks/containers_exploits_surprises_and_security.md
 ---

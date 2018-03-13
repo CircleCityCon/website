@@ -2,6 +2,7 @@
 title: "Designing Linux Rootkits"
 trainers:
   - "bios/himanshu.khokhar.md"
+show_title: true
 ---
 Rootkits are one of the most misunderstood topic in information security, mainly because they are very complex and not well understood. This course aims to provide a foundation in understanding and designing Linux based kernel mode rootkits so that they can be understood properly and if the need arises, can be written at will. 
 

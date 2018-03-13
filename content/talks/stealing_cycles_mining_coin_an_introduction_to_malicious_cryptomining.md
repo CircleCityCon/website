@@ -3,6 +3,7 @@ title: "Stealing Cycles, Mining Coin: An introduction to Malicious Cryptomining"
 trainers:
   - "bios/edmund.brumaghin.md"
   - "bios/nick.biasini.md"
+show_title: true
 ---
 In today's world crimeware is a multi-billion dollar industry that's currently being primarily run through extortion in the electronic age, ransomware. However, times are changing and the business models are changing along with it. The rise of ransomware has paralleled a rise in the value of cryptocurrencies, the two are not necessarily connected, but the impact has been. 
 

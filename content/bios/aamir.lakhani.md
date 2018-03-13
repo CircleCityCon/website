@@ -1,6 +1,7 @@
 ---
 title: "Aamir Lakhani"
 bio_image: "/images/bios/aamir.lakhani.jpeg"
+show_title: true
 talks:
   - talks/rise_of_the_machines.md
 ---

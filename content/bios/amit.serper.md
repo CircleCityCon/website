@@ -1,6 +1,7 @@
 ---
 title: "Amit Serper"
 bio_image: "/images/bios/amit.serper.jpeg"
+show_title: true
 talks:
   - talks/osxpirrit__reverse_engineering_mac_osx_adwaremalware_and_the_legal_department_of_the_company_who_makes_it.md
 ---

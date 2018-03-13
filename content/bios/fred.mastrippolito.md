@@ -1,6 +1,7 @@
 ---
 title: "Fred Mastrippolito"
 bio_image: "/images/bios/fred.mastrippolito.png"
+show_title: true
 training:
    - training/threat_hunting_with_elk.md
 ---

@@ -2,6 +2,7 @@
 title: "Quick Retooling in .Net for Red Teams"
 trainers:
   - "bios/dimitry.snezhkov.md"
+show_title: true
 ---
 Quick Retooling in .Net for Red Teams
 

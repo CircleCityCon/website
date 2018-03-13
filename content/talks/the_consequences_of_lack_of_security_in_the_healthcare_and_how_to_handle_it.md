@@ -2,6 +2,7 @@
 title: "The consequences of lack of security in the Healthcare and how to handle it"
 trainers:
   - "bios/jelena.milosevic.md"
+show_title: true
 ---
 Hospitals can be attractive places for hackers. With access to critical medical records and personally identifiable information, there is great opportunity to exploit patients.
 Privacy and the protection of computer records sometimes gets put on the back burner, and caring for the devices used in hospitals is an after-thought, meaning that computers and other devices are not updated in a timely manner and are prone to vulnerabilities. 

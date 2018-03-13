@@ -1,6 +1,7 @@
 ---
 title: "Kat Fitzgerald"
 bio_image: "/images/bios/kat.fitzgerald.png"
+show_title: true
 talks:
   - talks/weaponzing__defending_against_iot_attacks.md
 ---

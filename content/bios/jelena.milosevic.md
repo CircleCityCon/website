@@ -1,6 +1,7 @@
 ---
 title: "Jelena Milosevic"
 bio_image: "/images/bios/jelena.milosevic.jpeg"
+show_title: true
 talks:
   - talks/the_consequences_of_lack_of_security_in_the_healthcare_and_how_to_handle_it.md
 ---

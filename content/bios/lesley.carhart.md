@@ -1,6 +1,7 @@
 ---
 title: "Lesley Carhart"
 bio_image: "/images/bios/lesley.carhart.png"
+show_title: true
 talks:
   - talks/the_network_night_watch.md
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Magen Wu"
 bio_image: "/images/bios/magen.wu.png"
+show_title: true
 talks:
   - talks/carrot_vs_stick_motivation_metrics_and_awareness.md
 ---

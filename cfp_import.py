@@ -10,8 +10,9 @@ talks = []
 training = []
 
 bio_tmpl = Template(u'''---
-title: "{{ bio['full_name'] }}"
+title: "{{ bio['full_name']|title }}"
 bio_image: "/images/bios/{{ avatar }}"
+show_title: true
 {% if bio['training']|length > 0 %}
 training:
 {% for i in bio['training'] %}
@@ -36,6 +37,7 @@ trainers:
   - "bios/{{ i }}"
 {% endfor %}
 {% if training['draft'] %}draft: true{% endif %}
+show_title: true
 ---
 
 {{ training['description'] }}
@@ -48,6 +50,7 @@ speakers:
   - "bios/{{ i }}"
 {% endfor %}
 {% if talk['draft'] %}draft: true{% endif %}
+show_title: true
 ---
 
 {{ talk['description'] }}

@@ -1,6 +1,7 @@
 ---
-title: "michelle levesley"
+title: "Michelle Levesley"
 bio_image: "/images/bios/michelle.levesley.png"
+show_title: true
 talks:
   - talks/privacy_for_safety_when_the_threat_model_is_in_your_circle.md
 ---

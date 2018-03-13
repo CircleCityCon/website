@@ -2,6 +2,7 @@
 title: "Carrot vs. Stick: Motivation, Metrics, and Awareness"
 trainers:
   - "bios/magen.wu.md"
+show_title: true
 ---
 User awareness training is often viewed as a necessary evil-one more thing we must do in order to check the box. We either outsource our training to a third party, never paying attention to it again until we need to review our subscription, or we run it internally and spend as little time on it as possible. As a result, our users are no better prepared for security threats and they are not learning while seeing it as an annoyance or obstruction, and not a learning experience.
 

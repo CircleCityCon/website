@@ -1,6 +1,7 @@
 ---
-title: "Bryan McAninch"
+title: "Bryan Mcaninch"
 bio_image: "/images/bios/bryan.mcaninch.png"
+show_title: true
 talks:
   - talks/the_faas_and_the_curious__aws_lambda_threat_modeling.md
 ---

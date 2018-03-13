@@ -1,6 +1,7 @@
 ---
 title: "Nick Biasini"
 bio_image: "/images/bios/nick.biasini.jpeg"
+show_title: true
 talks:
   - talks/stealing_cycles_mining_coin_an_introduction_to_malicious_cryptomining.md
 ---

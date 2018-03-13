@@ -2,6 +2,7 @@
 title: "Attack and Defend with Powershell: Introduction"
 trainers:
   - "bios/aelon.porat.md"
+show_title: true
 ---
 This class will introduce students to Powershell, showcasing its attractiveness to sysadmins, defenders, and attackers alike.  We’ll learn by doing, performing different attacks using popular frameworks, as well as creating our own attack scripts from scratch.  We’ll bypass antivirus and whitelisting applications, connecting to our PoC command-and-control centers as we remotely take over a computer: we’ll steal documents, grab screen and email content, turn on the mic and webcam, control the mouse and keyboard, modify settings, defeat two-factor authentication, execute programs at will.. anything that a real attacker may do.  From a defender perspective, we’ll understand how such attacks work, review the artifacts that they leave behind, and close some of the holes that allow them to take place.
 

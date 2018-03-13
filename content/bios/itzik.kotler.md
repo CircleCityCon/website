@@ -1,6 +1,7 @@
 ---
 title: "Itzik Kotler"
 bio_image: "/images/bios/itzik.kotler.jpeg"
+show_title: true
 talks:
   - talks/backdooring_with_metadata.md
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Aelon Porat"
 bio_image: "/images/bios/aelon.porat.png"
+show_title: true
 training:
    - training/intro_to_splunk_for_infosec_professionals.md
    - training/attack_and_defend_with_powershell_introduction.md

@@ -1,6 +1,7 @@
 ---
 title: "Jim Nitterauer"
 bio_image: "/images/bios/jim.nitterauer.jpeg"
+show_title: true
 training:
    - training/using_open_source_log_aggregation_tools_to_improve_enterprise_security.md
 ---

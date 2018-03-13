@@ -1,6 +1,7 @@
 ---
 title: "Lennart Koopmann"
 bio_image: "/images/bios/lennart.koopmann.jpeg"
+show_title: true
 training:
    - training/using_open_source_log_aggregation_tools_to_improve_enterprise_security.md
 ---

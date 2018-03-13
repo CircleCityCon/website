@@ -1,6 +1,7 @@
 ---
 title: "Chris Spehn"
 bio_image: "/images/bios/chris.spehn.png"
+show_title: true
 talks:
   - talks/greatsct_gotta_catch_em_awl.md
 ---

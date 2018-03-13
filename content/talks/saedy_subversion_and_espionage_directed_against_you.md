@@ -2,6 +2,7 @@
 title: "SAEDY: Subversion and Espionage Directed Against You"
 trainers:
   - "bios/judy.towers.md"
+show_title: true
 ---
 “Frequently, people who go along a treasonous path do not know they are on a treasonous path until it is too late”, per testimony of former CIA Director John Brennan, 2017. Definition of social engineering (SE): “any act that influences a person to take an action that may or may not be in their best interest”. Using an old US Army acronym called SAEDA, Subversion and Espionage Directed Against the Army, will discuss how today’s use of SE is essentially trade craft of espionage, commonly known as spying. 
 

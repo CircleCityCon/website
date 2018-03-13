@@ -2,6 +2,7 @@
 title: "The Never Ending Hack: Mental Health in InfoSec Community"
 trainers:
   - "bios/danny.akacki.md"
+show_title: true
 ---
 This is a presentation about feeling alone. It started out as a story of one hacker desperately looking for help, help to quell the noise and destruction in his own head. It quickly morphed into a call to arms to everyone in the security community fighting their own mental demons.
 

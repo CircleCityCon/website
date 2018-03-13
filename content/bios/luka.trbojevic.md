@@ -1,6 +1,7 @@
 ---
 title: "Luka Trbojevic"
 bio_image: "/images/bios/luka.trbojevic.jpeg"
+show_title: true
 talks:
   - talks/security_beyond_the_security_team_getting_everyone_involved.md
 ---

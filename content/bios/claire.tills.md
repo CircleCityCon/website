@@ -1,6 +1,7 @@
 ---
 title: "Claire Tills"
 bio_image: "/images/bios/claire.tills.jpeg"
+show_title: true
 training:
    - training/persuasive_communication_skills_for_security.md
 ---

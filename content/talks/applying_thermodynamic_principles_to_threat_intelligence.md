@@ -2,6 +2,7 @@
 title: "Applying Thermodynamic Principles to Threat Intelligence"
 trainers:
   - "bios/kyle.ehmke.md"
+show_title: true
 ---
 Kinetic and potential are different states of energy that describe the capability of an object to do work. Kinetic energy results from an object in motion, such as a moving car. Potential energy comes from an object’s position and may be converted into kinetic energy, such as holding a ball above the ground or a compressed spring. In countless applications scientists measure these forms of energy to better understand how an object will interact with its environment. We posit that these concepts can be applied to the cybersecurity world to apply and assess intelligence on indicators. 
 
