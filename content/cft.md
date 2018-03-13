@@ -4,7 +4,7 @@ linktitle: "CFT"
 featured_image: "/images/field-training.jpg"
 menu: None
 ---
-{{< button name="File your CFT Submission" href="https://ccc2018.busyconf.com/proposals/new" faicon="paper-plane" >}}
+{{< button name="CFT Submission is closed" href="https://circlecitycon.com/cft" faicon="paper-plane" >}}
 
 ### Submission Guidelines
 

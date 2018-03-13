@@ -33,7 +33,7 @@ description: >
                 <div class="header-strip-icon center">
                         <i class="fa fa-comments-o fa-4x" aria-hidden="true"></i>
                 </div>
-                <p class="center baffle">CFP is <strong>Open</strong></p>
+                <p class="center baffle">CFP is <strong>Closed</strong></p>
             </div>
         </a>
         <a class="tc white" href="/cft/">
@@ -41,7 +41,7 @@ description: >
                 <div class="header-strip-icon center">
                         <i class="fa fa-paper-plane fa-4x" aria-hidden="true"></i>
                 </div>
-                <p class="center baffle">CFT is <strong>Open</strong></p>
+                <p class="center baffle">CFT is <strong>Closed</strong></p>
             </div>
         </a>
     </div>
