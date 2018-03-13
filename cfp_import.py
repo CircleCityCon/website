@@ -1,4 +1,4 @@
-#!/usr/binenv python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 from csv import DictReader
 from jinja2 import Template
