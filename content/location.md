@@ -2,7 +2,7 @@
 title: "Location"
 linktitle: "Location"
 featured_image: "/images/indianapolis-circle.jpg"
-menu: "main"
+menu: None
 ---
 
 CircleCityCon this year is located at the beautiful [Westin Indianapolis](https://www.starwoodmeeting.com/events/start.action?id=1801116101&key=1CBE8A0B) in downtown Indianapolis.  We have been at the Westin in years past and the venue has worked well for us.  We also have a room block at the hotel ([Att00-1LM](https://www.starwoodmeeting.com/events/start.action?id=1801116101&key=1CBE8A0B)) available for you to use for accommodations at the venue. 
