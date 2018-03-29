@@ -8,10 +8,16 @@ description: >
 menu: "main"
 ---
 
-## CircleCity Crossroads 2018
+## CircleCity Crossroads
+
+* May 31, 2018 
+* 7:30 AM - 5:30 PM EDT
+
+* The Westin Indianapolis
 
 {{< button name="Get Your Tickets" href="https://www.eventbrite.com/e/circlecity-crossroads-tickets-43491785100" faicon="comments-o" >}}
 
+### About
 
 This year marks the launch of our inaugural CircleCityCrossroads. This is an executive summit, which is a joint partnership between CircleCityCon, Infragard, and ISSA. The summit will occur the day before the regular CircleCityCon conference.
 Infragard is a partnership between the FBI and members of the private sector, which provides a vehicle for seamless public-private collaboration with government that expedites the timely exchange of information and promotes mutual learning opportunities relevant to the protection of Critical Infrastructure. ISSA is an organization with local chapters that promotes the management of technology risk and protecting critical information and infrastructure.
