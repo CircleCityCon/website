@@ -19,29 +19,37 @@ If you are a C-level, Vice-President, or Executive Director with IT or Informati
 
 
 The following is the Agenda for the event:
-Agenda
-7:30   Breakfast/Registration
-8:30   Opening Ceremonies/Keynote
-9:30   Networking
-9:45   Session 1
-10:45 MidDay Refreshment/Networking
-11:00 Session 2
-12:00 Lunch/Keynote (Sponsored by SentinelOne)
-1:00   Session 3
-2:00   Midafternoon Refreshment/Networking
-2:15   Session 4
-3:15   Networking
-3:30   Session 5
-4:30   Break/Networking
-4:45   Closing Ceremonies/Keynote
-5:45   Networking
-6:00   Dinner/ISSA/Infragard Meeting
 
-        <a class="tc white" href="https://www.eventbrite.com/e/circlecity-crossroads-tickets-43491785100">
-            <div class="fl w-100 w-20-ns tc pv5 dim">
-                <div class="header-strip-icon center">
-                        <i class="fa fa-ticket fa-4x" aria-hidden="true"></i>
-                </div>
-                <p class="center baffle">Get your tickets</p>
-            </div>
-        </a>
+### Agenda
+
+* 7:30   Breakfast/Registration
+
+* 8:30   Opening Ceremonies/Keynote
+
+* 9:30   Networking
+
+* 9:45   Session 1
+
+* 10:45 MidDay Refreshment/Networking
+
+* 11:00 Session 2
+
+* 12:00 Lunch/Keynote (Sponsored by SentinelOne)
+
+* 1:00   Session 3
+
+* 2:00   Midafternoon Refreshment/Networking
+
+* 2:15   Session 4
+
+* 3:15   Networking
+
+* 3:30   Session 5
+
+* 4:30   Break/Networking
+
+* 4:45   Closing Ceremonies/Keynote
+
+* 5:45   Networking
+
+* 6:00   Dinner/ISSA/Infragard Meeting
