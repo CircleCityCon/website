@@ -15,7 +15,7 @@ menu: "main"
 
 * The Westin Indianapolis
 
-{{< button name="Get Your Tickets" href="https://www.eventbrite.com/e/circlecity-crossroads-tickets-43491785100" faicon="comments-o" >}}
+{{< button name="Get Your Tickets" href="https://www.eventbrite.com/e/circlecity-crossroads-tickets-43491785100" faicon="ticket" >}}
 
 ### About
 
