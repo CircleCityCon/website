@@ -3,14 +3,8 @@
     src: url('/spyagencyv3.ttf');
 }
 
-
-.header-icon-strip {
-    display: inline-block;
-}
-
-.header-icon-elem {
-    padding: 10px;
-}
+.header-icon-strip {display: inline-block}
+.header-icon-elem {padding: 10px}
 
 .header-icon-strip a {
     color: #fff;
@@ -18,14 +12,11 @@
     /*padding: 20px;*/
 }
 
-.header-icon-strip a:hover {
-    color: #999;
-}
+.header-icon-strip a:hover {color: #999}
+.font-spy {font-family: "SpyAgency"}
+.sepia {filter:grayscale(100%) sepia(25%)}
 
-.font-spy {
-    font-family: "SpyAgency"
-}
-
-.sepia {
-    filter:grayscale(100%) sepia(25%);
-}
+.i-m450 {width: 450px}
+.i-m400 {width: 400px}
+.i-m300 {width: 300px}
+.i-m200 {width: 200px}
