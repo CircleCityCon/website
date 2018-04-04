@@ -7,11 +7,30 @@
       {{ if .Site.Menus.main }}
         <ul class="pl0 mr3">
           {{ range .Site.Menus.main }}
-          <li class="list f4 f5-m fw4 dib-ns pr3">
-            <a class="dim no-underline white-90 baffle" href="{{ .URL }}" title="{{ .Name }} page">
-              {{ .Name }}
-            </a>
-          </li>
+            {{ if .HasChildren }}
+            <li class="list f4 f5-m fw4 dib-ns pr3 hide-child">
+              <a class="dim no-underline white-90 baffle" href="{{ .URL }}" title="{{ .Name }} page">
+                {{ .Name }}
+              </a>
+              <div class="child mw5-ns fixed-ns">
+                <ul class="list pl0 ml0 center mw5 bg-black-50">
+                {{ range .Children }}
+                  <li class="list ph3 pv1-ns pr3-s">
+                    <a class="dim no-underline white-90 baffle" href="{{ .URL }}" title="{{ .Name }} page">
+                      {{ .Name }}
+                    </a>
+                  </li>
+                {{ end }}
+                </ul>
+              </div>
+            </li>
+            {{ else }}
+            <li class="list f4 f5-m fw4 dib-ns pr3">
+              <a class="dim no-underline white-90 baffle" href="{{ .URL }}" title="{{ .Name }} page">
+                {{ .Name }}
+              </a>
+            </li>
+            {{ end }}
           {{ end }}
         </ul>
       {{ end }}

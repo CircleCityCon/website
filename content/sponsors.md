@@ -1,22 +1,23 @@
 ---
 title: "Sponsors"
 linktitle: "Sponsors"
+menu: "main"
 ---
 
 <!-- ## Diamond Sponsors -->
 
 ## Platinum Sponsors
 
-[<img src="/images/sponsors/sans.jpg" class="center" style="width:400px">][sans]
+[{{<figure src="/images/sponsors/sans.jpg" class="center w-50-ns">}}][sans]
 
 ## Gold Sponsors
 
-[<img src="/images/sponsors/ori.png" class="center" style="width:300px">][ori]
+[{{<figure src="/images/sponsors/ori.png" class="center w-40-ns">}}][ori]
 
 ## Silver Sponsors
 
-[<img src="/images/sponsors/sallie_mae.png" class="center" style="width:200px">][sallie_mae]
-[<img src="/images/sponsors/nexum.png" class="center" style="width:200px">][nexum]
+[{{<figure src="/images/sponsors/sallie_mae.jpg" class="center w-30-ns">}}][sallie_mae]
+[{{<figure src="/images/sponsors/nexum.jpg" class="center w-30-ns">}}][nexum]
 
 <!-- 
 ## Bronze Sponsors

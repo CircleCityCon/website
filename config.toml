@@ -24,3 +24,22 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   mainSections = ["news"]
+
+[menu]
+  [[menu.main]]
+  identifier  = "bios"
+  parent      = "Schedule"
+  name        = "Bios"
+  url         = "/bios/"
+
+  [[menu.main]]
+  identifier  = "talks"
+  parent      = "Schedule"
+  name        = "Talks"
+  url         = "/talks/"
+
+  [[menu.main]]
+  identifier  = "training"
+  parent      = "Schedule"
+  name        = "Training"
+  url         = "/training/"
