@@ -1,6 +1,6 @@
 ---
 title: "Jeff Man"
-bio_image: "/images/bios/jeff.man.jpeg"
+bio_image: "/images/bios/jeff.man.png"
 show_title: true
 talks:
   - talks/rethinking_cyber_security_given_the_spectre_of_a_meltdown_someone_hold_my_beer.md
