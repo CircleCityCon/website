@@ -1,6 +1,6 @@
 ---
 title: "Scot Terban"
-bio_image: "/images/bios/scot.terban.jpeg"
+bio_image: "/images/bios/scot.terban.png"
 show_title: true
 talks:
   - talks/keynote.md
