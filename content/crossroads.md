@@ -24,11 +24,24 @@ If you are a C-level, Vice-President, or Executive Director with IT or Informati
 [{{<figure src="/images/sponsors/mie.png" class="center w-50-ns">}}][mie]
 [{{<figure src="/images/sponsors/ori.png" class="center w-50-ns">}}][ori]
 [{{<figure src="/images/sponsors/cadre.png" class="center w-50-ns">}}][cad]
+[{{<figure src="/images/sponsors/symantec.jpg" class="center w-50-ns">}}][sym]
+
+## Silver Sponsors
+
+[{{<figure src="/images/sponsors/authentic8.jpg" class="center w-50-ns">}}][aut]
+
+## Bronze Sponsors
+
+[{{<figure src="/images/sponsors/qualys.png" class="center w-50-ns">}}][qua]
 
 [ori]: http://www.ori.net/
 [mie]: https://www.midwest-ix.com/
 [s1]: https://www.sentinelone.com/
 [cad]: https://www.cadre.net/
+[sym]: https://www.symantec.com/
+[aut]: https://info.authentic8.com/
+[qua]: https://www.qualys.com/
+
 
 ### Agenda
 
