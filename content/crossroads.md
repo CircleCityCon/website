@@ -18,13 +18,17 @@ If you are a C-level, Vice-President, or Executive Director with IT or Informati
 
 ### Sponsors
 
+## Gold Sponsors
+
 [{{<figure src="/images/sponsors/sentinelone.png" class="center w-50-ns">}}][s1]
 [{{<figure src="/images/sponsors/mie.png" class="center w-50-ns">}}][mie]
 [{{<figure src="/images/sponsors/ori.png" class="center w-50-ns">}}][ori]
+[{{<figure src="/images/sponsors/cadre.png" class="center w-50-ns">}}][cad]
 
 [ori]: http://www.ori.net/
 [mie]: https://www.midwest-ix.com/
 [s1]: https://www.sentinelone.com/
+[cad]: https://www.cadre.net/
 
 ### Agenda
 

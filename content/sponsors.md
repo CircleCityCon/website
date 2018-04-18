@@ -13,6 +13,7 @@ menu: "main"
 ## Gold Sponsors
 
 [{{<figure src="/images/sponsors/ori.png" class="center w-40-ns">}}][ori]
+[{{<figure src="/images/sponsors/cadre.png" class="center w-50-ns">}}][cad]
 
 ## Silver Sponsors
 
@@ -28,3 +29,4 @@ menu: "main"
 [ori]: http://www.ori.net/
 [sallie_mae]: https://www.salliemae.com/
 [nexum]: http://www.nexuminc.com/
+[cad]: https://www.cadre.net/
