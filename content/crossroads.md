@@ -25,6 +25,7 @@ If you are a C-level, Vice-President, or Executive Director with IT or Informati
 [{{<figure src="/images/sponsors/ori.png" class="center w-50-ns">}}][ori]
 [{{<figure src="/images/sponsors/cadre.png" class="center w-50-ns">}}][cad]
 [{{<figure src="/images/sponsors/symantec.jpg" class="center w-50-ns">}}][sym]
+[{{<figure src="/images/sponsors/datrium.png" class="center w-50-ns">}}][dat]
 
 ## Silver Sponsors
 
@@ -41,6 +42,7 @@ If you are a C-level, Vice-President, or Executive Director with IT or Informati
 [sym]: https://www.symantec.com/
 [aut]: https://info.authentic8.com/
 [qua]: https://www.qualys.com/
+[dat]: https://www.datrium.com/
 
 
 ### Agenda
