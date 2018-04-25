@@ -18,6 +18,10 @@ If you are a C-level, Vice-President, or Executive Director with IT or Informati
 
 ### Sponsors
 
+## Diamond Sponsors
+
+[{{<figure src="/images/sponsors/optiv.jpg" class="center w-50-ns">}}][opt]
+
 ## Gold Sponsors
 
 [{{<figure src="/images/sponsors/sentinelone.png" class="center w-50-ns">}}][s1]
@@ -43,6 +47,7 @@ If you are a C-level, Vice-President, or Executive Director with IT or Informati
 [aut]: https://info.authentic8.com/
 [qua]: https://www.qualys.com/
 [dat]: https://www.datrium.com/
+[opt]: https://www.optiv.com/
 
 
 ### Agenda
