@@ -8,13 +8,15 @@ description: >
 menu: "main"
 ---
 
-This year marks the launch of our inaugural CircleCityCrossroads. This is an executive summit, which is a joint partnership between CircleCityCon, Infragard, and ISSA. The summit will occur the day before the regular CircleCityCon conference.
+This year marks the launch of our inaugural CircleCityCrossroads. This is an executive summit, which is a joint partnership between CircleCityCon, Infragard, and ISSA.The summit will occur the day before the regular CircleCityCon conference.
 
-Infragard is a partnership between the FBI and members of the private sector, which provides a vehicle for seamless public-private collaboration with government that expedites the timely exchange of information and promotes mutual learning opportunities relevant to the protection of Critical Infrastructure. ISSA is an organization with local chapters that promotes the management of technology risk and protecting critical information and infrastructure.
 
 If you are a C-level, Vice-President, or Executive Director with IT or Information Security as your domain, we welcome you to join us for a day of networking, talks, panels, and executive round table discussions about topics that matter most to you!
 
+
 {{< button name="Get tickets" href="https://www.eventbrite.com/e/circlecity-crossroads-tickets-43491785100" faicon="ticket" >}}
+
+[{{<figure src="/images/bios/crossroad.keynote.jpg" class="center w-50-ns">}}][tic]
 
 ### Sponsors
 
@@ -48,25 +50,35 @@ If you are a C-level, Vice-President, or Executive Director with IT or Informati
 [qua]: https://www.qualys.com/
 [dat]: https://www.datrium.com/
 [opt]: https://www.optiv.com/
+[tic]: https://www.eventbrite.com/e/circlecity-crossroads-tickets-43491785100
 
 
 ### Agenda
 
 |         |                                           |
 |:-------:|:------------------------------------------|
-|**07:30**|Breakfast/Registration                     |
-|**08:30**|Opening Ceremonies/Keynote                 |
-|**09:30**|Networking                                 |
-|**09:45**|Session 1                                  |
-|**10:45**|MidDay Refreshment/Networking              |
-|**11:00**|Session 2                                  |
-|**12:00**|Lunch/Keynote (Sponsored by SentinelOne)   |
-|**13:00**|Session 3                                  |
-|**14:00**|Mid-afternoon Refreshment/Networking       |
-|**14:15**|Session 4                                  |
-|**15:15**|Networking                                 |
-|**15:30**|Session 5                                  |
-|**16:30**|Break/Networking                           |
-|**16:45**|Closing Ceremonies/Keynote                 |
-|**17:45**|Networking                                 |
-|**18:00**|Dinner/ISSA/Infragard Meeting              |
+|**08:00**|Breakfast and Registration
+|
+|**09:00**|Keynote - Steve Moore "Leadership and Career Development During a Breach"
+|
+|**10:15**|Session 
+|
+|**11:15**|Refreshments and Networking
+|
+|**11:30**|Session 
+|
+|**12:30**|SentinelOne Lunch/Keynote "TBD" - Jared Phipp
+|
+|**13:30**|Session
+|
+|**14:30**|Refreshments and Networking
+|
+|**14:45**|Session
+|
+|**15:45**|Refreshments and Networking
+|
+|**16:00**|Session
+|
+|**17:00**|Closing/Keynote
+|
+|**18:00**|Reception
