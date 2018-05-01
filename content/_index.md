@@ -1,6 +1,6 @@
 ---
 title: "spycraft"
-featured_image: "/images/noir-spy-logo.jpg"
+featured_image: "/images/logo2018.jpg"
 html_description: "yes"
 description: >
     <div class="cf mw7 center">
