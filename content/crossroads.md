@@ -16,7 +16,7 @@ If you are a C-level, Vice-President, or Executive Director with IT or Informati
 
 {{< button name="Get tickets" href="https://www.eventbrite.com/e/circlecity-crossroads-tickets-43491785100" faicon="ticket" >}}
 
-[{{<figure src="/images/bios/crossroad.keynote.jpg" class="center w-50-ns">}}][tic]
+[{{<figure src="/images/bios/crossroad.keynotes.jpg" class="center w-50-ns">}}][tic]
 
 ### Sponsors
 
