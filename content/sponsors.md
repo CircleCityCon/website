@@ -26,7 +26,7 @@ menu: "main"
 
 ## Bronze Sponsors
 [{{<figure src="/images/sponsors/cacr.png" class="center w-50-ns">}}][cacr]
-
+[{{<figure src="/images/sponsors/vdalabs.png" class="center w-50-ns">}}][vda]
 ## Basic Sponsors
 
 [{{<figure src="/images/sponsors/nostarch.jpg" class="center w-30-ns">}}][nostarch]
@@ -42,6 +42,8 @@ menu: "main"
 [nostarch]: https://nostarch.com/
 [mie]: https://www.midwest-ix.com/
 [cacr]: https://cacr.iu.edu/
+[vda]: https://www.vdalabs.com/
+
 
 
 
