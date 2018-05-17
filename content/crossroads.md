@@ -4,7 +4,7 @@ linktitle: "Crossroads"
 featured_image: "/images/black_bg.png"
 html_description: "yes"
 description: >
-  <img src="/images/crossroads.jpg" style="width:100vw;height:100vh">/>
+  <img src="/images/crossroads.jpg" style="width:100%;height:auto">/>
 menu: "main"
 ---
 
