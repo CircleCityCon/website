@@ -4,7 +4,7 @@ linktitle: "Crossroads"
 featured_image: "/images/black_bg.png"
 html_description: "yes"
 description: >
-  <img src="/images/ccc_cmyk-01_no-outer.png" style="width:500px"/>
+  <img src="/images/crossroads.jpg" style="width:500px"/>
 menu: "main"
 ---
 
@@ -32,14 +32,17 @@ If you are a C-level, Vice-President, or Executive Director with IT or Informati
 [{{<figure src="/images/sponsors/cadre.png" class="center w-50-ns">}}][cad]
 [{{<figure src="/images/sponsors/symantec.jpg" class="center w-50-ns">}}][sym]
 [{{<figure src="/images/sponsors/datrium.png" class="center w-50-ns">}}][dat]
+[{{<figure src="/images/sponsors/zscaler.png" class="center w-50-ns">}}][zca]
 
 ## Silver Sponsors
 
 [{{<figure src="/images/sponsors/authentic8.jpg" class="center w-50-ns">}}][aut]
+[{{<figure src="/images/sponsors/veracode.png" class="center w-50-ns">}}][ver]
 
 ## Bronze Sponsors
 
 [{{<figure src="/images/sponsors/qualys.png" class="center w-50-ns">}}][qua]
+[{{<figure src="/images/sponsors/cacr.png" class="center w-50-ns">}}][cacr]
 
 [ori]: http://www.ori.net/
 [mie]: https://www.midwest-ix.com/
@@ -51,6 +54,9 @@ If you are a C-level, Vice-President, or Executive Director with IT or Informati
 [dat]: https://www.datrium.com/
 [opt]: https://www.optiv.com/
 [tic]: https://www.eventbrite.com/e/circlecity-crossroads-tickets-43491785100
+[ver]: https://www.veracode.com
+[cacr]: https://cacr.iu.edu/
+[zca]: https://www.zscaler.com/
 
 
 ### Agenda

@@ -23,9 +23,9 @@ menu: "main"
 [{{<figure src="/images/sponsors/nexum.jpg" class="center w-30-ns">}}][nexum]
 [{{<figure src="/images/sponsors/rapid7.png" class="center w-30-ns">}}][rapid7]
 
-<!-- 
+
 ## Bronze Sponsors
--->
+[{{<figure src="/images/sponsors/cacr.png" class="center w-50-ns">}}][cacr]
 
 ## Basic Sponsors
 
@@ -41,6 +41,7 @@ menu: "main"
 [rapid7]: https://www.rapid7.com/
 [nostarch]: https://nostarch.com/
 [mie]: https://www.midwest-ix.com/
+[cacr]: https://cacr.iu.edu/
 
 
 
