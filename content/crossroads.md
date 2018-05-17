@@ -7,6 +7,8 @@ description: >
 menu: "main"
 ---
 
+[{{<figure src="/images/crossroads.jpg" style="width:100%;height:auto">}}][tic]
+
 This year marks the launch of our inaugural CircleCityCrossroads. This is an executive summit, which is a joint partnership between CircleCityCon, Infragard, and ISSA.The summit will occur the day before the regular CircleCityCon conference.
 
 
