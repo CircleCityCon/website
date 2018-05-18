@@ -4,6 +4,14 @@ featured_image: "/images/minox.jpg"
 html_description: "yes"
 description: >
   <img src="/images/crossroads.jpg" style="width:100%;height:auto">/>
+  <div class="items-center center">
+    <ul class="pl0">
+      <li class="list f4 f5-m fw4 dib-ns pr5 font-spy">
+        <a class="dim no-underline white-90 baffle" href="/schedulecr">Schedule</a>
+      </li>
+      <li class="list f4 f5-m fw4 dib-ns pr5 font-spy">
+        <a class="dim no-underline white-90 baffle" href="/sponsorscr">Sponsors</a>
+      </li>
 ---
 
 <!-- ## Diamond Sponsors -->
@@ -41,7 +49,6 @@ description: >
 [qua]: https://www.qualys.com/
 [dat]: https://www.datrium.com/
 [opt]: https://www.optiv.com/
-[tic]: https://www.eventbrite.com/e/circlecity-crossroads-tickets-43491785100
 [ver]: https://www.veracode.com
 [cacr]: https://cacr.iu.edu/
 [zca]: https://www.zscaler.com/
