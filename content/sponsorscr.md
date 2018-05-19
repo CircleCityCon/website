@@ -7,10 +7,10 @@ description: >
   <div class="items-center center">
     <ul class="pl0">
       <li class="list f4 f5-m fw4 dib-ns pr5 font-spy">
-        <a class="dim no-underline white-90 baffle" href="/schedulecr">Schedule</a>
+        <a class="dim no-underline white-90 baffle" href="/crossroads">Tickets</a>
       </li>
       <li class="list f4 f5-m fw4 dib-ns pr5 font-spy">
-        <a class="dim no-underline white-90 baffle" href="/sponsorscr">Sponsors</a>
+        <a class="dim no-underline white-90 baffle" href="/schedulecr">Schedule</a>
       </li>
 ---
 
