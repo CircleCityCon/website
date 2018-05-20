@@ -1,6 +1,5 @@
 ---
-title: "Schedule"
-menu: "main"
+title: "Socio"
 featured_image: "/images/minox.jpg"
 html_description: "yes"
 description: >
@@ -16,8 +15,9 @@ description: >
         <a class="dim no-underline white-90 baffle" href="/training/">training</a>
       </li>
       <li class="list f4 f5-m fw4 dib-ns font-spy">
-        <a class="dim no-underline white-90 baffle" href="/socio">socio</a>
+        <a class="dim no-underline white-90 baffle" href="/schedule">schedule</a>
       </li>
+
 
 ---
 
@@ -50,6 +50,6 @@ description: >
     style="width: calc(100% - 70px)"
     frameborder="0"
     onload="setIframeHeight(this.id)"
-    src="https://ccc2018.busyconf.com/schedule"
+    src="https://app.socio.events/#/event/MjAxMA==/overview"
     ></iframe>
 </div>

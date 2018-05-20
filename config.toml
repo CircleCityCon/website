@@ -43,3 +43,9 @@ enableRobotsTXT = true
   parent      = "Schedule"
   name        = "Training"
   url         = "/training/"
+  
+  [[menu.main]]
+  identifier  = "socio"
+  parent      = "Schedule"
+  name        = "Socio"
+  url         = "/socio"
