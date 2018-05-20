@@ -14,10 +14,6 @@ description: >
       <li class="list f4 f5-m fw4 dib-ns font-spy">
         <a class="dim no-underline white-90 baffle" href="/training/">training</a>
       </li>
-      <li class="list f4 f5-m fw4 dib-ns font-spy">
-        <a class="dim no-underline white-90 baffle" href="/schedule">schedule</a>
-      </li>
-
 
 ---
 
