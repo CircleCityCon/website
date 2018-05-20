@@ -1,5 +1,5 @@
 ---
-title:"A Deep Dive Into DEX"
+title: "A Deep Dive Into DEX"
 trainers:
   - "bios/andy.giannini.md"
 show_title: true

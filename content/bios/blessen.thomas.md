@@ -1,6 +1,7 @@
 ---
 title: "Blessen Thomas"
-featured_image: "/images/bios/blessen.thomas.png"
+bio_image: "/images/bios/blessen.thomas.png"
+show_title: true
 training:
   - training/mobile_sec_exploitation_breakout.md
 ---

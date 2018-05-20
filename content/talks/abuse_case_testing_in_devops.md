@@ -1,5 +1,5 @@
 ---
-title:"Abuse Case Testing in DevOps"
+title: "Abuse Case Testing in DevOps"
 trainers:
   - "bios/stephen.deck.md"
 show_title: true
