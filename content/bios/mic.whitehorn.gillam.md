@@ -1,6 +1,6 @@
 ---
 title: "Mic	Whitehorn-Gillam"
-featured_image: "/images/bios/mic.whitehorn.gillam.png"
+featured_image: "/images/bios/mic.whitehorn.gillam.jpeg"
 training:
   - training/awesome_client_side_attacks.md
 ---

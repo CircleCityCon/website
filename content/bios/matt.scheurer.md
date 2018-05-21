@@ -1,6 +1,6 @@
 ---
 title: "Matt Scheurer"
-bio_image: "/images/bios/matt.scheurer.png"
+bio_image: "/images/bios/matt.scheurer.jpeg"
 show_title: true
 talks:
   - talks/phishing_forensics.md

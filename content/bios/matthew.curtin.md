@@ -1,6 +1,6 @@
 ---
 title: "Matthew Curtin"
-bio_image: "/images/bios/matthew.curtin.png"
+bio_image: "/images/bios/matthew.curtin.jpeg"
 show_title: true
 talks:
   - talks/operator_the_well_rounded_hacker.md

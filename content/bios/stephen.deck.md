@@ -1,6 +1,6 @@
 ---
 title: "Stephen Deck"
-bio_image: "/images/bios/stephen.deck.jpeg"
+bio_image: "/images/bios/stephen.deck.png"
 show_title: true
 talks:
   - talks/abuse_case_testing_in_devops.md

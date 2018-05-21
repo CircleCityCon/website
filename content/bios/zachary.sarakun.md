@@ -1,6 +1,6 @@
 ---
 title: "Zachary Sarakun"
-bio_image: "/images/bios/zachary.sarakun.png"
+bio_image: "/images/bios/zachary.sarakun.jpeg"
 show_title: true
 talks:
   - talks/classic_cons_in_cryptocurrency.md

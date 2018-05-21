@@ -1,6 +1,6 @@
 ---
 title: "Andy Giannini"
-bio_image: "/images/bios/andy.giannini.jpeg"
+bio_image: "/images/bios/andy.giannini.png"
 show_title: true
 talks:
   - talks/a_deep_dive_into_dex.md
