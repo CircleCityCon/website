@@ -1,0 +1,23 @@
+language: python
+addons:
+  apt:
+    packages:
+      - python-pygments
+install:
+- wget https://github.com/gohugoio/hugo/releases/download/v0.49.2/hugo_0.49.2_Linux-64bit.deb
+- sudo dpkg -i hugo_0.49.2_Linux-64bit.deb
+- rm -f hugo_0.49.2_Linux-64bit.deb
+script:
+- git submodule update --init
+- hugo
+deploy:
+  local-dir: public
+  provider: pages
+  skip-cleanup: true
+  email: "$GITHUB_EMAIL"
+  name: "$GITHUB_USERNAME"
+  github_token: "$GITHUB_TOKEN"
+  fqdn: circlecitycon.com
+notifications:
+  slack:
+    secure: UJ5vS0fIunMme095Ac4NIJBd29Ms2wxP7cLHUT8anB4b2wxvVtwUnTisU44ZAIkTR+f+JlhnsA6ko9qlWEizhlzkIhysevTom6xILwO9vFxudtrniWc4EWmDJlzOYXYcbUWbxZsunxypWO5q1R2vB+SsZBzsy7PbPhrxYpZOfJXnkeyPVacEBsec2HwC9ygdcl1r5H0HClhxWPQdAo5vnxjq4cNDOXwiYfgSjRCvReOkg4CmODiS4+vM1zMCNxrsBhNB8+etIHbgquAm1l8PvxsFEgbCXrDh1ASGAeO1u3cUyhfB+vz23OCU6KA8pwOZwZ/iR8ybo6nRO9Hcr4dgti6ahZFdtlWCbnUwv5xHS2aJma/8Sp9+pD9Nauz+04Fx/SHZ2wMIjoU4aCOHV88Uxnm2jAAEkos9pMLQB3xEzSGaaQff2WQdia6joun2h0+KcloUwKikpgH9fWbrt4Kd3w4iIwusNeMlNEC276hhZ8puyETwN2/n6ryUnamWRjbK9n1ry8/LHqWPoxJ0dDD3wnhHw4bDFhM/786s++RKoyhYJWs801qYArcICfaW26a/sBlDZUm14F2ZCo1zkdOQKOjmz8RviDcyJTBiIaPvZMC3vEr0c+mmocse1LQF0Z+EP4mocttQRi1imnDoG6eQdSwPGPATBq0iwod1ajyHDrg=

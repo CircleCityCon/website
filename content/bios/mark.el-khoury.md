@@ -1,8 +1,0 @@
----
-title: "Mark El-Khoury"
-bio_image: "/images/bios/mark.el-khoury.jpeg"
-show_title: true
-training:
-   - training/wifi_training.md
----
-Mark El-Khoury is a Security Consultant with NCC Group, a global information assurance specialist providing organizations with expert security consulting services. Mark has been with NCC Group for two years, working primarily from the New York City office. Mark is very passionate about breaking and abusing software systems, and has been doing so since childhood. Surrounded by avid hackers at NCC Group, Mark focuses on figuring out new ways to make your computer misbehave - and then finding a fix so that mischievous people can't do the same. Mark graduated from Syracuse University with a Master's degree in Computer Science, and has participated in many programming contests, including ACM ICPC, IEEE Xtreme, and Topcoder matches. Mark has been involved in a wide variety of security assessments, which range from large web applications in various environments and frameworks, to native desktop applications. Mark also specializes in internal and external network infrastructure penetration testing, including IEEE 802.11 wireless assessments for which he holds a security certification.

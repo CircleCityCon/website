@@ -1,6 +1,9 @@
 ---
 title: "Archives"
-featured_image: "/images/archive-papers.jpg"
+url: "/archives"
+menu:
+  main:
+    parent: "info"
 ---
 
 Sites of CircleCityCon past live here.
@@ -9,3 +12,4 @@ Sites of CircleCityCon past live here.
 * [**CircleCityCon 2.0: Retro _(2015)_**](http://archive.circlecitycon.com/2015)
 * [**CircleCityCon 3.0: Game of Pwns _(2016)_**](https://web.archive.org/web/20160503040128/https://circlecitycon.com/)
 * [**CircleCityCon 4.0: Camp Circle City _(2017)_**](https://web.archive.org/web/20170607002212/https://circlecitycon.com/)
+* [**CircleCityCon 5.0: The spies among us _(2018)_**](https://web.archive.org/web/20180614130213/http://circlecitycon.com/)
