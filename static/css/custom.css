@@ -16,17 +16,31 @@
 }
 
 .home-carousel {
-    background: url('../img/bg4.jpg') center center repeat;
+    background: url('../img/mission_control_60s.jpg') center;
+    background-size: cover;
 }
 
 .home-carousel .dark-mask {
-    opacity: 0.2;
+    opacity: 0.6;
+    background: #555555;
 }
 
 #heading-breadcrumbs {
-    background: url('../img/apollo11.jpg') center center repeat;
+    background: url('../img/armstrong_apollo11.jpg') center;
+    background-size: cover;
 }
 
 #heading-breadcrumbs h1 {
-    color: #fff;
+  color: white;
+  text-transform: lowercase;
+  font-family: "Offside", cursive;
+}
+
+#heading-breadcrumbs .container {
+  padding: 5px, 0px;
+  background: rgba(85, 85, 85, 0.6);
+}
+
+img[alt=loc] {
+    width: 100%;
 }

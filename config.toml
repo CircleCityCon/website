@@ -95,7 +95,7 @@ paginate = 10
   # Enable the contact form by entering your Formspree.io email
   #email = "your@email.com"
 
-  about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+  about_us = "<p>Indianapolis' Premiere Information Security Conference</p>"
   copyright = "Copyright (c) 2014 - 2019, CircleCityCon, LLC; all rights reserved."
 
   # Format dates with Go's time formatting
@@ -103,17 +103,12 @@ paginate = 10
 
   logo = "img/logo.png"
   logo_small = "img/logo-small.png"
-  address = """<p><strong>Universal Ltd.</strong>
-      <br>13/25 New Avenue
-      <br>Newtown upon River
-      <br>45Y 73J
-      <br>England
-      <br>
-      <strong>Great Britain</strong>
+  address = """<p><strong>CircleCityCon, LLC.</strong>
+      <br><a href="mailto:info@circlecitycon.com">info@circlecitycon.com</a>
     </p>
     """
-  latitude = "-12.043333"
-  longitude = "-77.028333"
+  latitude = ""
+  longitude = ""
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
