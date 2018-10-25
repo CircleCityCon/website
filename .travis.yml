@@ -2,7 +2,7 @@ language: python
 install:
 - wget https://github.com/gohugoio/hugo/releases/download/v0.49.2/hugo_extended_0.49.2_Linux-64bit.deb
 - sudo dpkg -i hugo_extended_0.49.2_Linux-64bit.deb
-- pipo install Pygments
+- pip install Pygments
 script:
 - git submodule update --init
 - hugo
