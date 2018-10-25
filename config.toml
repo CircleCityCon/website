@@ -1,4 +1,4 @@
-baseurl = "https://circlecitycon.com"
+baseurl = "https://circlecitycon.com/"
 title = "CircleCityCon 6.0"
 theme = "universal"
 languageCode = "en-us"
@@ -7,7 +7,7 @@ defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-57265159-1"
 
 # Define the number of posts per page
 paginate = 10
