@@ -1,8 +1,7 @@
-language: go
-go:
-  - master
 install:
-  - go get github.com/spf13/hugo
+  - sudo apt-get -y update
+  - sudo apt-get -y install hugo
+  - git submodule update --init 
 script:
   - hugo
 deploy:
