@@ -1,0 +1,12 @@
+language: go
+go:
+  - master
+install:
+  - go get github.com/spf13/hugo
+script:
+  - hugo
+deploy:
+  local-dir: public
+  provider: pages
+  github_token: $GITHUB_TOKEN
+  fqdn: circlecitycon.com
