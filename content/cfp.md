@@ -1,10 +1,16 @@
 ---
 title: "Call for Papers"
 linktitle: "CFP"
-featured_image: "/images/sab-field-manual.jpg"
-menu: None
+menu:
+  main:
+    parent: "ccc"
 ---
-{{< button name="CFP Submission is now closed" href="https://circlecitycon.com/cfp" faicon="comments-o" >}}
+<button type="button" disabled
+  class="btn btn-template-main" 
+  href="https://circlecitycon.com/cfp">
+  <i class="fa fa-comments-o" aria-hidden="true"></i>
+  CFP Submission is closed
+</button>
 
 ### Submission Guidelines
 

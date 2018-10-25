@@ -1,10 +1,16 @@
 ---
 title: "Call for Training"
 linktitle: "CFT"
-featured_image: "/images/field-training.jpg"
-menu: None
+menu:
+  main:
+    parent: "ccc"
 ---
-{{< button name="CFT Submission is closed" href="https://circlecitycon.com/cft" faicon="paper-plane" >}}
+<button type="button" disabled
+  class="btn btn-template-main" 
+  href="https://circlecitycon.com/cfp">
+  <i class="fa fa-comments-o" aria-hidden="true"></i>
+  CFT Submission is closed
+</button>
 
 ### Submission Guidelines
 

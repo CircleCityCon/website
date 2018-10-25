@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Offside');
+
+/* .home-carousel h1, .home-carousel p, .navbar-nav, */
+
+.heading h1, .heading h2, .heading h3, .heading h4, 
+.heading h5, .heading h6, .home-carousel p, .navbar-nav,
+.home-carousel h1, .home-carousel p, .home-carousel li,
+.box-simple h3, #footer h4, .navbar ul.dropdown-menu li a {
+    text-transform: lowercase;
+    font-family: "Offside", cursive;
+}
+
+.navbar ul.nav > li > a {
+    text-decoration: none;
+    text-transform: lowercase;
+}
+
+.home-carousel {
+    background: url('../img/bg4.jpg') center center repeat;
+}
+
+.home-carousel .dark-mask {
+    opacity: 0.2;
+}
+
+#heading-breadcrumbs {
+    background: url('../img/apollo11.jpg') center center repeat;
+}
+
+#heading-breadcrumbs h1 {
+    color: #fff;
+}

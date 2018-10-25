@@ -1,7 +1,8 @@
 ---
 title: "Policies"
-featured_image: "/images/book_stack.jpg"
-menu: None
+menu:
+  main:
+    parent: "info"
 ---
 
 # Code of Conduct
