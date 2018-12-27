@@ -5,12 +5,14 @@ menu:
   main:
     parent: "ccc"
 ---
+<a href="https://ccc2019cft.busyconf.com/proposals/new">
 <button type="button" enabled
   class="btn btn-template-main" 
   href="https://ccc2019cft.busyconf.com/proposals/new">
   <i class="fa fa-comments-o" aria-hidden="false"></i>
-  CFT Submission is opened
+  File your CFT Submission
 </button>
+</a>
 
 ### Submission Guidelines
 
