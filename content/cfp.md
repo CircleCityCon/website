@@ -5,11 +5,12 @@ menu:
   main:
     parent: "ccc"
 ---
-<button type="button" disabled
+
+<button type="button" enabled
   class="btn btn-template-main" 
-  href="https://circlecitycon.com/cfp">
-  <i class="fa fa-comments-o" aria-hidden="true"></i>
-  CFP Submission is closed
+  href="https://ccc2019cfp.busyconf.com/proposals/new">
+  <i class="fa fa-comments-o" aria-hidden="false"></i>
+  File your CFP Submission
 </button>
 
 ### Submission Guidelines
@@ -31,12 +32,12 @@ We will do our best to accommodate equipment needs, but presenters are responsib
 
 ### Important Dates
 
-* **December 5th, 2017**: Call For Papers Opens
-* **January 26th, 2018**: _First Round_ closes
-* **February 9th, 2018**: _First Round_ notifications sent
-* **March 3rd, 2018**: _Second Round_ closes
-* **March 17th, 2018**: _Second Round_ notifications sent
-* **May 30th - June 3rd, 2018**: Crossroads and CircleCityCon
+* **December 27th, 2018**: Call For Papers Opens
+* **January 26th, 2019**: _First Round_ closes
+* **February 9th, 2019**: _First Round_ notifications sent
+* **March 3rd, 2019**: _Second Round_ closes
+* **March 15th, 2019**: _Second Round_ notifications sent
+* **May 31st - June 2nd, 2019**: Crossroads and CircleCityCon
 
 ### Review Process
 
