@@ -5,14 +5,13 @@ menu:
   main:
     parent: "ccc"
 ---
-
+<a href="https://ccc2019cfp.busyconf.com/proposals/new">
 <button type="button" enabled
   class="btn btn-template-main" 
-  <a href="https://ccc2019cfp.busyconf.com/proposals/new"</a>
   <i class="fa fa-comments-o" aria-hidden="false"></i>
   File your CFP Submission
 </button>
-
+</a>
 
 ### Submission Guidelines
 
