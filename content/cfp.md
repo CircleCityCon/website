@@ -5,7 +5,13 @@ menu:
   main:
     parent: "ccc"
 ---
-{{< button name="File your CFP Submission" href="https://ccc2019cfp.busyconf.com/proposals/new" faicon="comments-o" >}}
+
+<button type="button" enabled
+  class="btn btn-template-main" 
+  <a href="https://ccc2019cfp.busyconf.com/proposals/new"</a>
+  <i class="fa fa-comments-o" aria-hidden="false"></i>
+  File your CFP Submission
+</button>
 
 
 ### Submission Guidelines
