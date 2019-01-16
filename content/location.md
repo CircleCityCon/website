@@ -5,7 +5,8 @@ menu:
     parent: "ccc"
 ---
 
-CircleCityCon this year is located at the beautiful [Westin Indianapolis](https://www.starwoodmeeting.com/events/start.action?id=1801116101&key=1CBE8A0B) in downtown Indianapolis.  We have been at the Westin in years past and the venue has worked well for us.  We also have a room block at the hotel (not yet available) available for you to use for accommodations at the venue. 
+CircleCityCon this year is located at the beautiful [Westin Indianapolis](https://www.starwoodmeeting.com/events/start.action?id=1543956353781&key=GRP&app=resvlink) in downtown Indianapolis.  We have been at the Westin in years past and the venue has worked well for us.  We also have a room block at the hotel  ([Att00-1LM](https://www.marriott.com/event-reservations/reservation-link.mi?id=1543956353781&key=GRP&app=resvlink)) available for you to use for accommodations at the venue. 
+
 
 
 ## Some information to get you started in the area:
