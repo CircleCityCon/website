@@ -40,8 +40,8 @@ We will do our best to accommodate equipment needs, but presenters are responsib
 * **December 27th, 2018**: Call For Papers Opens
 * **January 26th, 2019**: _First Round_ closes
 * **February 9th, 2019**: _First Round_ notifications sent
-* **March 3rd, 2019**: _Second Round_ closes
-* **March 15th, 2019**: _Second Round_ notifications sent
+* **March 22nd, 2019**: _Second Round_ closes
+* **March 25th, 2019**: _Second Round_ notifications sent
 * **May 31st - June 2nd, 2019**: CircleCityCon
 
 ### Review Process
