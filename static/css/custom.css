@@ -1,13 +1,18 @@
-@import url('https://fonts.googleapis.com/css?family=Offside');
+/* @import url('https://fonts.googleapis.com/css?family=Offside'); */
+@font-face {
+    font-family: Nasa;
+    src: local("Nasa"), url("/Nasa.ttf");
+    font-weight: bold;
+}
 
 /* .home-carousel h1, .home-carousel p, .navbar-nav, */
 
 .heading h1, .heading h2, .heading h3, .heading h4, 
 .heading h5, .heading h6, .home-carousel p, .navbar-nav,
 .home-carousel h1, .home-carousel p, .home-carousel li,
-.box-simple h3, #footer h4, .navbar ul.dropdown-menu li a {
+.box-simple h3, #footer h4, .navbar ul.dropdown-menu li a, h3, .btn-template-main {
     text-transform: lowercase;
-    font-family: "Offside", cursive;
+    font-family: "Nasa", cursive;
 }
 
 .navbar ul.nav > li > a {
@@ -26,14 +31,14 @@
 }
 
 #heading-breadcrumbs {
-    background: url('../img/armstrong_apollo11.png') center;
+    background: url('../img/armstrong_apollo11.jpg') center;
     background-size: cover;
 }
 
 #heading-breadcrumbs h1 {
   color: white;
   text-transform: lowercase;
-  font-family: "Offside", cursive;
+  font-family: "Nasa", cursive;
 }
 
 #heading-breadcrumbs .container {
