@@ -26,7 +26,7 @@
 }
 
 #heading-breadcrumbs {
-    background: url('../img/armstrong_apollo11.jpg') center;
+    background: url('../img/armstrong_apollo11.png') center;
     background-size: cover;
 }
 
@@ -44,3 +44,9 @@
 img[alt=loc] {
     width: 100%;
 }
+
+.center-block {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
