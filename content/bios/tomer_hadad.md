@@ -14,4 +14,4 @@ My role as the Subject Matter Expert of application security, includes performin
 - RFID systems.
 I have trained and developed tens of consultants, written training sessions and courses, and have developed tools and scripts in various fields.
 
-* **talk** [iOS apps hacking just got a lot easier](/talk/ios_apps_hacking_just_got_a_lot_easier)
+* **talk** [iOS apps hacking just got a lot easier](/talks/ios_apps_hacking_just_got_a_lot_easier)

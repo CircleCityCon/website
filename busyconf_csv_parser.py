@@ -106,7 +106,7 @@ class Talk:
         Returns the computed URL for the talk
         '''
         return '/{}/{}'.format(
-            self.type.lower(),
+            'talks' if self.type.lower() == 'talk' else self.type.lower(),
             re.sub(r'[^A-Za-z0-9\_]+', '', self.title.lower().replace(' ','_')))
     
     @property
