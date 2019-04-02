@@ -1,3 +1,5 @@
 .DS_Store
 public
 docs
+/busyconf_events.json
+.python-version
