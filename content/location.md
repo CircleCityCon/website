@@ -14,4 +14,4 @@ CircleCityCon this year is located at the beautiful [Westin Indianapolis](https:
 * [Google Map](https://goo.gl/maps/kBC5sbv4iH22)
 * [Yelp ratings for walkable restaurants](https://www.yelp.com/search?find_desc=Restaurants&find_loc=Indianapolis,+IN&start=0&l=g:-86.15293979644775,39.772674225771276,-86.16581439971924,39.762778239695216)
 
-![loc](http://www.starwoodhotels.com//pub/media/1033/wes1033ex.123308_tt.jpg)
+![loc](https://cache.marriott.com/marriottassets/marriott/INDWI/indwi-exterior-3308-hor-clsc.jpg?interpolation=progressive-bilinear&downsize=*:423px)
