@@ -36,6 +36,23 @@ paginate = 10
   name = "info"
   weight = 4
 
+[[menu.main]]
+  identifier = "bios"
+  name = "bios"
+  parent = "ccc"
+  url = "/bios"
+
+[[menu.main]]
+  identifier = "talks"
+  name = "talks"
+  parent = "ccc"
+  url = "/talks"
+
+[[menu.main]]
+  identifier = "training"
+  name = "training"
+  parent = "ccc"
+  url = "/training"
 
 # Top bar social links menu
 [[menu.topbar]]
