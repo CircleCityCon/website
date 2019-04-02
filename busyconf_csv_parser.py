@@ -175,10 +175,9 @@ def process(report, overwrite, avatars_path, bios_path, talks_path, workshops_pa
     for speaker in speakers:
         biofile = os.path.join(bios_path, speaker.filename)
         avatarfile = os.path.join(avatars_path, speaker.avatar_filename)
-        if not os.path.exists(biofile) or overwrite:
-            print('Writing Bio {}'.format(biofile))
-            with open(biofile, 'w') as bio:
-                bio.write(speaker.markdown)
+        print('Writing Bio {}'.format(biofile))
+        with open(biofile, 'w') as bio:
+            bio.write(speaker.markdown)
         
         if not os.path.exists(avatarfile) or overwrite:
             print('Writing Avatar image {}'.format(avatarfile))
@@ -187,10 +186,9 @@ def process(report, overwrite, avatars_path, bios_path, talks_path, workshops_pa
     
     for talk in talks:
         talkfile = os.path.join(talks_path, talk.filename)
-        if not os.path.exists(talkfile) or overwrite:
-            print('Writing Talk {}'.format(talkfile))
-            with open(talkfile, 'w') as tobj:
-                tobj.write(talk.markdown)
+        print('Writing Talk {}'.format(talkfile))
+        with open(talkfile, 'w') as tobj:
+            tobj.write(talk.markdown)
 
 
 if __name__ == '__main__':
