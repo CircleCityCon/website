@@ -14,10 +14,10 @@ This year we are pleased to return with even more content and great discussions 
 If you are a C-level, Vice-President, or Executive Director with IT or Information Security as your domain, we welcome you to join us for a day of networking, talks, panels, and executive round table discussions about topics that matter most to you!
 
 
-<button type="button" disabled
+<button type="button" enable
   class="btn btn-template-main" 
   href="https://www.eventbrite.com/e/circlecitycrossroads-2019-tickets-56662514105">
-  <i class="fa fa-ticket" aria-hidden="true"></i>
+  <i class="fa fa-ticket" aria-hidden="false"></i>
   Get Tickets
 </button>
 
