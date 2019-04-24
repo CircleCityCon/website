@@ -1,5 +1,5 @@
 ---
-title: "•	Star Wars: How an ineffective Data Governance Program destroyed the Galactic Empire"
+title: "Star Wars: How an ineffective Data Governance Program destroyed the Galactic Empire"
 
 ---
 
