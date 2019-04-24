@@ -1,0 +1,48 @@
+<!-- *** LEFT COLUMN *** -->
+<div class="col-md-9" id="blog-listing-medium">
+    {{ range .Paginator.Pages }}
+    <section class="post">
+        <div class="row">
+            <div>
+                <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                <p class="intro">{{ .Summary }}</p>
+                <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-template-main">More Details</a>
+                </p>
+            </div>
+        </div>
+    </section>
+    {{ end }}
+
+    <ul class="pager">
+        {{ if .Paginator.HasPrev }}
+        <li class="previous"><a href="{{ .Site.BaseURL }}{{ .Paginator.Prev.URL }}">&larr; previous</a></li>
+        {{ else }}
+        <li class="previous disabled"><a href="#">&larr; previous</a></li>
+        {{ end }}
+
+        {{ if .Paginator.HasNext }}
+        <li class="next"><a href="{{ .Site.BaseURL }}{{ .Paginator.Next.URL }}">next &rarr;</a></li>
+        {{ else }}
+        <li class="next disabled"><a href="#">next &rarr;</a></li>
+        {{ end }}
+    </ul>
+</div>
+<!-- /.col-md-9 -->
+
+<!-- *** LEFT COLUMN END *** -->
+
+<!-- *** RIGHT COLUMN ***
+_________________________________________________________ -->
+
+<div class="col-md-3">
+
+    <!-- *** MENUS AND WIDGETS *** -->
+
+    {{ partial "sidebar.html" . }}
+
+    <!-- *** MENUS AND FILTERS END *** -->
+
+</div>
+<!-- /.col-md-3 -->
+
+<!-- *** RIGHT COLUMN END *** -->
