@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup as soup
 import click, json, re, os, requests
 
 def fix_string(obj):
-    return obj.replace('Äú', '"').replace('Äô', '\'')
+    return obj.replace('Äú', '"').replace('Äô', '\'').replace('\n    ', '\n')
 
 class Speaker:
     def __init__(self, row, speaker_number=1, url_path='bios'):
@@ -30,6 +30,10 @@ class Speaker:
         Returns the full name of the speaker.
         '''
         return '{} {}'.format(self.first_name, self.last_name)
+
+    @property
+    def escaped_name(self):
+        return self.full_name.replace('"', '\\"')
 
     @property
     def url(self):
@@ -73,7 +77,7 @@ class Speaker:
         '''
         return Template('\n'.join([
             '---',
-            'title: "{{ speaker.full_name|title }}"',
+            'title: "{{ speaker.escaped_name|title }}"',
             'bio_image: "/img/bios/{{ speaker.avatar_filename }}"',
             'banner: "/img/bios/{{ speaker.avatar_filename }}"',
             '---\n\n{{ speaker.bio }}',
@@ -102,6 +106,10 @@ class Talk:
         return self.title == other.title
 
     @property
+    def escaped_title(self):
+        return self.title.replace('"', '\\"')
+
+    @property
     def filename(self):
         '''
         Returns the computed filename for the markdown file.
@@ -125,7 +133,7 @@ class Talk:
         '''
         return Template('\n'.join([
             '---',
-            'title: "{{ talk.title }}"',
+            'title: "{{ talk.escaped_title }}"',
             '{% if not talk.accepted %}draft: true{% endif %}',
             '---\n\n{{ talk.description }}',
             '{% for speaker in talk.speakers %}',
