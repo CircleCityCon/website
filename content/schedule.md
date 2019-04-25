@@ -13,10 +13,10 @@ description: >
         <a class="dim no-underline white-90 baffle" href="/bios/">bios</a>
       </li>
       <li class="list f4 f5-m fw4 dib-ns pr5 font-spy">
-        <a class="dim no-underline white-90 baffle" href="https://ccc2019cfp.busyconf.com/schedule">talks</a>
+        <a class="dim no-underline white-90 baffle" href="/talks/">talks</a>
       </li>
       <li class="list f4 f5-m fw4 dib-ns font-spy">
-        <a class="dim no-underline white-90 baffle" href="https://ccc2019cft.busyconf.com/schedule">training</a>
+        <a class="dim no-underline white-90 baffle" href="/training/">training</a>
       </li>
 ---
 
@@ -50,5 +50,16 @@ description: >
     frameborder="0"
     onload="setIframeHeight(this.id)"
     src="https://ccc2019cfp.busyconf.com/schedule"
+    ></iframe>
+</div>
+
+<div class="min-vh-100">
+  <iframe
+    id="scheduleFrame2"
+    class="db ma0 flex flex-wrap min-vh-100 absolute right-2"
+    style="width: calc(100% - 70px)"
+    frameborder="0"
+    onload="setIframeHeight(this.id)"
+    src="https://ccc2019cft.busyconf.com/schedule"
     ></iframe>
 </div>
