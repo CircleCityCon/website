@@ -42,6 +42,8 @@ description: >
   }
 </script>
 
+### Talks
+
 <div class="min-vh-100">
   <iframe
     id="scheduleFrame"
@@ -52,6 +54,8 @@ description: >
     src="https://ccc2019cfp.busyconf.com/schedule"
     ></iframe>
 </div>
+
+### Trainings
 
 <div class="min-vh-100">
   <iframe
