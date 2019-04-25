@@ -51,7 +51,7 @@ description: >
     style="width: calc(100% - 70px)"
     frameborder="0"
     onload="setIframeHeight(this.id)"
-    src="https://ccc2019cfp.busyconf.com/schedule"
+    src="https://ccc2019cfp.busyconf.com/schedule/full"
     ></iframe>
 </div>
 
@@ -64,6 +64,6 @@ description: >
     style="width: calc(100% - 70px)"
     frameborder="0"
     onload="setIframeHeight(this.id)"
-    src="https://ccc2019cft.busyconf.com/schedule"
+    src="https://ccc2019cft.busyconf.com/schedule/full"
     ></iframe>
 </div>
