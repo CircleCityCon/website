@@ -48,7 +48,7 @@ description: >
   <iframe
     id="scheduleFrame"
     class="db ma0 flex flex-wrap min-vh-100 absolute right-2"
-    style="width: calc(100% - 70px)"
+    style="width: calc(100% - 10px)"
     frameborder="0"
     onload="setIframeHeight(this.id)"
     src="https://ccc2019cfp.busyconf.com/schedule/full"
@@ -61,7 +61,7 @@ description: >
   <iframe
     id="scheduleFrame2"
     class="db ma0 flex flex-wrap min-vh-100 absolute right-2"
-    style="width: calc(100% - 70px)"
+    style="width: calc(100% - 10px)"
     frameborder="0"
     onload="setIframeHeight(this.id)"
     src="https://ccc2019cft.busyconf.com/schedule/full"
