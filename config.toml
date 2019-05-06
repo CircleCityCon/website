@@ -53,6 +53,12 @@ paginate = 10
   name = "training"
   parent = "ccc"
   url = "/training"
+  
+[[menu.main]]
+  identifier = "sponsors"
+  name = "sponsors"
+  parent = "ccc"
+  url = "/sponsors"
 
 # Top bar social links menu
 [[menu.topbar]]
