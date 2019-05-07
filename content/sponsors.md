@@ -5,71 +5,77 @@ menu:
   main:
     parent: "ccc"
 ---
-<!-- Party - Rapid7 (Not signed yet)
-Gold - OriNet, Midwest Internet Exchange, Optiv, Exabeam, TEKsystems
-Silver - Endgame, Infoblox
-Bronze - Lares, TrustedSec, SecureWorks
-Basic - No Starch, Mozilla -->
 
-<!-- ## Diamond Sponsors -->
-
-<!-- ## Platinum Sponsors -->
-
+<style>
+.sponsor {
+    max-width: 30%;
+    max-height: 120px;
+    padding: 10px;
+    width: auto;
+    height: auto;
+}
+</style>
 
 ## Gold Sponsors
 
-[{{<figure src="/img/sponsors/ori.png" class="center w-40-ns">}}][ori]
-
-[{{<figure src="/img/sponsors/mie.png" class="center w-50-ns">}}][mie]
-
-[{{<figure src="/img/sponsors/optiv.jpg" class="center w-50-ns">}}][optiv]
-
-[{{<figure src="/img/sponsors/exabeam.png" class="center w-50-ns">}}][exabeam]
-
-[{{<figure src="/img/sponsors/teksystems.jpg" class="center w-50-ns">}}][teksystems]
+<div class="text-center">
+    <a href="http://www.ori.net/">
+        <img src="/img/sponsors/ori.png" class="sponsor" />
+    </a>
+    <a href="https://www.midwest-ix.com/">
+        <img src="/img/sponsors/mie.png" class="sponsor" />
+    </a>
+    <a href="https://www.optiv.com/">
+        <img src="/img/sponsors/optiv.jpg" class="sponsor" />
+    </a>
+    <a href="https://www.exabeam.com/">
+        <img src="/img/sponsors/exabeam.png" class="sponsor" />
+    </a>
+    <a href="https://www.teksystems.com/">
+        <img src="/img/sponsors/teksystems.jpg" class="sponsor" />
+    </a>
+</div>
 
 ## Silver Sponsors
 
-[{{<figure src="/img/sponsors/endgame.png" class="center w-40-ns">}}][endgame]
-
-[{{<figure src="/img/sponsors/infoblox.jpg" class="center w-40-ns">}}][infoblox]
+<div class="text-center">
+    <a href="https://www.endgame.com/">
+        <img src="/img/sponsors/endgame.png" class="sponsor" />
+    </a>
+    <a href="https://www.infoblox.com/">
+        <img src="/img/sponsors/infoblox.jpg" class="sponsor" />
+    </a>
+</div>
 
 ## Bronze Sponsors
 
-[{{<figure src="/img/sponsors/lares.png" class="center w-40-ns">}}][lares]
-
-[{{<figure src="/img/sponsors/trustedsec.png" class="center w-40-ns">}}][trustedsec]
-
-[{{<figure src="/img/sponsors/secureworks.png" class="center w-40-ns">}}][secureworks]
+<div class="text-center">
+    <a href="https://www.trustedsec.com/">
+        <img src="/img/sponsors/trustedsec.png" class="sponsor" />
+    </a>
+    <a href="https://www.secureworks.com/">
+        <img src="/img/sponsors/secureworks.png" class="sponsor" />
+    </a>
+    <a href="https://www.lares.com/">
+        <img src="/img/sponsors/lares.png" class="sponsor" />
+    </a>
+</div>
 
 ## Basic Sponsors
 
-[{{<figure src="/img/sponsors/nostarch.jpg" class="center w-30-ns">}}][nostarch]
-
-[{{<figure src="/img/sponsors/mozilla.jpg" class="center w-30-ns">}}][mozilla]
+<div class="text-center">
+    <a href="https://nostarch.com/">
+        <img src="/img/sponsors/nostarch.jpg" class="sponsor" />
+    </a>
+    <a href="https://www.mozilla.org/">
+        <img src="/img/sponsors/mozilla.jpg" class="sponsor" />
+    </a>
+</div>
 
 ## Party Sponsors
 
-[{{<figure src="/img/sponsors/rapid7.png" class="center w-30-ns">}}][rapid7]
-
-
-[sans]: https://www.sans.org/
-[ori]: http://www.ori.net/
-[sallie_mae]: https://www.salliemae.com/
-[nexum]: http://www.nexuminc.com/
-[cad]: https://www.cadre.net/
-[sym]: https://www.symantec.com/
-[rapid7]: https://www.rapid7.com/
-[nostarch]: https://nostarch.com/
-[mie]: https://www.midwest-ix.com/
-[cacr]: https://cacr.iu.edu/
-[vda]: https://www.vdalabs.com/
-[optiv]: https://www.optiv.com/
-[exabeam]: https://www.exabeam.com/
-[teksystems]: https://www.teksystems.com/
-[endgame]: https://www.endgame.com/
-[infoblox]: https://www.infoblox.com/
-[lares]: https://www.lares.com/
-[trustedsec]: https://www.trustedsec.com/
-[secureworks]: https://www.secureworks.com/
-[mozilla]: https://www.mozilla.org/
+<div class="text-center">
+    <a href="https://www.rapid7.com/">
+        <img src="/img/sponsors/rapid7.png" class="sponsor" />
+    </a>
+</div>
