@@ -34,6 +34,9 @@ menu:
     <a href="https://www.teksystems.com/">
         <img src="/img/sponsors/teksystems.jpg" class="sponsor" />
     </a>
+    <a href="https://www.crowdstrike.com/">
+        <img src="/img/sponsors/crowdstrike.png" class="sponsor" />
+    </a>   
 </div>
 
 ## Silver Sponsors
