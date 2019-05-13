@@ -6,11 +6,11 @@ menu:
     parent: "ccc"
 ---
 <a href="https://ccc2019cfp.busyconf.com/proposals/new">
-<button type="button" enabled
+<button type="button" disabled 
   class="btn btn-template-main" 
   href="https://ccc2019cfp.busyconf.com/proposals/new">
   <i class="fa fa-comments-o" aria-hidden="false"></i>
-  File your CFP Submission
+  CFP Submission is closed
 </button>
 </a>
 
