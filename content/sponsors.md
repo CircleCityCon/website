@@ -54,6 +54,9 @@ menu:
     <a href="https://www.secureworks.com/">
         <img src="/img/sponsors/secureworks.png" class="sponsor" />
     </a> 
+    <a href="https://cascade-assets.com/">
+        <img src="/img/sponsors/cascade.jpg" class="sponsor" />
+    </a> 
 </div>
 
 ## Bronze Sponsors
