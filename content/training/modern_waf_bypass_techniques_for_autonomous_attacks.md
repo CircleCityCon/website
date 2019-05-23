@@ -29,15 +29,15 @@ Time: 4 hours
 
  1. Goals: Scrape data, test credentials, evade capture
  
-  1.How to scrape with Python (Requests)
+  1. How to scrape with Python (Requests)
   
-  2.How to scrape with JS Evasion Techniques (1.5 hours)
+  2. How to scrape with JS Evasion Techniques (1.5 hours)
   
  2. Basic Evasion techniques
  
-  1.Randomized Request timing
+  1. Randomized Request timing
   
-  2.IP rotation via proxy (scrape from didsoft.com) Headers
+  2. IP rotation via proxy (scrape from didsoft.com) Headers
   
   3. Headers
   
@@ -52,7 +52,7 @@ Time: 4 hours
     
    2. Case sensitive headers
    
-  4.Cookies
+  4. Cookies
   
    1. Session Cookies
    
