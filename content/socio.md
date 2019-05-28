@@ -6,35 +6,23 @@ menu:
     parent: "ccc"
 ---
 
-<script>
-  function getDocHeight(doc) {
-    doc = doc || document;
-    // stackoverflow.com/questions/1145850/
-    var body = doc.body, html = doc.documentElement;
-    var height = Math.max( body.scrollHeight, body.offsetHeight, 
-        html.clientHeight, html.scrollHeight, html.offsetHeight );
-    return height;
-  }
-
-  function setIframeHeight(id) {
-    var ifrm = document.getElementById(id);
-    var doc = ifrm.contentDocument? ifrm.contentDocument: 
-        ifrm.contentWindow.document;
-    ifrm.style.visibility = 'hidden';
-    ifrm.style.height = "10px"; // reset to minimal height ...
-    // IE opt. for bing/msn needs a bit added or scrollbar appears
-    ifrm.style.height = getDocHeight( doc ) + 4 + "px";
-    ifrm.style.visibility = 'visible';
-  }
-</script>
+<a href="https://download.socio.events/event/MzQ4NQ%3D%3D">
+<button type="button" enabled
+  class="btn btn-template-main"
+  href="https://download.socio.events/event/MzQ4NQ%3D%3D">
+  <i class="fa fa-download" aria-hidden="false"></i>
+  Download the Socio app for your device.
+</button>
+</a>
 
 <div class="min-vh-100">
   <iframe
     id="scheduleFrame"
     class="db ma0 flex flex-wrap min-vh-100 absolute right-2"
-    style="width: calc(100% - 70px)"
+    width="100%"
+    height="600"
     frameborder="0"
     onload="setIframeHeight(this.id)"
-    src="https://app.socio.events/#/event/MjAxMA==/overview"
+    src="https://app.socio.events/MzQ4NQ%3D%3D/overview"
     ></iframe>
 </div>
