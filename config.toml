@@ -27,11 +27,6 @@ paginate = 10
   weight = 2
 
 [[menu.main]]
-  identifier = "crossroads"
-  name = "crossroads"
-  weight = 3
-
-[[menu.main]]
   identifier = "info"
   name = "info"
   weight = 4

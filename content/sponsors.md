@@ -34,6 +34,9 @@ menu:
     <a href="https://www.teksystems.com/">
         <img src="/img/sponsors/teksystems.jpg" class="sponsor" />
     </a>
+    <a href="https://www.crowdstrike.com/">
+        <img src="/img/sponsors/crowdstrike.png" class="sponsor" />
+    </a>   
 </div>
 
 ## Silver Sponsors
@@ -45,6 +48,15 @@ menu:
     <a href="https://www.infoblox.com/">
         <img src="/img/sponsors/infoblox.jpg" class="sponsor" />
     </a>
+    <a href="https://www.rapid7.com/">
+        <img src="/img/sponsors/rapid7.png" class="sponsor" />
+    </a>
+    <a href="https://www.secureworks.com/">
+        <img src="/img/sponsors/secureworks.png" class="sponsor" />
+    </a> 
+    <a href="https://cascade-assets.com/">
+        <img src="/img/sponsors/cascade.jpg" class="sponsor" />
+    </a> 
 </div>
 
 ## Bronze Sponsors
@@ -52,9 +64,6 @@ menu:
 <div class="text-center">
     <a href="https://www.trustedsec.com/">
         <img src="/img/sponsors/trustedsec.png" class="sponsor" />
-    </a>
-    <a href="https://www.secureworks.com/">
-        <img src="/img/sponsors/secureworks.png" class="sponsor" />
     </a>
     <a href="https://www.lares.com/">
         <img src="/img/sponsors/lares.png" class="sponsor" />
@@ -69,13 +78,5 @@ menu:
     </a>
     <a href="https://www.mozilla.org/">
         <img src="/img/sponsors/mozilla.jpg" class="sponsor" />
-    </a>
-</div>
-
-## Party Sponsors
-
-<div class="text-center">
-    <a href="https://www.rapid7.com/">
-        <img src="/img/sponsors/rapid7.png" class="sponsor" />
     </a>
 </div>
