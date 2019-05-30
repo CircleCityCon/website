@@ -57,6 +57,9 @@ menu:
     <a href="https://cascade-assets.com/">
         <img src="/img/sponsors/cascade.jpg" class="sponsor" />
     </a> 
+    <a href="https://cacr.iu.edu/index.html">
+        <img src="/img/sponsors/iucacr.jpg" class="sponsor" />
+    </a> 
 </div>
 
 ## Bronze Sponsors
