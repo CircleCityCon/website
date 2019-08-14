@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://circlecitycon.com/events/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/3d_printing_canisterlaunchable_drones_for_cityscale_wardriving/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/5g_security_pitfalls_and_considerations/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/a_few_things_right_insights_from_live_and_simulated_incident_response/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/a_theme_of_fear_hacking_the_paradigm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/aaron_sawyer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/aaron_scantlin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/adi_ikan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/alex_chalmers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/alyssa_miller/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/aman_sachdev/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/amber_welch/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/april_wright/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/arden_meyer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/ashley_benitez_smith/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/beginning_dfir__how_to_get_started_with_cooties/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/behind_the_locked_door_we_built_an_escape_room_for_security_awareness/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/training/blackhole_dns_with_a_raspberry_pi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/training/building_virtual_labs_ccc_edition/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/cfp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/cft/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/call_of_duty_modernest_browser_warfare_v2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/carl_hertz/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/catching_the_guerrilla_powershell_counterinsurgency/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/catherine_ullman/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/chad_calease/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/chris_roberts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/christian_bobadilla/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/christian_burrows/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/cindy_jones/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/colin_campbell/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/cons__careers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/container_security_deep_dive/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/could_static_code_analysis_and_secure_coding_have_saved_the_death_star/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/creating_browser_extension_to_hunt_low_hanging_fruits/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/training/creating_browser_extension_to_hunt_low_hanging_fruits/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/cubed_wombat/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/training/cuckoo_sandbox_setup_malware_detection_through_detonation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/dan_beavin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/danny_akacki/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/data_access_rights_exploits_under_new_privacy_laws/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/deepfakes_if_anything_can_be_real_then_nothing_is_real/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/dhiraj_mishra/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/do_you_have_what_it_takes_how_to_support_your_career_from_community_involvement/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/doug_c00p3r_copeland/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/endpoint_security_swimming_through_the_snake_oil/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/evicting_the_password_from_the_digital_estate/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/f_attribution/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/failure_is_not_an_option_developing_realistic_disaster_recovery_tests/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/fletcher_heisler/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/gabrielle_hempel/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/get_off_my_lawn_or_are_we_looking_for_the_right_people/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/glytch_tech/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/growing_pains_incorporating_security_into_it_for_small_business/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/hacking_humans_addressing_vulnerabilities_in_the_advancing_medical_device_landscape/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/himanshu_sharma/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/how_to_reach_and_teach_youth_about_cybersecurity_if_anybody_will_let_you/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/infosuck_the_nasty_bits_of_the_industry_we_want_to_tell_noobs_but_arent_allowed_to_in_polite_company/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/information_security_practice_principles_a_rosetta_stone_for_information_security_work/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/inside_out_security__building_castles_not_warehouses/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/training/introduction_to_ctfs_with_kali_linux/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/its_coming_from_inside_the_house_an_insideout_approach_to_nodejs_application_security/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/ill_complete_my_threat_model_later_mom_infosec_in_middle_school/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/jared_peck/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/jason_smith/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/jayson_brown/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/jeff_man/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/johnny_xmas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/josh_conway/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/josh_turley/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/kathleen_smith/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/training/learning_to_hack_bluetooth_low_energy_with_ble_ctf/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/lisa_wallace/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/location/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/mark_demarest/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/mary_waddick/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/matthew_southworth/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/micah_brown/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/mike_shecky_kavka/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/mitchell_parker/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/modern_appsec_gotchas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/training/modern_waf_bypass_techniques_for_autonomous_attacks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/mohammed_aldoub/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/more_tales_from_the_cryptanalyst/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/nancy_snoke/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/nexus_zeta__how_a_newbie_hacker_managed_to_create_a_monster_botnet/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/of_cors_its_exploitable_whats_possible_with_crossorigin_resource_sharing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/training/offensive_python_custom_scripts_for_pentests/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/one_random_insecure_wep_application_please_oriwap/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/policies/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/training/powershell_101_for_security_teams/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/priyank_nigam/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/rebecca_deck/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/training/red_teaming_as_a_service_simulating_blackhat_attacks_for_organisations/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/rewanth_cool/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/rich_rumble/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/ross_wolf/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/ryan_holeman/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/sam_crowther/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/secfarmer_secfarmer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/training/securing_and_attacking_apis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/security_lessons_from_the_woofmutt/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/sigint_for_the_masses_building_and_using_a_signals_intelligence_platform_for_less_than_150/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/socio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/sponsors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/standardizer_a_standardization_framework_for_your_security_alerts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/star_wars_how_an_ineffective_data_governance_program_destroyed_the_galactic_empire/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/steven_bernstein/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/susan_sons/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/swapnil_deshmukh/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/training/sysmon_swimming_lessons_for_soc_folk_and_hunt_teams_aka_how_not_to_drown_in_the_deep_end_of_the_windows_internals_enterprise_ocean/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/the_hunter_games_how_to_find_the_adversary_with_event_query_language/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/the_resilient_reddit_c2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/tomer_hadad/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/tony_robinson/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/training_and_education_for_the_new_realities_of_privacy_and_security/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/training/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/wendy_edwards/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/what_can_data_science_do_for_security/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/what_the_frida_gave_me_a_novel_take_on_eticket_forging_and_eticket_stealing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/wibbly_wobbly_designing_security_for_systems_that_are_bigger_on_the_inside/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/wolfgang_goerlich/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/xena_olsen/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/yashvier_kosaraju/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/yolonda_smith/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/bios/zach_zenner/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/an_implantable_computer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/talks/ios_apps_hacking_just_got_a_lot_easier/</loc>
+  </url>
+  
+  <url>
+    <loc>https://circlecitycon.com/schedule/</loc>
+  </url>
+  
+</urlset>

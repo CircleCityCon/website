@@ -1,0 +1,1246 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CircleCityCon 7.0</title>
+    <link>https://circlecitycon.com/</link>
+    <description>Recent content on CircleCityCon 7.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://circlecitycon.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://circlecitycon.com/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D printing canister-launchable drones for city-scale wardriving</title>
+      <link>https://circlecitycon.com/talks/3d_printing_canisterlaunchable_drones_for_cityscale_wardriving/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/3d_printing_canisterlaunchable_drones_for_cityscale_wardriving/</guid>
+      <description>Ever wanted to deploy a drone from a grenade launcher?
+A lot of drones were harmed in the making of this talk. This talk will demonstrate a process for designing and 3D printing your own canister launched drones. Canister launched drones are compact and portable, however conventional designs lack sufficient wing area and deployment mechanisms, making payload capacity and flight times far lower than they could be. I’ve created a concept that makes use of low weight, high tensile fabric wings which allows small drones, such as the 40mm diameter unit depicted below, to have practical on-site flight times while carrying a useful payload.</description>
+    </item>
+    
+    <item>
+      <title>5G: Security Pitfalls and Considerations</title>
+      <link>https://circlecitycon.com/talks/5g_security_pitfalls_and_considerations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/5g_security_pitfalls_and_considerations/</guid>
+      <description>5G networks leverage cutting-edge technologies such as software-defined networking (SDN) and network functions virtualization (NFV) to meet the requirements of broadband access everywhere. SDN and NFV in turn leverage advances in cloud technologies such as mobile edge computing (MEC) to meet ease of integration requirements. However, securely using these technologies and maintaining user privacy in future wireless networks are concerns that have not been adequately addressed. This talk provides an overview of security and user privacy challenges associated with cloud computing, SDN and NFV.</description>
+    </item>
+    
+    <item>
+      <title>A Few Things Right: Insights from Live and Simulated Incident Response</title>
+      <link>https://circlecitycon.com/talks/a_few_things_right_insights_from_live_and_simulated_incident_response/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/a_few_things_right_insights_from_live_and_simulated_incident_response/</guid>
+      <description>While we continue to support the concepts of compliance, defense, governance, and prevention, it&amp;rsquo;s time to shift our focus beyond those measures with more emphasis on strategic response to incidents. This talk offers real stories of failure and practical, quick-win lessons on how to be prepared to respond quickly, accurately, and confidently when incidents occur. Because they will occur. Doing a few, important things well means opening our hearts and minds to a new way of thinking and learning about each other and what it means to be prepared for a crisis.</description>
+    </item>
+    
+    <item>
+      <title>A Theme of Fear: Hacking the Paradigm</title>
+      <link>https://circlecitycon.com/talks/a_theme_of_fear_hacking_the_paradigm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/a_theme_of_fear_hacking_the_paradigm/</guid>
+      <description>The InfoSec industry was born out of fear. Initially it was fear from virus infections and later, external attacks. We capitalized on that fear to build more secure environments. But fear is hard to manage: too much fear breeds paralysis, and too little fear breeds complacency. This talk will take a look at the history of fear in InfoSec, explore how its impact has shaped the industry, and how it is now getting in the way.</description>
+    </item>
+    
+    <item>
+      <title>Aaron Sawyer</title>
+      <link>https://circlecitycon.com/bios/aaron_sawyer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/aaron_sawyer/</guid>
+      <description>Aaron Sawyer is an intern at InfoSec Innovations and post-baccalaureate student at the University of Maine. Between stints as a laboratory technician in an Astroparticle Physics Laboratory, Aaron worked as a Merchant Marine Engineer where he became a certified vessel security officer and discovered his love of breaking things in interesting ways.
+ talk Catching the Guerrilla: Powershell Counterinsurgency  </description>
+    </item>
+    
+    <item>
+      <title>Aaron Scantlin</title>
+      <link>https://circlecitycon.com/bios/aaron_scantlin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/aaron_scantlin/</guid>
+      <description>Aaron holds specialized certifications from the SysAdmin, Audit, Network and Security (SANS) Institute and has spoken at numerous security conferences and meetups. He currently serves as vice president of the central Missouri chapter of Infragard, a partnership between the private sector and the FBI dedicated to sharing information and intelligence to prevent hostile acts against the United States. At the University of Missouri, Aaron serves as a security analyst for the central information technology division and he teaches the Electrical Engineering and Computer Science Department’s cyber security course.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://circlecitycon.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/about/</guid>
+      <description>CircleCityCon is a security conference held in downtown Indianapolis. Our cons last years were big successes and we are only looking to grow and make it better.
+CircleCityCon is about the community. Our signature offering is the community led training classes offered to all participants. Events and contests are organized by members of the security community, including both CircleCityCon staffers and community partners. Three tracks, incredible entertainment, and technical villages help round out the CircleCityCom experience.</description>
+    </item>
+    
+    <item>
+      <title>Adi Ikan</title>
+      <link>https://circlecitycon.com/bios/adi_ikan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/adi_ikan/</guid>
+      <description>Cyber Security Research Team Leader at Check Point Software Technologies. Prior to Check Point, I have served as an Officer in the IDF Intelligence Corps 8200 Unit in various research and development roles. In addition, I Hold an M.Sc. in Financial Mathematics and a B.Sc. in Applied Mathematics at Bar-Ilan University.
+ talk Nexus Zeta - How a newbie hacker managed to create a monster botnet  </description>
+    </item>
+    
+    <item>
+      <title>Alex Chalmers</title>
+      <link>https://circlecitycon.com/bios/alex_chalmers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/alex_chalmers/</guid>
+      <description>Alex B Chalmers is a technical service manager for federated identity solutions at Eli Lilly and Company. He has served in a variety of senior technical roles across identity, security, and enterprise technology architecture over more than 15 years. Currently, his focus is the continuous improvement of cloud identity solutions and the broad adoption of strong authentication technologies. In addition to his technical roles, Alex has served as a university instructor in information security and provided technical training in a variety of cloud technology solutions.</description>
+    </item>
+    
+    <item>
+      <title>Alyssa Miller</title>
+      <link>https://circlecitycon.com/bios/alyssa_miller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/alyssa_miller/</guid>
+      <description>Alyssa is a former developer turned pen-tester and security evangelist with over 15 years of experience in the security industry. She has maintained a heavy focus on application security over the years, not only conducting application assessments, threat modeling exercises and secure code reviews, but also working with companies to develop comprehensive secure SDLC programs. Alyssa is also experienced in delivering security training at all levels from basic awareness to detailed secure coding practices.</description>
+    </item>
+    
+    <item>
+      <title>Aman Sachdev</title>
+      <link>https://circlecitycon.com/bios/aman_sachdev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/aman_sachdev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amber Welch</title>
+      <link>https://circlecitycon.com/bios/amber_welch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/amber_welch/</guid>
+      <description>Until she’s accepted for a Mars mission, Amber’s goal is to advance data protection and personal information privacy as a Privacy Technical Lead for Schellman &amp;amp; Company. Amber been assessing corporate privacy compliance programs for the past year and prior to that, managed security and privacy governance for a suite of SaaS products. She has previously worked in companies creating ERP, CRM, event planning, and biologics manufacturing software.
+ talk Data Access Rights Exploits under New Privacy Laws  </description>
+    </item>
+    
+    <item>
+      <title>April Wright</title>
+      <link>https://circlecitycon.com/bios/april_wright/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/april_wright/</guid>
+      <description>April C. Wright is a hacker, O’Reilly author, teacher, and community leader who has been breaking, making, fixing, and defending the security of global critical communications and connections for over 25 years. She is an international speaker and trainer, educating and advising on matters of privacy and information security with the goal of safeguarding the digital components we rely on every day. April has held roles on defensive, operational, adversarial, and development teams throughout her career, and has spoken and contributed to numerous worldwide security conferences including BlackHat, DEF CON USA and DEF CON China, DerbyCon, Hack in Paris, DefCamp Romania, ITWeb South Africa, as well as for the US Government and industry organizations such as OWASP and ISSA.</description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>https://circlecitycon.com/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/archives/</guid>
+      <description>Sites of CircleCityCon past live here.
+ CircleCityCon 1.0 (2014) CircleCityCon 2.0: Retro (2015) CircleCityCon 3.0: Game of Pwns (2016) CircleCityCon 4.0: Camp Circle City (2017) CircleCityCon 5.0: The spies among us (2018)  Direct links to Schedules of CircleCityCon past live here.
+ CircleCityCon Schedule 1.0 (2014) CircleCityCon Schedule 2.0: Retro (2015) CircleCityCon Schedule 3.0: Game of Pwns (2016) CircleCityCon Schedule 4.0: Camp Circle City (2017) CircleCityCon Schedule 5.0: The spies among us (2018)  </description>
+    </item>
+    
+    <item>
+      <title>Arden Meyer</title>
+      <link>https://circlecitycon.com/bios/arden_meyer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/arden_meyer/</guid>
+      <description>Arden began his journey into IT in 1982 when he first learned to program computers, then quickly moved on to hacking BBS, PBX, and ICS systems. He joined the USAF in 1996 and for 15 years traveled the world doing various mysterious things with electrons. Arden was hand selected in the initial cadre of the Network Warfare Operations career field and tasked to develop the first Cyber Functional Training Unit where over the next three years he taught thousands of students everything from vulnerabilities in LMR/ICS/SS7 to basic computer programming to advanced exploitation &amp;amp; covert exfiltration.</description>
+    </item>
+    
+    <item>
+      <title>Ashley Benitez Smith</title>
+      <link>https://circlecitycon.com/bios/ashley_benitez_smith/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/ashley_benitez_smith/</guid>
+      <description>Ashley Benitez Smith is in her seventh year of teaching middle school in Maryland. She has been teaching Career and Technology Education classes for five years and likes her job most days. Ashley wishes to bring security into STEM curricula to inspire the next generation of security professionals. She also wants to educate students about security to prepare them for an ever changing digital landscape. Ashley has attended a few security conferences and has helped with events at Defcon.</description>
+    </item>
+    
+    <item>
+      <title>Beginning DFIR – How to get started with Cooties</title>
+      <link>https://circlecitycon.com/talks/beginning_dfir__how_to_get_started_with_cooties/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/beginning_dfir__how_to_get_started_with_cooties/</guid>
+      <description>Can you learn DFIR in less than an hour? No – our goal is to familiarize you with some of the freely available, open source tools. In addition, we’ll discuss some of the methods to use these tools to analyze files and systems. Covered will be beginning Remnux, SIFT workstation, Eric Zimmerman’s excellent tool suite, and others.
+ SPEAKER Lisa Wallace  </description>
+    </item>
+    
+    <item>
+      <title>Behind The Locked Door: we built an escape room for security awareness</title>
+      <link>https://circlecitycon.com/talks/behind_the_locked_door_we_built_an_escape_room_for_security_awareness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/behind_the_locked_door_we_built_an_escape_room_for_security_awareness/</guid>
+      <description>People want to attend our internal security awareness and training programs. In fact, we ran out of slots and had to turn colleagues away! We did it on a budget, too. We created an infosec-themed escape room which was educational, fun, cheap, and got great reviews. We’ll share what worked, what can be improved, and publish some of our awareness materials and puzzles along with this talk.
+ SPEAKER Christian Bobadilla</description>
+    </item>
+    
+    <item>
+      <title>Blackhole DNS with a Raspberry Pi</title>
+      <link>https://circlecitycon.com/training/blackhole_dns_with_a_raspberry_pi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/blackhole_dns_with_a_raspberry_pi/</guid>
+      <description>DNS is a core protocol for everything we do on the Internet and we can use that to our advantage to protect our home &amp;amp; business networks. By sending malicious or ad-laden domains to a blackhole we are able to protect entire networks in a way no single endpoint software can. Want to protect your desktops, laptops, tablets, phones, and even smart devices on your network? Even better, do it with an inexpensive Raspberry Pi?</description>
+    </item>
+    
+    <item>
+      <title>Building Virtual Labs: CCC Edition</title>
+      <link>https://circlecitycon.com/training/building_virtual_labs_ccc_edition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/building_virtual_labs_ccc_edition/</guid>
+      <description>Most IT and Infosec professionals agree that hands-on experience is the key to developing your talent, and advancing your career. Everyone needs a place to practice, because practice makes perfect, Right? But where do you start? That is what this training is all about!
+This goal of this training will be to teach students on how to build a virtual lab environment for studying various aspects of information technology that interest you.</description>
+    </item>
+    
+    <item>
+      <title>Call for Papers</title>
+      <link>https://circlecitycon.com/cfp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/cfp/</guid>
+      <description>CFP Submission is closed  
+Submission Guidelines  Submission Title Speaker Name(s) Speaker Email (this is how we will contact you) Hidden from reviewers Speaker biography (150 words or less per speaker) Hidden from reviewers Abstract for your talk (200 words or less) Please refrain from including identifying information Detailed talk outline Please refrain from including identifying information Whether this would be your first speaking engagement at a conference Whether this talk has been previously given at another conference Shirt Size Equipment Needs (beyond internet access and AV equipment)  If the submission is missing any of the above items, it will not be accepted.</description>
+    </item>
+    
+    <item>
+      <title>Call for Training</title>
+      <link>https://circlecitycon.com/cft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/cft/</guid>
+      <description>CFT Submission is closed  
+Submission Guidelines  Submission Title Speaker Name(s) Speaker Email (this is how we will contact you) Hidden from reviewers Speaker biography (150 words or less per speaker) Hidden from reviewers Abstract for your training (200 words or less) Please refrain from including identifying information Detailed training outline Please refrain from including identifying information Length of the training session? (4 &amp;amp; 8 hour slots) Who is the target audience for the training?</description>
+    </item>
+    
+    <item>
+      <title>Call Of Duty, Modernest Browser Warfare v2</title>
+      <link>https://circlecitycon.com/talks/call_of_duty_modernest_browser_warfare_v2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/call_of_duty_modernest_browser_warfare_v2/</guid>
+      <description>The talk I will be presenting is entirely my own work of research. While identifying vulnerabilities in web applications and participate in various bug bounty programs is interesting, I enjoy targeting platforms which are less popular as research topics. Having said that, while security for browsers is a known topic, I’ve been able to identify, through my research, several vulnerabilities which will help to secure it further.
+The issues I will be talking about during this talk would be – Same Origin Policy(SOP), Remote Code Execution(RCE) and Address Bar Spoofing (ABS).</description>
+    </item>
+    
+    <item>
+      <title>Carl Hertz</title>
+      <link>https://circlecitycon.com/bios/carl_hertz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/carl_hertz/</guid>
+      <description>Carl Hertz is Director of Information Technology at Elevate Energy, a non-profit dedicated to bringing the benefits of the Green Economy to everyone. He has been an IT professional for 30 years, a security professional for 15, a hiring manager for 20 years, a project manager for 10 years, and a goofball for all of his life. You can follow his posts about tech, security, music, cycling, astronomy, feminism, parenthood, depression, and all the lulz at @cillic on Twitter</description>
+    </item>
+    
+    <item>
+      <title>Catching the Guerrilla: Powershell Counterinsurgency</title>
+      <link>https://circlecitycon.com/talks/catching_the_guerrilla_powershell_counterinsurgency/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/catching_the_guerrilla_powershell_counterinsurgency/</guid>
+      <description>For too long attackers have leveraged the built-in APIs and tooling on Windows systems against us. It&amp;rsquo;s time the tables are turned! Those APIs were made for Sys Admins and defenders&amp;hellip; and we&amp;rsquo;re taking them back! We&amp;rsquo;re building a framework of response tools for defenders to wrestle control from threat actors without the risk of production outages. This talk will focus on techniques to turn the limited and traditional black-and-white incident response options into a full-color spectrum of alternatives for defending your turf.</description>
+    </item>
+    
+    <item>
+      <title>Catherine Ullman</title>
+      <link>https://circlecitycon.com/bios/catherine_ullman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/catherine_ullman/</guid>
+      <description>Dr. Catherine J. Ullman is a security researcher, speaker, and Senior Information Security Analyst at University at Buffalo with over 20 years of highly technical experience. In her current role, Cathy is a data forensics and incident response (DFIR) specialist, performing incident management, intrusion detection, investigative services, and personnel case resolution in a dynamic academic environment. She additionally builds security awareness amongst faculty and staff via a comprehensive department-wide program which educates and informs users about how to prevent and detect social engineering threats, and how to compute and digitally communicate safely.</description>
+    </item>
+    
+    <item>
+      <title>Chad Calease</title>
+      <link>https://circlecitycon.com/bios/chad_calease/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/chad_calease/</guid>
+      <description>Chad&amp;rsquo;s experience and fluency in technology spans over 15 years, crosses sectors and contexts, including regulated industries like healthcare, transportation, and financial services, to marketing and advertising, education, and non-profit. His Twitter bio sums him up well: Dad, ludic, neurodivergent, grateful for many gifts. Mom said, &amp;ldquo;There&amp;rsquo;s always one weirdo on every bus.&amp;rdquo; But I can never find them.
+ talk A Few Things Right: Insights from Live and Simulated Incident Response  </description>
+    </item>
+    
+    <item>
+      <title>Chris Roberts</title>
+      <link>https://circlecitycon.com/bios/chris_roberts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/chris_roberts/</guid>
+      <description>Chris is currently the CSS for Attivo Networks, and is working on a number of projects within the deception and services space. Over the years, he&amp;rsquo;s founded or worked with a number of companies specializing in DarkNet research, intelligence gathering, cryptography, deception technologies, and providers of security services and threat intelligence.
+Since the late 90’s Chris has been deeply involved with security R&amp;amp;D, consulting, and advisory services in his quest to protect and defend businesses and individuals against cyber attack.</description>
+    </item>
+    
+    <item>
+      <title>Christian Bobadilla</title>
+      <link>https://circlecitycon.com/bios/christian_bobadilla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/christian_bobadilla/</guid>
+      <description>Christian was born and raised in Chile. He started working in the field of information security in 2007 while in Santiago, and moved to the United States in 2011. For the past 3 years, he has been working as a Principal Security Engineer at Priceline.com. He is a man of many hobbies including running, table tennis, soccer, magic tricks and photography.
+ talk Behind The Locked Door: we built an escape room for security awareness  </description>
+    </item>
+    
+    <item>
+      <title>Christian Burrows</title>
+      <link>https://circlecitycon.com/bios/christian_burrows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/christian_burrows/</guid>
+      <description>Christian Burrows is a security practitioner from Austin, TX . He has 7+ years of experience in blue team / security incident response for various software companies. Some of his work includes helping to save the internet from really bad 0-days that were successfully used against companies he has worked for, spending entirely too much cumulative time in Splunk, reversing game hacks, and always trying to find bad stuff in prod environments.</description>
+    </item>
+    
+    <item>
+      <title>Cindy Jones</title>
+      <link>https://circlecitycon.com/bios/cindy_jones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/cindy_jones/</guid>
+      <description>Cindy Cindy Jones brings over 17 years of specialized IT and security experience to her role of Senior Security Consultant with Rapid7. Cindy maintains a CISSP and MCP certifications. She has worked in several arenas including Federal government, with the Department of Defense, education, technology and healthcare, with a focus on the development, maintenance and management of information security programs. Cindy is actively involved within the information security community and volunteers her time leading the registration team for BSides Las Vegas, volunteers for DerbyCon, is a Def Con Goon and holds a position on the board for BSides Texas and is an active volunteer for these local events.</description>
+    </item>
+    
+    <item>
+      <title>Colin Campbell</title>
+      <link>https://circlecitycon.com/bios/colin_campbell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/colin_campbell/</guid>
+      <description>Colin has been working in IT for more than 24 years, and has been with his current employer for 12 years. Not long after starting there, he had the obsolete corporate Disaster Recovery plan dumped in his lap and had to create a new, functional testing plan from it&amp;rsquo;s ashes. Under his direction, the DR plan has been tested annually and used operationally twice due to power failures and fires at the corporate HQ that shutdown operations in that location.</description>
+    </item>
+    
+    <item>
+      <title>Cons &amp; Careers</title>
+      <link>https://circlecitycon.com/talks/cons__careers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/cons__careers/</guid>
+      <description>“If you compete with others, you may not win. If you compete with yourself, you always win by becoming better.” ― Debasish Mridha
+PURPOSE: Demonstrate the possibilities of career enhancement by making use of the wide variety of conferences, conventions, and events that are put on in the wider Information Security community
+When I got my first job out in the real world, I thought: this is it: All I’m ever going to need to know for my career, for my job.</description>
+    </item>
+    
+    <item>
+      <title>Container Security Deep Dive</title>
+      <link>https://circlecitycon.com/talks/container_security_deep_dive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/container_security_deep_dive/</guid>
+      <description>Containers are the next big thing in virtualization technology. If configured properly they provide immense security. There are many different segments where a container deployment needs to be secured like Dockerfile , docker daemon, container images , monitoring within containers etc. Attending this talk will help you secure your deployments the container way.
+I will start this talk with a brief intro to containers, talk about how a typical container deployment pipeline looks like.</description>
+    </item>
+    
+    <item>
+      <title>Could Static Code Analysis and Secure Coding have Saved the Death Star?</title>
+      <link>https://circlecitycon.com/talks/could_static_code_analysis_and_secure_coding_have_saved_the_death_star/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/could_static_code_analysis_and_secure_coding_have_saved_the_death_star/</guid>
+      <description>Could a scan of the Empire’s Death Star software have found the insider threat that Galen Erso left in the Death Star’s system? My hypothesis is that if the Empire had used a Static Analysis Tool for issues, then maybe the outcome of the Star Wars movies would have been different.
+The teacher will explain the terms “Secure Coding” or “Static Code Analysis” and give associated examples.
+ SPEAKER Mary Waddick  </description>
+    </item>
+    
+    <item>
+      <title>Creating browser extension to hunt low hanging fruits</title>
+      <link>https://circlecitycon.com/talks/creating_browser_extension_to_hunt_low_hanging_fruits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/creating_browser_extension_to_hunt_low_hanging_fruits/</guid>
+      <description>Automated scanners won’t yield you bugs these days. They take tens of hours to get completed that too with a high false rate. You need a minimal smart scanner with easy installation, easy configuration, and relatively high accuracy while hunting for bugs. This talk is focused on creating such a browser extension to yield better results in less time. The browser extension requires less manual effort and produces more accurate results in just a few seconds.</description>
+    </item>
+    
+    <item>
+      <title>Creating browser extension to hunt low hanging fruits</title>
+      <link>https://circlecitycon.com/training/creating_browser_extension_to_hunt_low_hanging_fruits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/creating_browser_extension_to_hunt_low_hanging_fruits/</guid>
+      <description>Automated scanners won’t yield you bugs these days. They take tens of hours to get completed that too with a high false rate. You need a minimal smart scanner with easy installation, easy configuration, and relatively high accuracy while hunting for bugs. This talk is focused on creating such a browser extension to yield better results in less time. The browser extension requires less manual effort and produces more accurate results in just a few seconds.</description>
+    </item>
+    
+    <item>
+      <title>Cubed Wombat</title>
+      <link>https://circlecitycon.com/bios/cubed_wombat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/cubed_wombat/</guid>
+      <description>Cubed Wombat has over 12 years of cybersecurity experience, most of which in finding malicious activity. Currently running a hunt team in a large enterprise environment.
+Jabbo often makes CISOs weep with his pentest findings and runs purple team activity for Cubed&amp;rsquo;s team.
+ training Sysmon Swimming Lessons for SOC folk and Hunt teams. AKA How not to drown in the deep end of the Windows internals enterprise ocean.  </description>
+    </item>
+    
+    <item>
+      <title>Cuckoo Sandbox Setup: Malware Detection Through Detonation</title>
+      <link>https://circlecitycon.com/training/cuckoo_sandbox_setup_malware_detection_through_detonation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/cuckoo_sandbox_setup_malware_detection_through_detonation/</guid>
+      <description>This workshop is a crash course for anyone wanting to detonate malware and set up Cuckoo Sandbox. Students will receive hands-on experience in Cuckoo Sandbox’s malware analysis, reverse-engineering, and forensic capabilities. By providing step-by-step instructions during setup and first-time use, this workshop aims to remove the complexity and initial frustrations of setting up Cuckoo Sandbox alone.
+To help students gain familiarity with Cuckoo Sandbox’s rich feature set, the workshop is divided into two parts:</description>
+    </item>
+    
+    <item>
+      <title>Dan Beavin</title>
+      <link>https://circlecitycon.com/bios/dan_beavin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/dan_beavin/</guid>
+      <description>Dan is currently a Senior Cybersecurity Engineer at Indiana University Health in Indianapolis. Dan has 7 years of experience focusing on security research, offensive security activities, incident response, and malware research. During his career Dan has been the project lead and manager of several different security implementations ranging from policies and procedures to the technical implementations of many different products. His current project is helping to build a mature red team for Indiana University Health.</description>
+    </item>
+    
+    <item>
+      <title>Danny Akacki</title>
+      <link>https://circlecitycon.com/bios/danny_akacki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/danny_akacki/</guid>
+      <description>rand0h is just a guy that loves to tell stories &amp;amp; lives for the community that surrounds him. He believes none of this is worth anything if we don&amp;rsquo;t put a premium on tribal knowledge share. That&amp;rsquo;s really all that matters.
+ talk InfoSuck: The Nasty Bits Of The Industry We Want To Tell Noobs But Aren&amp;rsquo;t Allowed To In Polite Company.  </description>
+    </item>
+    
+    <item>
+      <title>Data Access Rights Exploits under New Privacy Laws</title>
+      <link>https://circlecitycon.com/talks/data_access_rights_exploits_under_new_privacy_laws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/data_access_rights_exploits_under_new_privacy_laws/</guid>
+      <description>New privacy laws such as the GDPR and CCPA have greatly advanced individual data rights, although the ability to request access to all personal information held by a company has created new attack vectors for OSINT. These data access requests are usually managed by legal or compliance teams without security review, increasing the potential for phishing, social engineering, and “legal DDoS.” This talk covers regional personal data access options, how most companies respond to data access requests, and exploits for common privacy vulnerabilities.</description>
+    </item>
+    
+    <item>
+      <title>Deepfakes: If anything can be real then nothing is real</title>
+      <link>https://circlecitycon.com/talks/deepfakes_if_anything_can_be_real_then_nothing_is_real/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/deepfakes_if_anything_can_be_real_then_nothing_is_real/</guid>
+      <description>“I didn’t say that!” &amp;hellip;The world will be forever changed by Deepfakes. A portmanteau of “deep learning” and “fake”, this trend refers to a new AI-assisted human image synthesis technique that generates realistic video face-swaps which can even be done in real-time. With modern face-swapping video technology, selfies can be used to create videos. A voice can be faked. A face can be faked. This is the new reality. What happens when we cannot trust what we hear and what we see?</description>
+    </item>
+    
+    <item>
+      <title>Dhiraj Mishra</title>
+      <link>https://circlecitycon.com/bios/dhiraj_mishra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/dhiraj_mishra/</guid>
+      <description>Dhiraj Mishra is an active speaker and a bug hunter, discovered multiple zero days in modern web browsers, Metasploit Contributor. His work has been published on TheHackerNews, TheRegister, ZDNet &amp;amp; BleepingComputer.
+ talk Call Of Duty, Modernest Browser Warfare v2  </description>
+    </item>
+    
+    <item>
+      <title>Do You Have What It Takes? How to Support Your Career From Community Involvement</title>
+      <link>https://circlecitycon.com/talks/do_you_have_what_it_takes_how_to_support_your_career_from_community_involvement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/do_you_have_what_it_takes_how_to_support_your_career_from_community_involvement/</guid>
+      <description>Career development is typically seen as a progression of education, certification and job moves. For career development it is helpful to build both technical and non-technical skills in environments that challenge and support learning. One way to build these skills is through volunteering. Community involvement strengthens our community and provides opportunities to stretch and learn new skills. Having worked with a large community of long-time volunteers, I will share share their volunteering and career paths to illustrate their lessons learned and opportunities gained.</description>
+    </item>
+    
+    <item>
+      <title>Doug &#34;c00p3r&#34; Copeland</title>
+      <link>https://circlecitycon.com/bios/doug_c00p3r_copeland/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/doug_c00p3r_copeland/</guid>
+      <description>Bio: c00p3r has a background in varied tech support and security roles which have provided him experience in Linux, Mac and Windows environments. His own entry to the ‘cyborg’ Biohacker culture has been by augmenting his body with both NFC and RFID chips through ‘Dangerous Things’ products which were available at the BdyHaxCon in Austin, TX. His curiosity about the technology has led him to found the Dangerous Minds Podcast which has become a vehicle to dig deeper into the subjects of biohacking, grinding, implantable technology, locksport, and network security by interviewing leaders in these fields and learning from their experience, for more information about this go to www.</description>
+    </item>
+    
+    <item>
+      <title>Endpoint Security, Swimming Through the Snake Oil</title>
+      <link>https://circlecitycon.com/talks/endpoint_security_swimming_through_the_snake_oil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/endpoint_security_swimming_through_the_snake_oil/</guid>
+      <description>Many vendors try to sell you snake oil and wine/dine you during the review process then leave you high and dry afterwards. This talk focuses on how to do full tests of endpoint products to make sure you know what you are really getting into and not just being sold some fancy snake oil. The talk focuses on the technical aspects of the testing as well as the functionality of the product in your own environment.</description>
+    </item>
+    
+    <item>
+      <title>Evicting the Password from the Digital Estate</title>
+      <link>https://circlecitycon.com/talks/evicting_the_password_from_the_digital_estate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/evicting_the_password_from_the_digital_estate/</guid>
+      <description>Passwords have been used to secure user sessions in computing since the time sharing era. Cryptography, collaborative standards development, and persistent network connectivity have led to new options for authenticators, while determined attackers and ever-expanding computing power have minimized a password’s security value. Recently, NIST engaged with the identity community to substantially revise guidance around digital identities, authenticators, and federation security. This session will explore authenticators from passwords to the latest FIDO 2 standards, focusing on how to improve security while not negatively impacting user experience.</description>
+    </item>
+    
+    <item>
+      <title>F! Attribution</title>
+      <link>https://circlecitycon.com/talks/f_attribution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/f_attribution/</guid>
+      <description>Nelson Mandela said, “Know your enemy - and learn about his favorite sport.” What does it mean to get to the know the enemy in 2019? Join us on a 5+ year journey of a CTI department and why a Fortune 500 decided to F! Attribution. In this talk, you’ll learn how the who and why of attribution means little when compared with TTPs in most company’s cyber threat intelligence programs.</description>
+    </item>
+    
+    <item>
+      <title>Failure Is Not an Option: Developing Realistic Disaster Recovery Tests</title>
+      <link>https://circlecitycon.com/talks/failure_is_not_an_option_developing_realistic_disaster_recovery_tests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/failure_is_not_an_option_developing_realistic_disaster_recovery_tests/</guid>
+      <description>Disaster Recovery isn&amp;rsquo;t exciting or prestigious, but recent real world examples have shown the consequences for failing to create and test an effective plan. Building a clear, flexible plan will let you recover gracefully from an outage and meet your service requirements. This talk will lay out how to model failures in your environment, create and document a plan for recovery, and test it thoroughly. Prepare your team to respond to a disaster (be it environmental, fire, or ransomware to name a few).</description>
+    </item>
+    
+    <item>
+      <title>Fletcher Heisler</title>
+      <link>https://circlecitycon.com/bios/fletcher_heisler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/fletcher_heisler/</guid>
+      <description>Fletcher is the founder and CEO of Hunter2, a company that provides engineering teams with modern appsec training that isn&amp;rsquo;t lame; through an online platform of interactive labs, developers get hands-on practice exploiting and patching up real applications. Fletcher previously ran Real Python, an online community of hundreds of thousands learning modern web development and programming practices.
+ training Offensive Python: Custom scripts for pentests
+ talk Modern AppSec Gotchas</description>
+    </item>
+    
+    <item>
+      <title>Gabrielle Hempel</title>
+      <link>https://circlecitycon.com/bios/gabrielle_hempel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/gabrielle_hempel/</guid>
+      <description>Gabrielle E. Hempel, B.A., B.S. Gabrielle is a graduate of the University of Cincinnati, where she studied Neuroscience and Psychology. She worked for Advarra Institutional Review Board in regulatory pharmaceutical and medical device compliance, and led specialized committees targeting Phase I research and emergency research. She moved to IT consulting in 2018, and currently works as an Information Security Analyst with Accenture while pursuing a certificate in Advanced Computer Security at Stanford.</description>
+    </item>
+    
+    <item>
+      <title>Get off my lawn… or are we looking for the right people?</title>
+      <link>https://circlecitycon.com/talks/get_off_my_lawn_or_are_we_looking_for_the_right_people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/get_off_my_lawn_or_are_we_looking_for_the_right_people/</guid>
+      <description>Time have changed, paths have changed, heck the only thing constant is change. Therefor what we must look for to hire should change, but has it? There are some people and companies that are willing to take chances on people that are a bit outside the “norm” for our industry, but should those people be outside the norm? with our shortage of people, and the low numbers of diversification of people in our field isn’t it time we changed our parameters a bit?</description>
+    </item>
+    
+    <item>
+      <title>Glytch Tech</title>
+      <link>https://circlecitycon.com/bios/glytch_tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/glytch_tech/</guid>
+      <description>Glytch has been referred to as a real life MacGyver, making, breaking, (and fixing!) drones, robots, and other bits for over a decade. He’s designed and built dozens of 3d printed drones in various shapes and sizes. He focuses on optimizing and explaining the technologies underlying these projects to be human understandable, the results of which are viewable via his YouTube channel. He’s built projects such as Project Cuckoo, a drone for carrying a Hak5 WiFi Pineapple; General Chaos, a battlebot platform for serving mountain dew or launching rockets; a Wrench mask which tracks and displays the wearer’s eye expressions in real-time; deodorant-launching air cannons; an electric motorcycle using repurposed car parts; high performance computing rigs; as well as occasional repair and self sufficiency related videos.</description>
+    </item>
+    
+    <item>
+      <title>Growing Pains: Incorporating Security into IT for Small Business</title>
+      <link>https://circlecitycon.com/talks/growing_pains_incorporating_security_into_it_for_small_business/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/growing_pains_incorporating_security_into_it_for_small_business/</guid>
+      <description>Ever wonder what it’s like to grow a company’s infrastructure and security from a mom-and-pop, just-make-it-work situation to incorporate frameworks like ITIL, OWASP, CIS and NIST? Do you muse over the internal conflict between Confidentiality, Integrity and Availability? Ever lost a crap-load of data and wondered if you still had a job? Do you not havea security department but still need security? Ever been told you can’t get there from here, and you replied, “oh yeah?</description>
+    </item>
+    
+    <item>
+      <title>Hacking Humans: Addressing Vulnerabilities in the Advancing Medical Device Landscape</title>
+      <link>https://circlecitycon.com/talks/hacking_humans_addressing_vulnerabilities_in_the_advancing_medical_device_landscape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/hacking_humans_addressing_vulnerabilities_in_the_advancing_medical_device_landscape/</guid>
+      <description>As technology advances, the health care critical infrastructure sector comprises much of the potential attack surface of the national security landscape. Medical devices are being fitted with “smart” technology in order to better serve patients and stay at the forefront of health technology. However, medical devices that enable connectivity, like all other computer systems, incorporate software that is vulnerable to threats.
+Medical device recalls increased 126% in the first quarter of 2018, mostly due to software issues and vulnerabilities.</description>
+    </item>
+    
+    <item>
+      <title>Himanshu Sharma</title>
+      <link>https://circlecitycon.com/bios/himanshu_sharma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/himanshu_sharma/</guid>
+      <description>Himanshu Sharma (Co-Trainer): Himanshu Sharma, has been in the field of bug bounty since 2009 and has been listed in Apple, Google, Microsoft, Facebook, Adobe, Uber, AT&amp;amp;T, Avira, and many more with hall of fame listings as proofs. . He has helped celebrities such as Harbhajan Singh in recovering their hacked accounts, and also assisted an international singer in tracking down his hacked account and recovering it. He has been a speaker at multiple international conferences Botconf &amp;lsquo;13, Confidence 2018 and RSA Asia Pacific and Japan &amp;lsquo;18 .</description>
+    </item>
+    
+    <item>
+      <title>How to reach and teach youth about Cybersecurity (if anybody will let you)</title>
+      <link>https://circlecitycon.com/talks/how_to_reach_and_teach_youth_about_cybersecurity_if_anybody_will_let_you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/how_to_reach_and_teach_youth_about_cybersecurity_if_anybody_will_let_you/</guid>
+      <description>Talking to kids about online safety and careers in InfoSec seems like a no-brainer and only a matter of carving out time to get your materials together and showing up, amirite? Having tried (and tried, and tried), and failed and somewhat succeeded in getting in front of high school students, I&amp;rsquo;d like to share some of the challenges, gatekeepers and pitfalls in engaging educators and parents in what would seem like a slam dunk.</description>
+    </item>
+    
+    <item>
+      <title>InfoSuck: The Nasty Bits Of The Industry We Want To Tell Noobs But Aren&#39;t Allowed To In Polite Company.</title>
+      <link>https://circlecitycon.com/talks/infosuck_the_nasty_bits_of_the_industry_we_want_to_tell_noobs_but_arent_allowed_to_in_polite_company/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/infosuck_the_nasty_bits_of_the_industry_we_want_to_tell_noobs_but_arent_allowed_to_in_polite_company/</guid>
+      <description>There are hundreds of blogs, papers, tweets, etc that give the lowdown on &amp;ldquo;How to break into Infosec.&amp;rdquo; There aren&amp;rsquo;t any that help to guide these poor sheep past the offer letter. We&amp;rsquo;re not allowed to talk about getting laid off or fired. We&amp;rsquo;re told to not discuss our salaries with each other because its &amp;ldquo;impolite&amp;rdquo;. We&amp;rsquo;re discouraged from discussing these things for fear of being blacklisted or being thought of as &amp;ldquo;unprofessional&amp;rdquo;, damaged goods.</description>
+    </item>
+    
+    <item>
+      <title>Information Security Practice Principles: a Rosetta Stone for information security work</title>
+      <link>https://circlecitycon.com/talks/information_security_practice_principles_a_rosetta_stone_for_information_security_work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/information_security_practice_principles_a_rosetta_stone_for_information_security_work/</guid>
+      <description>Too often, security professionals, developers, and operators are left to re-learn security methods as technology changes. They don&amp;rsquo;t speak the same language as one another when it comes to security, let alone any language easily understood by management, lawyers, or laypeople. Our day-to-day way of speaking about information security is bound up in individual technologies and controls, often ignoring the forest for the trees: no strategy.
+This talk presents the Information Security Practice Principles (ISPPs), developed at the Indiana University Center for Applied Cybersecurity Research.</description>
+    </item>
+    
+    <item>
+      <title>Inside Out Security - Building Castles not Warehouses</title>
+      <link>https://circlecitycon.com/talks/inside_out_security__building_castles_not_warehouses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/inside_out_security__building_castles_not_warehouses/</guid>
+      <description>Medieval castle builders made effective use of simple design principles to defend the most valuable assets in their castles. Centuries later there are clearly lessons we’ve forgotten that could help when it comes to how we defend our IT assets. From the moment we started to enable multi-user systems, we’ve gone about defending our information in all the wrong ways. In this session we’ll look at a completely different approach to designing security into our systems.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to CTFs with Kali Linux</title>
+      <link>https://circlecitycon.com/training/introduction_to_ctfs_with_kali_linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/introduction_to_ctfs_with_kali_linux/</guid>
+      <description>Cyber Security can mean a lot of different things to a lot of different people. In this class we take a holistic approach to understanding Cyber Security using Kali Linux and describe section by section what the tools are and what they do. During the class you will be given a chance to use your new found skills in our custom CTF training environment.
+ SPEAKER Josh Turley
+ SPEAKER Jayson Brown</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s Coming From Inside the House: An Inside-Out Approach to NodeJS Application Security</title>
+      <link>https://circlecitycon.com/talks/its_coming_from_inside_the_house_an_insideout_approach_to_nodejs_application_security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/its_coming_from_inside_the_house_an_insideout_approach_to_nodejs_application_security/</guid>
+      <description>Getting application security right often requires that developers have a deeper than average understanding of the security domain. In what other industry is this the case? We don&amp;rsquo;t have to be M.D.s to get a medical diagnosis; we don&amp;rsquo;t have to be auto mechanics to get our cars fixed, yet we in security wag our fingers at &amp;ldquo;iD10t errors&amp;rdquo; and build grand mousetraps to catch &amp;ldquo;so obvious&amp;rdquo; developer missteps, when they may not know what they need to add, change or remove from their applications to make it &amp;ldquo;secure&amp;rdquo; in the first place.</description>
+    </item>
+    
+    <item>
+      <title>I’ll Complete My Threat Model Later Mom!: Infosec in Middle School.</title>
+      <link>https://circlecitycon.com/talks/ill_complete_my_threat_model_later_mom_infosec_in_middle_school/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/ill_complete_my_threat_model_later_mom_infosec_in_middle_school/</guid>
+      <description>Infosec in middle school? It’s less likely than you think! Security education initiatives and curricula are being creating and piloted in various school districts all over the country. However, many of those initiatives are currently focused in either high school or post-secondary education. There are few security education initiatives that target middle school students. In this talk, I will briefly explain about computer science and security initiatives in the United States.</description>
+    </item>
+    
+    <item>
+      <title>Jared Peck</title>
+      <link>https://circlecitycon.com/bios/jared_peck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/jared_peck/</guid>
+      <description>Jared Peck is a threat intelligence analyst in the financial services industry. After some 15 years as a firefighter / paramedic, he turned his computer hobby into a profession. He worked his way from network administrator to being part of a SOC and now he does threat intelligence and attack detection development for a Fortune 500 company.
+ talk F! Attribution  </description>
+    </item>
+    
+    <item>
+      <title>Jason Smith</title>
+      <link>https://circlecitycon.com/bios/jason_smith/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/jason_smith/</guid>
+      <description>Self Taught Full Stack Developer, Code Louisville Mentor, and InfoSec Generalist. I love helping others with everything technology and am passionate about getting kids coding, hacking, tinkering and thinking about technology as a means to positively impacting the world around them. My son has fully embraced the Con life with me and begun his own self-learning journey and I couldn&amp;rsquo;t be happier!
+ talk How to reach and teach youth about Cybersecurity (if anybody will let you)  </description>
+    </item>
+    
+    <item>
+      <title>Jayson Brown</title>
+      <link>https://circlecitycon.com/bios/jayson_brown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/jayson_brown/</guid>
+      <description>Jayson Brown has been an IT jobber since the late 90&amp;rsquo;s. His knowledge is vast and deep when it comes to IT security. If you&amp;rsquo;ve seen it, he’s probably built it, hacked it and secured it. In his spare time, he designs artisan punch cards for his in-house Mainframe that he uses to hack all the things. His current work allows him to yell at security analysts about the differences between NAT and port forwarding and securing enterprise level business operations as an Internal Penetration Tester.</description>
+    </item>
+    
+    <item>
+      <title>Jeff Man</title>
+      <link>https://circlecitycon.com/bios/jeff_man/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/jeff_man/</guid>
+      <description>Respected Information Security expert, advisor, evangelist, co-host on Paul&amp;rsquo;s Security Weekly, and recently returned to a Consulting/Advisory role at Online Business Systems. Over 35 years of experience working in all aspects of computer, network, and information security, including risk management, vulnerability analysis, compliance assessment, forensic analysis and penetration testing. Previously held security research, management and product development roles with the National Security Agency, the DoD and private-sector enterprises and was part of the first penetration testing &amp;ldquo;red team&amp;rdquo; at NSA.</description>
+    </item>
+    
+    <item>
+      <title>Johnny Xmas</title>
+      <link>https://circlecitycon.com/bios/johnny_xmas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/johnny_xmas/</guid>
+      <description>Johnny Xmas is a predominant personality in the Information Security community, most well-known for his work on the TSA Master Key leaks between 2014 and 2018. Currently working with the Australian firm ‘Kasada’ to defend against the automated abuse of web infrastructure, he was previously the lead consultant on Uptake’s Industrial Cybersecurity Platform. Prior to this, he spent many years in the field as a penetration tester, focusing heavily on both IT and physical security of financial and medical facilities.</description>
+    </item>
+    
+    <item>
+      <title>Josh Conway</title>
+      <link>https://circlecitycon.com/bios/josh_conway/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/josh_conway/</guid>
+      <description>Josh Conway is a hacker, systems administrator, 3d printer software &amp;amp; hardware developer, amateur radio operator, musician, and more. He finds interest in creating new things, reusing tech in different ways, and abusing ‘unintended’ methodologies hidden inside hardware and software.
+He is a member of BloomingLabs, the first hackerspace in Indiana, along with the cat-wrangler for the local 2600 meeting. Previous projects include: 3Dollar Scanner, Facial Recognition for your Con, and Thalmic Myo Open Sourcing via Public Hacking.</description>
+    </item>
+    
+    <item>
+      <title>Josh Turley</title>
+      <link>https://circlecitycon.com/bios/josh_turley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/josh_turley/</guid>
+      <description>Josh Turley, Information Security Engineer, has been working in the IT space since the mid 2000’s. He has held thousands of jobs throughout hundreds of industries as they are related to Information Technology. He currently spends his days threat hunting and doing OSINT work for large organizations and penetration testing of both internal and 3rd party companies. He&amp;rsquo;s been known for his sarcastic tone and his heart of gold (the ship, not an actual heart of gold).</description>
+    </item>
+    
+    <item>
+      <title>Kathleen Smith</title>
+      <link>https://circlecitycon.com/bios/kathleen_smith/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/kathleen_smith/</guid>
+      <description>Kathleen Smith, CMO aka Outreach Lead for CyberSecJobs.Com and ClearedJobs.Net, she has coached thousands of job seekers and employers on how to better connect and work together to achieve the mutual goal of employment. Kathleen presents at several security conferences each year on recruiting and job search. Some of the conferences she has presented at as a sole presenter or a moderator include BSidesLV, BSidesTampa, BSidesSATX, WIE IEEE, BSidesDE, FedCyber, Cyber912 and CyberSecureGov.</description>
+    </item>
+    
+    <item>
+      <title>Learning to Hack Bluetooth Low Energy with BLE CTF</title>
+      <link>https://circlecitycon.com/training/learning_to_hack_bluetooth_low_energy_with_ble_ctf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/learning_to_hack_bluetooth_low_energy_with_ble_ctf/</guid>
+      <description>While BLE CTF is in fact a cft, it was created as a series of learning exercises to teach the fundamentals of interacting with and hacking Bluetooth Low Energy. Each exercise, or flag, aims to iteratively teach a new concept to the user. For this workshop, we will step through a series of exercises to teach beginner students new concepts and allow more seasoned users to try new tools and techniques.</description>
+    </item>
+    
+    <item>
+      <title>Lisa Wallace</title>
+      <link>https://circlecitycon.com/bios/lisa_wallace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/lisa_wallace/</guid>
+      <description>Lisa Wallace is MSI’s Technical Director and continues in her roles as security focal and project manager. Lisa is actively involved with internal and external vulnerability assessments and penetration testing, application assessments, digital forensics, threat intelligence, incident response and eDiscovery.
+Her background over the last 20+ years includes the security items mentioned above, as well as server management and anti-virus research and administration. She has worked in a variety of fields, including utilities, financial services, and telecommunications and has consulted in a number of ancillary industries.</description>
+    </item>
+    
+    <item>
+      <title>Location</title>
+      <link>https://circlecitycon.com/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/location/</guid>
+      <description> CircleCityCon this year is located at the beautiful Westin Indianapolis in downtown Indianapolis. We have been at the Westin in years past and the venue has worked well for us. We also have a room block at the hotel (Att00-1LM) available for you to use for accommodations at the venue.
+Some information to get you started in the area:  Google Map Yelp ratings for walkable restaurants  </description>
+    </item>
+    
+    <item>
+      <title>Mark Demarest</title>
+      <link>https://circlecitycon.com/bios/mark_demarest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/mark_demarest/</guid>
+      <description>Mark Demarest is a security analyst for Bishop Fox, a consulting firm providing cybersecurity services to the Fortune 1000, global financial institutions.
+Mark’s experience includes setting up multiple Cuckoo Sandboxes and aiding Bishop Fox consultants in examining payloads discovered during security assessments. While attending Arizona State University, he wrote a project report defending the need for companies to use Cuckoo Sandbox in their security programs. During the project, Mark guided a teammate without any experience in malware, malware sandboxes, or Linux command lines to set up his own Cuckoo Sandbox.</description>
+    </item>
+    
+    <item>
+      <title>Mary Waddick</title>
+      <link>https://circlecitycon.com/bios/mary_waddick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/mary_waddick/</guid>
+      <description>Mary Anne is a Cyber Engineer at Raytheon in Indianapolis. She has a master’s Degree in Information Assurance with a focus on Cyber Security from Regis University. She has worked at Raytheon for 29 years, both with Software Engineering and Cyber Engineering. She helps programs understand the importance of secure coding practices, and helps them use static code analysis tools for finding and understanding issues.
+ talk Could Static Code Analysis and Secure Coding have Saved the Death Star?</description>
+    </item>
+    
+    <item>
+      <title>Matthew Southworth</title>
+      <link>https://circlecitycon.com/bios/matthew_southworth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/matthew_southworth/</guid>
+      <description>Matt is on the security team at Priceline. He was born in Indiana and somehow wound up near New York. More coffee, please.
+ talk Behind The Locked Door: we built an escape room for security awareness  </description>
+    </item>
+    
+    <item>
+      <title>Micah Brown</title>
+      <link>https://circlecitycon.com/bios/micah_brown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/micah_brown/</guid>
+      <description>Micah K Brown is a member of the IT Security Engineering team at American Modern Insurance, part of the Munich RE Group. Over the past two years he has served as the lead Engineer on the DLP implementation for Data Loss Prevention for the Munich RE organizations located in North and South America. In this role Micah has learned the many intricacies of what works in a successful DLP project. In his free time, Micah serves on the Greater Cincinnati ISSA Chapter as Vice President.</description>
+    </item>
+    
+    <item>
+      <title>Mike (Shecky Kavka</title>
+      <link>https://circlecitycon.com/bios/mike_shecky_kavka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/mike_shecky_kavka/</guid>
+      <description>Shecky (Mike) has been in the IT field for over 20 years. Having worked with computers since a young age, he currently is a Senior Network Engineer working on blue team solutions in the financial industry. He also is involved in the Chicago infosec community helping organize Burbsec North and the Chicago Infosec Happy hour. Shecky (Mike)
+ talk Get off my lawn… or are we looking for the right people?</description>
+    </item>
+    
+    <item>
+      <title>Mitchell Parker</title>
+      <link>https://circlecitycon.com/bios/mitchell_parker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/mitchell_parker/</guid>
+      <description>Mitchell Parker is the Executive Director of Information Security and Compliance at Indiana University Health. Mitch’s areas of focus include taking complex security concepts and emerging technologies, and breaking them down so that everyone, even those who do not have security backgrounds, are able to understand and act upon them. He is a regular presenter at conferences include BSides, ISSA, HIMSS, ISMG Media, and numerous others. He also regularly writes for publications, and has a popular monthly blog with CSO Magazine, Security From the Upside Down, which covers technology, leadership, and communication issues in the Information Security community.</description>
+    </item>
+    
+    <item>
+      <title>Modern AppSec Gotchas</title>
+      <link>https://circlecitycon.com/talks/modern_appsec_gotchas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/modern_appsec_gotchas/</guid>
+      <description>We keep building better web frameworks full of built-in security features, but we keep finding new ways to work around them! Modern web developers can typically afford to take a lot for granted when it comes to appsec, with languages and frameworks that by default enforce many decent security practices. Browsers are getting better at automatically protecting users and blocking unsafe content as well. However, that just makes it all the more important to know why these helpful features are in place and how best to leverage them, instead of ignoring, fighting against or disabling them.</description>
+    </item>
+    
+    <item>
+      <title>Modern WAF Bypass Techniques for Autonomous Attacks</title>
+      <link>https://circlecitycon.com/training/modern_waf_bypass_techniques_for_autonomous_attacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/modern_waf_bypass_techniques_for_autonomous_attacks/</guid>
+      <description>Scripting and automation are absolutely critical to many aspects of an attacker’s effectiveness, penetration tester or otherwise. Modern WAFs and “bot detections” often add a small layer of intelligence to their monitoring, attempting to determine whether or not an attack is being automated, and shut the bot/botnet down. This class will cover how common forms of WAF &amp;amp; bot detections work and how you can modify your scripting to fly under the radar.</description>
+    </item>
+    
+    <item>
+      <title>Mohammed Aldoub</title>
+      <link>https://circlecitycon.com/bios/mohammed_aldoub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/mohammed_aldoub/</guid>
+      <description>Mohammed Aldoub is an independent security consultant from Kuwait, who, in his 10 years of experience, worked on creating Kuwait&amp;rsquo;s national infrastructure for PKI, cryptography, smartcards and authentication. Mohammed delivered security trainings, workshops and talks in the Netherlands, USA, Czech Republic, Lebanon, Riyadh, Kuwait, and other places.
+Mohammed is deeply interested in malware, especially those used by state actors in the Middle East zone, where he volunteers as OWASP Kuwait&amp;rsquo;s chapter leader.</description>
+    </item>
+    
+    <item>
+      <title>More Tales from the Crypt...Analyst</title>
+      <link>https://circlecitycon.com/talks/more_tales_from_the_cryptanalyst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/more_tales_from_the_cryptanalyst/</guid>
+      <description>The speaker, a former Cryptographer for the National Security Agency (NSA), has previously presented “Tales from the Crypt…Analyst” where he shared some of his experiences as both a designer of and breaker of cryptographic systems. “More Tales from the Crypt…analyst” picks up with the speaker’s third “tour of duty” at NSA where he became one of the founding members of NSA’s first penetration testing or Red Team. While the thought of NSA hiring hackers or engaging in cyber warfare might be fairly common today, it was not always the case.</description>
+    </item>
+    
+    <item>
+      <title>Nancy Snoke</title>
+      <link>https://circlecitycon.com/bios/nancy_snoke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/nancy_snoke/</guid>
+      <description>Nancy Snoke is currently a Senior IT Security Engineer with PGAC specializing in application security. Previously, she has worked as penetration tester and as senior software engineer focusing on application security. Nancy has previously spoken at Bsides, Skydogcon, Derbycon and NOLACON. She got her undergraduate degree in Computer Engineering in New Orleans at Tulane University, and her Masters in Computer Science at University of Illinois Urbana-Champaign.
+ talk One Random Insecure Wep Application Please (ORIWAP)  </description>
+    </item>
+    
+    <item>
+      <title>Nexus Zeta - How a newbie hacker managed to create a monster botnet</title>
+      <link>https://circlecitycon.com/talks/nexus_zeta__how_a_newbie_hacker_managed_to_create_a_monster_botnet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/nexus_zeta__how_a_newbie_hacker_managed_to_create_a_monster_botnet/</guid>
+      <description>During our research, we found a 0day remote code execution vulnerability (CVE-2017-17215) in Huawei home router HG532 model. The vulnerability allows remote users to execute arbitrary commands by injection shell meta-characters in 2 elements (NewStatusURL, NewDownloadURL) in a POST request sent to upgrade the device’s firmware. We have found hundreds of thousands of attempts in the wild to exploit it. Our investigation led to finding the threat actor, Kenneth Schuchman, a 20 year old guy from Washington with the covered nickname of ‘Nexus Zeta’.</description>
+    </item>
+    
+    <item>
+      <title>Of CORS it&#39;s Exploitable! What&#39;s Possible with Cross-Origin Resource Sharing?</title>
+      <link>https://circlecitycon.com/talks/of_cors_its_exploitable_whats_possible_with_crossorigin_resource_sharing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/of_cors_its_exploitable_whats_possible_with_crossorigin_resource_sharing/</guid>
+      <description>Cross-origin resource sharing (CORS) is extremely common on modern web apps, but scanning tools are terrible at analyzing CORS policy. If testers really understand CORS policy, a damaging exploit is often not far away. Is it possible to force a user to do something significant? Does using a GUID offer any protection? Does the authentication mechanism really protect against cross-origin attacks? Is it really risky to allow all origins? Do pre-flight requests always help?</description>
+    </item>
+    
+    <item>
+      <title>Offensive Python: Custom scripts for pentests</title>
+      <link>https://circlecitycon.com/training/offensive_python_custom_scripts_for_pentests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/offensive_python_custom_scripts_for_pentests/</guid>
+      <description>In this workshop, we&amp;rsquo;ll write custom Python scripts to automate and augment penetration testing. Learn the basics of port scanning, crafting custom packets, and building your own exploits in Python.
+We will work through examples using a Jupyter Notebook, which you can make a copy of to play around with after the conference. (To get the most out of this class, you should already have some basic programming experience in Python or a similar programming language like Ruby.</description>
+    </item>
+    
+    <item>
+      <title>One Random Insecure Wep Application Please (ORIWAP)</title>
+      <link>https://circlecitycon.com/talks/one_random_insecure_wep_application_please_oriwap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/one_random_insecure_wep_application_please_oriwap/</guid>
+      <description>You may need an insecure web application as part of yearly developer compliance training. You may need an insecure web application for a companywide contest for cyber security awareness month. Perhaps you just like playing with insecure web applications on the weekend. There are a variety of insecure web applications out there. If you have specific needs &amp;ndash; maybe XSS in VBScript as opposed to JavaScript &amp;ndash;, or regular use-case where you want something similar to showcase the OWASP top 10 yet different topics and look every time.</description>
+    </item>
+    
+    <item>
+      <title>Policies</title>
+      <link>https://circlecitycon.com/policies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/policies/</guid>
+      <description>Code of Conduct We have no tolerance for physical/verbal/sexual harassment of any human!
+Our “Code of Conduct” is “Be Excellent to Each Other” AKA the Golden Rule. Failing that, it is “Do not be an Ass* or we will kick your ass out!”.
+Asking questions of a speaker during their talk, to get clarity or debate a point is not being an ass – heckling or haranguing the speaker is.</description>
+    </item>
+    
+    <item>
+      <title>Powershell 101 for Security Teams</title>
+      <link>https://circlecitycon.com/training/powershell_101_for_security_teams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/powershell_101_for_security_teams/</guid>
+      <description>This is an introductory course on using Windows Powershell 5.1 and Powershell 7 (Formerly Powershell Core) with a focus on skills that are useful for Defenders. Powershell is a highly effective tool that is available in a large amount of enterprises. Agenda:
+Introduction to Windows Powershell and Powershell Core -Setting up a Powershell test lab in Amazon Web Services -Nuances of Powershell Core , and Powershell 5.1/ Powershell Core backwards compatibility -Current limitations of Powershell Core -Useful things you can make/ do in Powershell -Common Defensive Security Use-Cases for Powershell -Powershell Tips and Tricks, to make your life easier</description>
+    </item>
+    
+    <item>
+      <title>Priyank Nigam</title>
+      <link>https://circlecitycon.com/bios/priyank_nigam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/priyank_nigam/</guid>
+      <description>As a senior security engineer, Priyank’s primary areas of focus are mobile application penetration testing and secure source code reviews. Over the past 4 years, he has advised Fortune 500 brands and startups and does mobile and IoT related research in his spare time. He also believes it is unwise to place trust in your smartphones.
+ talk What The Frida Gave Me: A Novel Take on E-Ticket Forging and E-Ticket Stealing  </description>
+    </item>
+    
+    <item>
+      <title>Rebecca Deck</title>
+      <link>https://circlecitycon.com/bios/rebecca_deck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/rebecca_deck/</guid>
+      <description>Rebecca Deck is a senior application security consultant for DirectDefense where she performs security testing on web, mobile, and client-side applications. Rebecca previously worked as a security engineer, incident responder, software developer, and soldier. Rebecca&amp;rsquo;s current work focuses on identifying software vulnerabilities, writing exploits, improving application testing methodologies, and better integrating software security in the software development life cycle.
+ talk Of CORS it&amp;rsquo;s Exploitable! What&amp;rsquo;s Possible with Cross-Origin Resource Sharing?</description>
+    </item>
+    
+    <item>
+      <title>Red Teaming as a Service: Simulating Blackhat Attacks for Organisations</title>
+      <link>https://circlecitycon.com/training/red_teaming_as_a_service_simulating_blackhat_attacks_for_organisations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/red_teaming_as_a_service_simulating_blackhat_attacks_for_organisations/</guid>
+      <description>The goal of the training is to give a red teamer&amp;rsquo;s perspective to hackers and penetration testers who want to up their game of VAPT. We will start first with the fundamental concepts of red teaming and its process followed by differentiating how red-teaming is different than normal pentesting and the benefits of having a red-teaming approach towards application security testing. After this, the training will build upon from the ground up starting with the fundamental concepts of Information Gathering and Recon + various un-common tools and techniques to gather much more information about a target.</description>
+    </item>
+    
+    <item>
+      <title>Rewanth Cool</title>
+      <link>https://circlecitycon.com/bios/rewanth_cool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/rewanth_cool/</guid>
+      <description>Rewanth Cool is currently working as a security consultant at Payatu. Speaker at HITB Dubai, Null Pune and trainer at MIT Pune. He participates in numerous Capture-the-Flags (CTF) and enjoys participating in private bug bounty programs. He is a programmer and open source contributor. He is an active Hack The Box player as well.
+Currently, he is focused on vulnerability research, web application security and contribution to security tools. He collaborated with Nmap maintainer Daniel Miller a.</description>
+    </item>
+    
+    <item>
+      <title>Rich Rumble</title>
+      <link>https://circlecitycon.com/bios/rich_rumble/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/rich_rumble/</guid>
+      <description>Rich likes talking in the 3rd person, long walks on secure beaches. Rich likes soft LED lit dinners and has unrequited love for Bruce Schneier. Rich feels that last line made him sound creepy, but thinks anyone who takes the time to get to know Rich will understand. Rich has to know how things work and takes everything apart as soon as it arrives. Rich calls the re-assembly process &amp;ldquo;reenginering&amp;rdquo; because there are always items left over.</description>
+    </item>
+    
+    <item>
+      <title>Ross Wolf</title>
+      <link>https://circlecitycon.com/bios/ross_wolf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/ross_wolf/</guid>
+      <description>Ross Wolf is a researcher at Endgame where he creates solutions to simplify detecting adversarial behavior in endpoint data. Prior to Endgame, Ross was an engineer at MITRE where he led projects that automated blue team processes by creating graphs of process activity and grouping related alerts. He was recently co-granted a patent for CALDERA, a project which automated post-compromise adversary emulation by chaining together attacker techniques. Ross also contributed to ATT&amp;amp;CK and the Cyber Analytics Repository.</description>
+    </item>
+    
+    <item>
+      <title>Ryan Holeman</title>
+      <link>https://circlecitycon.com/bios/ryan_holeman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/ryan_holeman/</guid>
+      <description>Ryan Holeman resides in Austin Texas where he works as the Global Security Overlord on Atlassian&amp;rsquo;s Security team. He is also an advisor for the endpoint security software company Ziften Technologies. He received a Masters of Science in Software Engineering from Kent State University. His graduate research and masters thesis focused on C++ template metaprograming. He has spoken at many respected venues such as Black Hat, DEF CON, Lockdown, BSides, Ruxcon, Notacon, and Shmoocon.</description>
+    </item>
+    
+    <item>
+      <title>Sam Crowther</title>
+      <link>https://circlecitycon.com/bios/sam_crowther/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/sam_crowther/</guid>
+      <description>Sam Crowther is the CEO and founder of Kasada.io, starting the company at the age of 19. He now leads teams in Australia and the US, from his new base in Chicago. While still attending high school, Sam was the first student ever to be given two work placements at the &amp;ldquo;Australian NSA,&amp;rdquo; the Australian Signals Directorate. This experience allowed him quick placement on the Red Team at Macquarie Group, one of the world’s largest investment banks before leaving to dedicate his full efforts on leading Kasada’s efforts to destroy the Internet bot economy</description>
+    </item>
+    
+    <item>
+      <title>Secfarmer Secfarmer</title>
+      <link>https://circlecitycon.com/bios/secfarmer_secfarmer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/secfarmer_secfarmer/</guid>
+      <description>I dropped out of university because I thought it sucked. Now I do DFIR at cool companies.
+ training Powershell 101 for Security Teams  </description>
+    </item>
+    
+    <item>
+      <title>Securing and Attacking APIs</title>
+      <link>https://circlecitycon.com/training/securing_and_attacking_apis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/securing_and_attacking_apis/</guid>
+      <description>With the increased, and eventually complete, reliance on APIs in modern systems, as well as the quick decline of the monolithic architecture for systems and applications; it is becoming increasingly necessary to tackle and understand the various security issues, weaknesses and gotchas in API designs. Many products, platforms and technologies now expose an API or two (or many more), sometimes in decentralized and autonomous fashion. Where does security come in this new world of rapid build-up and teardown of microservices and serverless (functionality as a Service - Faas) architectures?</description>
+    </item>
+    
+    <item>
+      <title>Security lessons from the Woofmutt…</title>
+      <link>https://circlecitycon.com/talks/security_lessons_from_the_woofmutt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/security_lessons_from_the_woofmutt/</guid>
+      <description>Life, and all of its lessons can come from many directions, in this instance I’m going to take a step back from the normal avenues and focus on what a pair of large Great Danes have helped me learn about our industry…some thoughts below: • Puppy eyes, drool AND sideways looks work…social engineering IS a good skill to have • Try everything at least once, even if it means sticking your head in the trashcan… • Always be upfront, that way there’s no miscommunication • If at first you fail, try again; eventually you will get the chew toy on top of the bookcase.</description>
+    </item>
+    
+    <item>
+      <title>SigInt for the Masses: Building and Using a Signals Intelligence Platform for Less than $150</title>
+      <link>https://circlecitycon.com/talks/sigint_for_the_masses_building_and_using_a_signals_intelligence_platform_for_less_than_150/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/sigint_for_the_masses_building_and_using_a_signals_intelligence_platform_for_less_than_150/</guid>
+      <description>“Who said something? What did they say? Where did they say it? What can I do with it?” These are the questions people have when working with unknown radio systems. This is the art and science of Signals Intelligence (SigInt).
+We discuss the basic requirements for working with SigInt, along with a sample platform using a Raspberry Pi and a RTLSDR radio receiver. The discussion will then briefly touch on other hardware that can enable SigInt work, that are not incorporated in the demo platform.</description>
+    </item>
+    
+    <item>
+      <title>Socio</title>
+      <link>https://circlecitycon.com/socio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/socio/</guid>
+      <description> Download the Socio app for your device.  
+  </description>
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
+      <link>https://circlecitycon.com/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/sponsors/</guid>
+      <description>  .sponsor { max-width: 30%; max-height: 120px; padding: 10px; width: auto; height: auto; }  Gold Sponsors        Silver Sponsors        Bronze Sponsors    Basic Sponsors    </description>
+    </item>
+    
+    <item>
+      <title>Standardizer: a standardization framework for your security alerts</title>
+      <link>https://circlecitycon.com/talks/standardizer_a_standardization_framework_for_your_security_alerts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/standardizer_a_standardization_framework_for_your_security_alerts/</guid>
+      <description>It is necessary to write custom alerts within your organization to detect organization and product specific attacks. It can be difficult to maintain these alerts, enable alert creation continuity across multiple teams &amp;amp; geographic regions, have an objective when creating an alert, measuring historical activity, and making decisions on naming convention and standardization. In this session, you will learn how the incident response team at Atlassian has created a framework for the standardization of your alerts.</description>
+    </item>
+    
+    <item>
+      <title>Star Wars: How an ineffective Data Governance Program destroyed the Galactic Empire</title>
+      <link>https://circlecitycon.com/talks/star_wars_how_an_ineffective_data_governance_program_destroyed_the_galactic_empire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/star_wars_how_an_ineffective_data_governance_program_destroyed_the_galactic_empire/</guid>
+      <description>• The Galactic Empire in Star Wars Episode 4 was destroyed not by a farmboy from Tatooine, but by an ineffective Data Governance Program. Regardless if you are a traditionalist and follow the original story of Kyle Katarn stealing the Death Star plans out of the Danuta base form Star Wars: Dark Forces or if you believe the new cannon established in Rogue One where Jyn Erso and her team transmits the Death Star plans to the Rebel Alliance ships overhead the planet of Scarif the results is the same.</description>
+    </item>
+    
+    <item>
+      <title>Steven Bernstein</title>
+      <link>https://circlecitycon.com/bios/steven_bernstein/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/steven_bernstein/</guid>
+      <description>@BSidesSATX coordinator. @BSidesLV AV Staff. IAM practitioner. #InfoSec #podcast host for @SEndeavors @CoderDojoSA Raspberry Pi class Working in the field of Digital Identity since 2002, SciaticNerd is actively involved in the San Antonio InfoSec community, attending and contributing to SAHA and other local groups and diligently working to promote involvement with computing, security, and technology.
+ talk Cons &amp;amp; Careers  </description>
+    </item>
+    
+    <item>
+      <title>Susan Sons</title>
+      <link>https://circlecitycon.com/bios/susan_sons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/susan_sons/</guid>
+      <description>Susan Sons (sesons@iu.edu) is Chief Security Analyst at the Indiana University Center for Applied Cybersecurity Research (CACR), also serving as Information Security Officer for Open Science Grid and Deputy Director of the Research SOC. Her work focuses on secure software engineering, ICS/SCADA security, operational security practice for research and development organizations, and security for legacy technologies in high-stakes applications. For about 17 years, Susan has volunteered with Search and Rescue teams as a medic, field engineer, scene commander, and crisis communicator.</description>
+    </item>
+    
+    <item>
+      <title>Swapnil Deshmukh</title>
+      <link>https://circlecitycon.com/bios/swapnil_deshmukh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/swapnil_deshmukh/</guid>
+      <description>Swapnil Deshmukh is CTO &amp;amp; co-founder of Certus Cybersecurity Solutions LLC. Swapnil has more than a decade of experience in enterprise cybersecurity and leads technical delivery. Swapnil is a subject matter expert in the application, cloud and emerging technologies security domains. He is co-author of Hacking Exposed Series, a best practice security handbook, and a frequent contributor at conferences, roundtables and publications. Prior to Certus Cybersecurity, Swapnil served as a Senior Director on Visa Inc.</description>
+    </item>
+    
+    <item>
+      <title>Sysmon Swimming Lessons for SOC folk and Hunt teams. AKA How not to drown in the deep end of the Windows internals enterprise ocean.</title>
+      <link>https://circlecitycon.com/training/sysmon_swimming_lessons_for_soc_folk_and_hunt_teams_aka_how_not_to_drown_in_the_deep_end_of_the_windows_internals_enterprise_ocean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/sysmon_swimming_lessons_for_soc_folk_and_hunt_teams_aka_how_not_to_drown_in_the_deep_end_of_the_windows_internals_enterprise_ocean/</guid>
+      <description>System Internals System Monitor (Sysmon) seems to be the silver bullet that the cybersecurity community has been waiting for in Windows environments. It is “free”. It allows for an almost forensic view through log analysis. It finally cuts down on the damn amount of log types in Windows! The reality is exactly what it often is in security: disappointing, fantastic, and complicated. Sysmon can be bypassed, modified, and even just turned off.</description>
+    </item>
+    
+    <item>
+      <title>The Hunter Games: How to find the adversary with Event Query Language</title>
+      <link>https://circlecitycon.com/talks/the_hunter_games_how_to_find_the_adversary_with_event_query_language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/the_hunter_games_how_to_find_the_adversary_with_event_query_language/</guid>
+      <description>How do you find malicious activity? We often resort to the cliche, you know it when you see it, but how do you even see it, without drowning in data? MITRE’s ATT&amp;amp;CK knowledge base organizes adversary behavior into tactics and techniques, and orients our approach to endpoint data. It suggests questions that might be worth asking, but not a way to ask them. The Event Query Language (EQL) allows a security analyst to naturally express queries for IOC search, hunting, and behavioral detections, while remaining platform and data source agnostic.</description>
+    </item>
+    
+    <item>
+      <title>The Resilient Reddit C2</title>
+      <link>https://circlecitycon.com/talks/the_resilient_reddit_c2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/the_resilient_reddit_c2/</guid>
+      <description>Twitter is frequently utilized to issue commands to a botnet: an account creates a post that is ran by a program locally on a user’s computer. Why limit it to Twitter? Reddit is a very viable platform that can be used to perform Command and Control operations while being able to blend in with other users as well as other network traffic. By combining multiple accounts with the post structure of Reddit, a Command and Control Herder can be persistent even past account or post deletion.</description>
+    </item>
+    
+    <item>
+      <title>Tomer Hadad</title>
+      <link>https://circlecitycon.com/bios/tomer_hadad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/tomer_hadad/</guid>
+      <description>I have been working in EY advanced cyber security center in Israel for the past three+ years. My role as the Subject Matter Expert of application security, includes performing vulnerability research, penetration testing and developing attack and penetration strategies for the following platforms and technologies: - Web applications, - Thick-Client/Native applications, - Mobile applications, - Multi-platforms products, including custom-made physical products, - Health care systems, - RFID systems. I have trained and developed tens of consultants, written training sessions and courses, and have developed tools and scripts in various fields.</description>
+    </item>
+    
+    <item>
+      <title>Tony Robinson</title>
+      <link>https://circlecitycon.com/bios/tony_robinson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/tony_robinson/</guid>
+      <description>Tony Robinson is an NSM and Virtualization enthusiast out of southeast michigan. When hes not finding bad packets, building complex VM labs, or destroying malware, he can be found with his pet Bassett Hounds and wife, watching anime, or playing video games.
+ training Building Virtual Labs: CCC Edition  </description>
+    </item>
+    
+    <item>
+      <title>Training and Education for the New Realities of Privacy and Security</title>
+      <link>https://circlecitycon.com/talks/training_and_education_for_the_new_realities_of_privacy_and_security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/training_and_education_for_the_new_realities_of_privacy_and_security/</guid>
+      <description>The recent security events over the past year have proven that technology is not enough in defending against cyber-attacks. Attack techniques such as BGP and DNS Hijacking, and privacy issues such as unauthorized Electronic Medical Record accesses don’t get detected by traditional tools and techniques. Our best weapon in this case is our end users. In this session, Mitch Parker, Executive Director of Information Security and Compliance at IU Health will discuss the training and education techniques used to inform a team of over 34,500 and build two-way communication.</description>
+    </item>
+    
+    <item>
+      <title>Wendy Edwards</title>
+      <link>https://circlecitycon.com/bios/wendy_edwards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/wendy_edwards/</guid>
+      <description>Wendy is a software developer interested in data science and security. She&amp;rsquo;s contributed to open source software projects and participated in NASA Datanauts and Space Apps Challenge. She was also a member of the 2017 SANS Women&amp;rsquo;s Academy, earned the GIAC GSEC, GCIH, and GCIA certificates, and joined the SANS Advisory Board.
+ talk What Can Data Science Do for Security?  </description>
+    </item>
+    
+    <item>
+      <title>What Can Data Science Do for Security?</title>
+      <link>https://circlecitycon.com/talks/what_can_data_science_do_for_security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/what_can_data_science_do_for_security/</guid>
+      <description>We present a high-level overview of how data science is used to extract insights from security data. Data science is an interdisciplinary field encompassing math, statistics, information science and computer science that gleans actionable information from data. With cybersecurity, data science often attempts to differentiate between the normal and the malicious. Data science has been applied to network security monitoring and malware analysis. We discuss some general principles and terminology and walk through examples.</description>
+    </item>
+    
+    <item>
+      <title>What The Frida Gave Me: A Novel Take on E-Ticket Forging and E-Ticket Stealing</title>
+      <link>https://circlecitycon.com/talks/what_the_frida_gave_me_a_novel_take_on_eticket_forging_and_eticket_stealing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/what_the_frida_gave_me_a_novel_take_on_eticket_forging_and_eticket_stealing/</guid>
+      <description>Millions of people rely on mobile e-ticketing applications to get from Point A to Point B every day. These applications serve as vital components for mass transit and essentially power America’s major cities.
+But thanks to Frida – a well-known but not very popular dynamic instrumentation framework – you can easily reverse engineer mobile e-ticketing applications. In this talk, we’ll explore new application-specific attack avenues using Frida. We will be leaving the jailbreak bypasses and SSL pinning bypasses of yesteryear by the wayside as we explore a new attack vector.</description>
+    </item>
+    
+    <item>
+      <title>Wibbly Wobbly: Designing Security for Systems that are Bigger on the Inside</title>
+      <link>https://circlecitycon.com/talks/wibbly_wobbly_designing_security_for_systems_that_are_bigger_on_the_inside/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/wibbly_wobbly_designing_security_for_systems_that_are_bigger_on_the_inside/</guid>
+      <description>Security happens where man meets machine. Or, fails to happen, as we see all too often. Blame the users. They’ll click anything. Blame the developers. Half their code is riddled with vulnerabilities anyways. Blame the IT staff. You’d think they’d at least know better. But perhaps, we’ve been placing the blame on the wrong places. What exactly happens where people and technology meet? At that moment, that very moment, what factors in human psychology and industrial design are at play?</description>
+    </item>
+    
+    <item>
+      <title>Wolfgang Goerlich</title>
+      <link>https://circlecitycon.com/bios/wolfgang_goerlich/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/wolfgang_goerlich/</guid>
+      <description>J Wolfgang Goerlich supports information security initiatives for clients in the healthcare, education, financial services, and energy verticals. In his current role with CBI, a cyber security consultancy firm, Wolfgang is the senior vice president for strategic security programs. Wolfgang also sponsors the Academy teams, providing mentoring and guidance to the junior-level talent. He is an active part of the security community and hosts a YouTube video series. Wolfgang regularly advises on and presents on the topics of risk management, incident response, business continuity, secure development life cycles, and more.</description>
+    </item>
+    
+    <item>
+      <title>Xena Olsen</title>
+      <link>https://circlecitycon.com/bios/xena_olsen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/xena_olsen/</guid>
+      <description>Xena Olsen is a cyber threat intelligence analyst in the financial services industry. She is a graduate of the SANS Women’s Academy with 3 GIAC certifications and a current graduate student seeking an MBA in IT Management. Her current focus is malware analysis and paying it forward through her Women in Information Security Group.
+ talk F! Attribution  </description>
+    </item>
+    
+    <item>
+      <title>Yashvier Kosaraju</title>
+      <link>https://circlecitycon.com/bios/yashvier_kosaraju/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/yashvier_kosaraju/</guid>
+      <description>Yash is a Senior Security Engineer at Twilio.Prior to Twilio he was working to help secure Box. He has been working in security for over half a decade.working in a variety of roles ranging from consulting to enterprise product security teams. He is a seasoned speaker and has presented in BSides SLC 2016, BoxWorks 2016, HackMiami 2017, ,BSides San Diego 2018, and will be presenting at Troopers 2019
+ talk Container Security Deep Dive  </description>
+    </item>
+    
+    <item>
+      <title>Yolonda Smith</title>
+      <link>https://circlecitycon.com/bios/yolonda_smith/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/yolonda_smith/</guid>
+      <description>Yolonda Smith is a Lead Infosec Analyst with Target Corporation’s Business Information Security Office (BISO), aligned with the Digital portfolio. In this role, she provides expert security consultancy to developers, business leaders and key stakeholders to ensure that Target&amp;rsquo;s web and mobile applications are designed, developed and deployed with minimal risk to Target or its guests.
+A security professional herself, she spent 8 years in the United States Air Force as a Cyberspace Operations Officer with duties and responsibilities varying from Mission Commander, (Advanced Network Operations) where her team planned and executed the first DoD Cyber Threat Hunting Missions to Flight Commander, (Cyber Defense Capabilities Development) where her team developed and fielded the first and only malware neutralization tool for the Predator Drone Weapon System.</description>
+    </item>
+    
+    <item>
+      <title>Zach Zenner</title>
+      <link>https://circlecitycon.com/bios/zach_zenner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/bios/zach_zenner/</guid>
+      <description>I am a Cyber Security Analyst who does hobbyist research on the side. A lot of my research and proof of concepts are based on subjects I’ve heard on podcasts (or read about) and then create my own creative spin on the concept. Currently I have three certifications from various institutions revolving around cyber security and continue to work towards more as I shape my professional career.
+ talk The Resilient Reddit C2  </description>
+    </item>
+    
+    <item>
+      <title>an Implantable Computer</title>
+      <link>https://circlecitycon.com/talks/an_implantable_computer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/an_implantable_computer/</guid>
+      <description>fast prototyping an implantable computer from off the shelf parts, there are two phases to this project phase 1 is making a fast prototype from off the shelf parts, and implanting it into a host, this is meant to be a proof of concept for the implantable computer which is able to sniff wifi, bluetooth, and nfc from within the human body&amp;hellip; allow the hacker to remote into the computer/host and gather information from a possible distributed array of people involved in the test.</description>
+    </item>
+    
+    <item>
+      <title>iOS apps hacking just got a lot easier</title>
+      <link>https://circlecitycon.com/talks/ios_apps_hacking_just_got_a_lot_easier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/ios_apps_hacking_just_got_a_lot_easier/</guid>
+      <description>When life gives your doors, search for windows:
+Imagine you&amp;rsquo;re testing an iOS application that requires paid registration. Maybe it has in app-purchase functionalities or some hidden privileged content. Perhaps even jailbreak detection or other mechanisms preventing your specific device from using the app. What would you do to bypass all of this? Often, bypassing such restrictions requires a deep analysis of the application&amp;rsquo;s methods and data structures. As time goes by, we need to find ways to do more, with less (time, effort, resources)&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://circlecitycon.com/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/schedule/</guid>
+      <description> Talks   Trainings   </description>
+    </item>
+    
+  </channel>
+</rss>

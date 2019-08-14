@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on CircleCityCon 7.0</title>
+    <link>https://circlecitycon.com/talks/</link>
+    <description>Recent content in Talks on CircleCityCon 7.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://circlecitycon.com/talks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3D printing canister-launchable drones for city-scale wardriving</title>
+      <link>https://circlecitycon.com/talks/3d_printing_canisterlaunchable_drones_for_cityscale_wardriving/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/3d_printing_canisterlaunchable_drones_for_cityscale_wardriving/</guid>
+      <description>Ever wanted to deploy a drone from a grenade launcher?
+A lot of drones were harmed in the making of this talk. This talk will demonstrate a process for designing and 3D printing your own canister launched drones. Canister launched drones are compact and portable, however conventional designs lack sufficient wing area and deployment mechanisms, making payload capacity and flight times far lower than they could be. I’ve created a concept that makes use of low weight, high tensile fabric wings which allows small drones, such as the 40mm diameter unit depicted below, to have practical on-site flight times while carrying a useful payload.</description>
+    </item>
+    
+    <item>
+      <title>5G: Security Pitfalls and Considerations</title>
+      <link>https://circlecitycon.com/talks/5g_security_pitfalls_and_considerations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/5g_security_pitfalls_and_considerations/</guid>
+      <description>5G networks leverage cutting-edge technologies such as software-defined networking (SDN) and network functions virtualization (NFV) to meet the requirements of broadband access everywhere. SDN and NFV in turn leverage advances in cloud technologies such as mobile edge computing (MEC) to meet ease of integration requirements. However, securely using these technologies and maintaining user privacy in future wireless networks are concerns that have not been adequately addressed. This talk provides an overview of security and user privacy challenges associated with cloud computing, SDN and NFV.</description>
+    </item>
+    
+    <item>
+      <title>A Few Things Right: Insights from Live and Simulated Incident Response</title>
+      <link>https://circlecitycon.com/talks/a_few_things_right_insights_from_live_and_simulated_incident_response/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/a_few_things_right_insights_from_live_and_simulated_incident_response/</guid>
+      <description>While we continue to support the concepts of compliance, defense, governance, and prevention, it&amp;rsquo;s time to shift our focus beyond those measures with more emphasis on strategic response to incidents. This talk offers real stories of failure and practical, quick-win lessons on how to be prepared to respond quickly, accurately, and confidently when incidents occur. Because they will occur. Doing a few, important things well means opening our hearts and minds to a new way of thinking and learning about each other and what it means to be prepared for a crisis.</description>
+    </item>
+    
+    <item>
+      <title>A Theme of Fear: Hacking the Paradigm</title>
+      <link>https://circlecitycon.com/talks/a_theme_of_fear_hacking_the_paradigm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/a_theme_of_fear_hacking_the_paradigm/</guid>
+      <description>The InfoSec industry was born out of fear. Initially it was fear from virus infections and later, external attacks. We capitalized on that fear to build more secure environments. But fear is hard to manage: too much fear breeds paralysis, and too little fear breeds complacency. This talk will take a look at the history of fear in InfoSec, explore how its impact has shaped the industry, and how it is now getting in the way.</description>
+    </item>
+    
+    <item>
+      <title>Beginning DFIR – How to get started with Cooties</title>
+      <link>https://circlecitycon.com/talks/beginning_dfir__how_to_get_started_with_cooties/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/beginning_dfir__how_to_get_started_with_cooties/</guid>
+      <description>Can you learn DFIR in less than an hour? No – our goal is to familiarize you with some of the freely available, open source tools. In addition, we’ll discuss some of the methods to use these tools to analyze files and systems. Covered will be beginning Remnux, SIFT workstation, Eric Zimmerman’s excellent tool suite, and others.
+ SPEAKER Lisa Wallace  </description>
+    </item>
+    
+    <item>
+      <title>Behind The Locked Door: we built an escape room for security awareness</title>
+      <link>https://circlecitycon.com/talks/behind_the_locked_door_we_built_an_escape_room_for_security_awareness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/behind_the_locked_door_we_built_an_escape_room_for_security_awareness/</guid>
+      <description>People want to attend our internal security awareness and training programs. In fact, we ran out of slots and had to turn colleagues away! We did it on a budget, too. We created an infosec-themed escape room which was educational, fun, cheap, and got great reviews. We’ll share what worked, what can be improved, and publish some of our awareness materials and puzzles along with this talk.
+ SPEAKER Christian Bobadilla</description>
+    </item>
+    
+    <item>
+      <title>Call Of Duty, Modernest Browser Warfare v2</title>
+      <link>https://circlecitycon.com/talks/call_of_duty_modernest_browser_warfare_v2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/call_of_duty_modernest_browser_warfare_v2/</guid>
+      <description>The talk I will be presenting is entirely my own work of research. While identifying vulnerabilities in web applications and participate in various bug bounty programs is interesting, I enjoy targeting platforms which are less popular as research topics. Having said that, while security for browsers is a known topic, I’ve been able to identify, through my research, several vulnerabilities which will help to secure it further.
+The issues I will be talking about during this talk would be – Same Origin Policy(SOP), Remote Code Execution(RCE) and Address Bar Spoofing (ABS).</description>
+    </item>
+    
+    <item>
+      <title>Catching the Guerrilla: Powershell Counterinsurgency</title>
+      <link>https://circlecitycon.com/talks/catching_the_guerrilla_powershell_counterinsurgency/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/catching_the_guerrilla_powershell_counterinsurgency/</guid>
+      <description>For too long attackers have leveraged the built-in APIs and tooling on Windows systems against us. It&amp;rsquo;s time the tables are turned! Those APIs were made for Sys Admins and defenders&amp;hellip; and we&amp;rsquo;re taking them back! We&amp;rsquo;re building a framework of response tools for defenders to wrestle control from threat actors without the risk of production outages. This talk will focus on techniques to turn the limited and traditional black-and-white incident response options into a full-color spectrum of alternatives for defending your turf.</description>
+    </item>
+    
+    <item>
+      <title>Cons &amp; Careers</title>
+      <link>https://circlecitycon.com/talks/cons__careers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/cons__careers/</guid>
+      <description>“If you compete with others, you may not win. If you compete with yourself, you always win by becoming better.” ― Debasish Mridha
+PURPOSE: Demonstrate the possibilities of career enhancement by making use of the wide variety of conferences, conventions, and events that are put on in the wider Information Security community
+When I got my first job out in the real world, I thought: this is it: All I’m ever going to need to know for my career, for my job.</description>
+    </item>
+    
+    <item>
+      <title>Container Security Deep Dive</title>
+      <link>https://circlecitycon.com/talks/container_security_deep_dive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/container_security_deep_dive/</guid>
+      <description>Containers are the next big thing in virtualization technology. If configured properly they provide immense security. There are many different segments where a container deployment needs to be secured like Dockerfile , docker daemon, container images , monitoring within containers etc. Attending this talk will help you secure your deployments the container way.
+I will start this talk with a brief intro to containers, talk about how a typical container deployment pipeline looks like.</description>
+    </item>
+    
+    <item>
+      <title>Could Static Code Analysis and Secure Coding have Saved the Death Star?</title>
+      <link>https://circlecitycon.com/talks/could_static_code_analysis_and_secure_coding_have_saved_the_death_star/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/could_static_code_analysis_and_secure_coding_have_saved_the_death_star/</guid>
+      <description>Could a scan of the Empire’s Death Star software have found the insider threat that Galen Erso left in the Death Star’s system? My hypothesis is that if the Empire had used a Static Analysis Tool for issues, then maybe the outcome of the Star Wars movies would have been different.
+The teacher will explain the terms “Secure Coding” or “Static Code Analysis” and give associated examples.
+ SPEAKER Mary Waddick  </description>
+    </item>
+    
+    <item>
+      <title>Creating browser extension to hunt low hanging fruits</title>
+      <link>https://circlecitycon.com/talks/creating_browser_extension_to_hunt_low_hanging_fruits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/creating_browser_extension_to_hunt_low_hanging_fruits/</guid>
+      <description>Automated scanners won’t yield you bugs these days. They take tens of hours to get completed that too with a high false rate. You need a minimal smart scanner with easy installation, easy configuration, and relatively high accuracy while hunting for bugs. This talk is focused on creating such a browser extension to yield better results in less time. The browser extension requires less manual effort and produces more accurate results in just a few seconds.</description>
+    </item>
+    
+    <item>
+      <title>Data Access Rights Exploits under New Privacy Laws</title>
+      <link>https://circlecitycon.com/talks/data_access_rights_exploits_under_new_privacy_laws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/data_access_rights_exploits_under_new_privacy_laws/</guid>
+      <description>New privacy laws such as the GDPR and CCPA have greatly advanced individual data rights, although the ability to request access to all personal information held by a company has created new attack vectors for OSINT. These data access requests are usually managed by legal or compliance teams without security review, increasing the potential for phishing, social engineering, and “legal DDoS.” This talk covers regional personal data access options, how most companies respond to data access requests, and exploits for common privacy vulnerabilities.</description>
+    </item>
+    
+    <item>
+      <title>Deepfakes: If anything can be real then nothing is real</title>
+      <link>https://circlecitycon.com/talks/deepfakes_if_anything_can_be_real_then_nothing_is_real/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/deepfakes_if_anything_can_be_real_then_nothing_is_real/</guid>
+      <description>“I didn’t say that!” &amp;hellip;The world will be forever changed by Deepfakes. A portmanteau of “deep learning” and “fake”, this trend refers to a new AI-assisted human image synthesis technique that generates realistic video face-swaps which can even be done in real-time. With modern face-swapping video technology, selfies can be used to create videos. A voice can be faked. A face can be faked. This is the new reality. What happens when we cannot trust what we hear and what we see?</description>
+    </item>
+    
+    <item>
+      <title>Do You Have What It Takes? How to Support Your Career From Community Involvement</title>
+      <link>https://circlecitycon.com/talks/do_you_have_what_it_takes_how_to_support_your_career_from_community_involvement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/do_you_have_what_it_takes_how_to_support_your_career_from_community_involvement/</guid>
+      <description>Career development is typically seen as a progression of education, certification and job moves. For career development it is helpful to build both technical and non-technical skills in environments that challenge and support learning. One way to build these skills is through volunteering. Community involvement strengthens our community and provides opportunities to stretch and learn new skills. Having worked with a large community of long-time volunteers, I will share share their volunteering and career paths to illustrate their lessons learned and opportunities gained.</description>
+    </item>
+    
+    <item>
+      <title>Endpoint Security, Swimming Through the Snake Oil</title>
+      <link>https://circlecitycon.com/talks/endpoint_security_swimming_through_the_snake_oil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/endpoint_security_swimming_through_the_snake_oil/</guid>
+      <description>Many vendors try to sell you snake oil and wine/dine you during the review process then leave you high and dry afterwards. This talk focuses on how to do full tests of endpoint products to make sure you know what you are really getting into and not just being sold some fancy snake oil. The talk focuses on the technical aspects of the testing as well as the functionality of the product in your own environment.</description>
+    </item>
+    
+    <item>
+      <title>Evicting the Password from the Digital Estate</title>
+      <link>https://circlecitycon.com/talks/evicting_the_password_from_the_digital_estate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/evicting_the_password_from_the_digital_estate/</guid>
+      <description>Passwords have been used to secure user sessions in computing since the time sharing era. Cryptography, collaborative standards development, and persistent network connectivity have led to new options for authenticators, while determined attackers and ever-expanding computing power have minimized a password’s security value. Recently, NIST engaged with the identity community to substantially revise guidance around digital identities, authenticators, and federation security. This session will explore authenticators from passwords to the latest FIDO 2 standards, focusing on how to improve security while not negatively impacting user experience.</description>
+    </item>
+    
+    <item>
+      <title>F! Attribution</title>
+      <link>https://circlecitycon.com/talks/f_attribution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/f_attribution/</guid>
+      <description>Nelson Mandela said, “Know your enemy - and learn about his favorite sport.” What does it mean to get to the know the enemy in 2019? Join us on a 5+ year journey of a CTI department and why a Fortune 500 decided to F! Attribution. In this talk, you’ll learn how the who and why of attribution means little when compared with TTPs in most company’s cyber threat intelligence programs.</description>
+    </item>
+    
+    <item>
+      <title>Failure Is Not an Option: Developing Realistic Disaster Recovery Tests</title>
+      <link>https://circlecitycon.com/talks/failure_is_not_an_option_developing_realistic_disaster_recovery_tests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/failure_is_not_an_option_developing_realistic_disaster_recovery_tests/</guid>
+      <description>Disaster Recovery isn&amp;rsquo;t exciting or prestigious, but recent real world examples have shown the consequences for failing to create and test an effective plan. Building a clear, flexible plan will let you recover gracefully from an outage and meet your service requirements. This talk will lay out how to model failures in your environment, create and document a plan for recovery, and test it thoroughly. Prepare your team to respond to a disaster (be it environmental, fire, or ransomware to name a few).</description>
+    </item>
+    
+    <item>
+      <title>Get off my lawn… or are we looking for the right people?</title>
+      <link>https://circlecitycon.com/talks/get_off_my_lawn_or_are_we_looking_for_the_right_people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/get_off_my_lawn_or_are_we_looking_for_the_right_people/</guid>
+      <description>Time have changed, paths have changed, heck the only thing constant is change. Therefor what we must look for to hire should change, but has it? There are some people and companies that are willing to take chances on people that are a bit outside the “norm” for our industry, but should those people be outside the norm? with our shortage of people, and the low numbers of diversification of people in our field isn’t it time we changed our parameters a bit?</description>
+    </item>
+    
+    <item>
+      <title>Growing Pains: Incorporating Security into IT for Small Business</title>
+      <link>https://circlecitycon.com/talks/growing_pains_incorporating_security_into_it_for_small_business/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/growing_pains_incorporating_security_into_it_for_small_business/</guid>
+      <description>Ever wonder what it’s like to grow a company’s infrastructure and security from a mom-and-pop, just-make-it-work situation to incorporate frameworks like ITIL, OWASP, CIS and NIST? Do you muse over the internal conflict between Confidentiality, Integrity and Availability? Ever lost a crap-load of data and wondered if you still had a job? Do you not havea security department but still need security? Ever been told you can’t get there from here, and you replied, “oh yeah?</description>
+    </item>
+    
+    <item>
+      <title>Hacking Humans: Addressing Vulnerabilities in the Advancing Medical Device Landscape</title>
+      <link>https://circlecitycon.com/talks/hacking_humans_addressing_vulnerabilities_in_the_advancing_medical_device_landscape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/hacking_humans_addressing_vulnerabilities_in_the_advancing_medical_device_landscape/</guid>
+      <description>As technology advances, the health care critical infrastructure sector comprises much of the potential attack surface of the national security landscape. Medical devices are being fitted with “smart” technology in order to better serve patients and stay at the forefront of health technology. However, medical devices that enable connectivity, like all other computer systems, incorporate software that is vulnerable to threats.
+Medical device recalls increased 126% in the first quarter of 2018, mostly due to software issues and vulnerabilities.</description>
+    </item>
+    
+    <item>
+      <title>How to reach and teach youth about Cybersecurity (if anybody will let you)</title>
+      <link>https://circlecitycon.com/talks/how_to_reach_and_teach_youth_about_cybersecurity_if_anybody_will_let_you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/how_to_reach_and_teach_youth_about_cybersecurity_if_anybody_will_let_you/</guid>
+      <description>Talking to kids about online safety and careers in InfoSec seems like a no-brainer and only a matter of carving out time to get your materials together and showing up, amirite? Having tried (and tried, and tried), and failed and somewhat succeeded in getting in front of high school students, I&amp;rsquo;d like to share some of the challenges, gatekeepers and pitfalls in engaging educators and parents in what would seem like a slam dunk.</description>
+    </item>
+    
+    <item>
+      <title>InfoSuck: The Nasty Bits Of The Industry We Want To Tell Noobs But Aren&#39;t Allowed To In Polite Company.</title>
+      <link>https://circlecitycon.com/talks/infosuck_the_nasty_bits_of_the_industry_we_want_to_tell_noobs_but_arent_allowed_to_in_polite_company/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/infosuck_the_nasty_bits_of_the_industry_we_want_to_tell_noobs_but_arent_allowed_to_in_polite_company/</guid>
+      <description>There are hundreds of blogs, papers, tweets, etc that give the lowdown on &amp;ldquo;How to break into Infosec.&amp;rdquo; There aren&amp;rsquo;t any that help to guide these poor sheep past the offer letter. We&amp;rsquo;re not allowed to talk about getting laid off or fired. We&amp;rsquo;re told to not discuss our salaries with each other because its &amp;ldquo;impolite&amp;rdquo;. We&amp;rsquo;re discouraged from discussing these things for fear of being blacklisted or being thought of as &amp;ldquo;unprofessional&amp;rdquo;, damaged goods.</description>
+    </item>
+    
+    <item>
+      <title>Information Security Practice Principles: a Rosetta Stone for information security work</title>
+      <link>https://circlecitycon.com/talks/information_security_practice_principles_a_rosetta_stone_for_information_security_work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/information_security_practice_principles_a_rosetta_stone_for_information_security_work/</guid>
+      <description>Too often, security professionals, developers, and operators are left to re-learn security methods as technology changes. They don&amp;rsquo;t speak the same language as one another when it comes to security, let alone any language easily understood by management, lawyers, or laypeople. Our day-to-day way of speaking about information security is bound up in individual technologies and controls, often ignoring the forest for the trees: no strategy.
+This talk presents the Information Security Practice Principles (ISPPs), developed at the Indiana University Center for Applied Cybersecurity Research.</description>
+    </item>
+    
+    <item>
+      <title>Inside Out Security - Building Castles not Warehouses</title>
+      <link>https://circlecitycon.com/talks/inside_out_security__building_castles_not_warehouses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/inside_out_security__building_castles_not_warehouses/</guid>
+      <description>Medieval castle builders made effective use of simple design principles to defend the most valuable assets in their castles. Centuries later there are clearly lessons we’ve forgotten that could help when it comes to how we defend our IT assets. From the moment we started to enable multi-user systems, we’ve gone about defending our information in all the wrong ways. In this session we’ll look at a completely different approach to designing security into our systems.</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s Coming From Inside the House: An Inside-Out Approach to NodeJS Application Security</title>
+      <link>https://circlecitycon.com/talks/its_coming_from_inside_the_house_an_insideout_approach_to_nodejs_application_security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/its_coming_from_inside_the_house_an_insideout_approach_to_nodejs_application_security/</guid>
+      <description>Getting application security right often requires that developers have a deeper than average understanding of the security domain. In what other industry is this the case? We don&amp;rsquo;t have to be M.D.s to get a medical diagnosis; we don&amp;rsquo;t have to be auto mechanics to get our cars fixed, yet we in security wag our fingers at &amp;ldquo;iD10t errors&amp;rdquo; and build grand mousetraps to catch &amp;ldquo;so obvious&amp;rdquo; developer missteps, when they may not know what they need to add, change or remove from their applications to make it &amp;ldquo;secure&amp;rdquo; in the first place.</description>
+    </item>
+    
+    <item>
+      <title>I’ll Complete My Threat Model Later Mom!: Infosec in Middle School.</title>
+      <link>https://circlecitycon.com/talks/ill_complete_my_threat_model_later_mom_infosec_in_middle_school/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/ill_complete_my_threat_model_later_mom_infosec_in_middle_school/</guid>
+      <description>Infosec in middle school? It’s less likely than you think! Security education initiatives and curricula are being creating and piloted in various school districts all over the country. However, many of those initiatives are currently focused in either high school or post-secondary education. There are few security education initiatives that target middle school students. In this talk, I will briefly explain about computer science and security initiatives in the United States.</description>
+    </item>
+    
+    <item>
+      <title>Modern AppSec Gotchas</title>
+      <link>https://circlecitycon.com/talks/modern_appsec_gotchas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/modern_appsec_gotchas/</guid>
+      <description>We keep building better web frameworks full of built-in security features, but we keep finding new ways to work around them! Modern web developers can typically afford to take a lot for granted when it comes to appsec, with languages and frameworks that by default enforce many decent security practices. Browsers are getting better at automatically protecting users and blocking unsafe content as well. However, that just makes it all the more important to know why these helpful features are in place and how best to leverage them, instead of ignoring, fighting against or disabling them.</description>
+    </item>
+    
+    <item>
+      <title>More Tales from the Crypt...Analyst</title>
+      <link>https://circlecitycon.com/talks/more_tales_from_the_cryptanalyst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/more_tales_from_the_cryptanalyst/</guid>
+      <description>The speaker, a former Cryptographer for the National Security Agency (NSA), has previously presented “Tales from the Crypt…Analyst” where he shared some of his experiences as both a designer of and breaker of cryptographic systems. “More Tales from the Crypt…analyst” picks up with the speaker’s third “tour of duty” at NSA where he became one of the founding members of NSA’s first penetration testing or Red Team. While the thought of NSA hiring hackers or engaging in cyber warfare might be fairly common today, it was not always the case.</description>
+    </item>
+    
+    <item>
+      <title>Nexus Zeta - How a newbie hacker managed to create a monster botnet</title>
+      <link>https://circlecitycon.com/talks/nexus_zeta__how_a_newbie_hacker_managed_to_create_a_monster_botnet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/nexus_zeta__how_a_newbie_hacker_managed_to_create_a_monster_botnet/</guid>
+      <description>During our research, we found a 0day remote code execution vulnerability (CVE-2017-17215) in Huawei home router HG532 model. The vulnerability allows remote users to execute arbitrary commands by injection shell meta-characters in 2 elements (NewStatusURL, NewDownloadURL) in a POST request sent to upgrade the device’s firmware. We have found hundreds of thousands of attempts in the wild to exploit it. Our investigation led to finding the threat actor, Kenneth Schuchman, a 20 year old guy from Washington with the covered nickname of ‘Nexus Zeta’.</description>
+    </item>
+    
+    <item>
+      <title>Of CORS it&#39;s Exploitable! What&#39;s Possible with Cross-Origin Resource Sharing?</title>
+      <link>https://circlecitycon.com/talks/of_cors_its_exploitable_whats_possible_with_crossorigin_resource_sharing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/of_cors_its_exploitable_whats_possible_with_crossorigin_resource_sharing/</guid>
+      <description>Cross-origin resource sharing (CORS) is extremely common on modern web apps, but scanning tools are terrible at analyzing CORS policy. If testers really understand CORS policy, a damaging exploit is often not far away. Is it possible to force a user to do something significant? Does using a GUID offer any protection? Does the authentication mechanism really protect against cross-origin attacks? Is it really risky to allow all origins? Do pre-flight requests always help?</description>
+    </item>
+    
+    <item>
+      <title>One Random Insecure Wep Application Please (ORIWAP)</title>
+      <link>https://circlecitycon.com/talks/one_random_insecure_wep_application_please_oriwap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/one_random_insecure_wep_application_please_oriwap/</guid>
+      <description>You may need an insecure web application as part of yearly developer compliance training. You may need an insecure web application for a companywide contest for cyber security awareness month. Perhaps you just like playing with insecure web applications on the weekend. There are a variety of insecure web applications out there. If you have specific needs &amp;ndash; maybe XSS in VBScript as opposed to JavaScript &amp;ndash;, or regular use-case where you want something similar to showcase the OWASP top 10 yet different topics and look every time.</description>
+    </item>
+    
+    <item>
+      <title>Security lessons from the Woofmutt…</title>
+      <link>https://circlecitycon.com/talks/security_lessons_from_the_woofmutt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/security_lessons_from_the_woofmutt/</guid>
+      <description>Life, and all of its lessons can come from many directions, in this instance I’m going to take a step back from the normal avenues and focus on what a pair of large Great Danes have helped me learn about our industry…some thoughts below: • Puppy eyes, drool AND sideways looks work…social engineering IS a good skill to have • Try everything at least once, even if it means sticking your head in the trashcan… • Always be upfront, that way there’s no miscommunication • If at first you fail, try again; eventually you will get the chew toy on top of the bookcase.</description>
+    </item>
+    
+    <item>
+      <title>SigInt for the Masses: Building and Using a Signals Intelligence Platform for Less than $150</title>
+      <link>https://circlecitycon.com/talks/sigint_for_the_masses_building_and_using_a_signals_intelligence_platform_for_less_than_150/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/sigint_for_the_masses_building_and_using_a_signals_intelligence_platform_for_less_than_150/</guid>
+      <description>“Who said something? What did they say? Where did they say it? What can I do with it?” These are the questions people have when working with unknown radio systems. This is the art and science of Signals Intelligence (SigInt).
+We discuss the basic requirements for working with SigInt, along with a sample platform using a Raspberry Pi and a RTLSDR radio receiver. The discussion will then briefly touch on other hardware that can enable SigInt work, that are not incorporated in the demo platform.</description>
+    </item>
+    
+    <item>
+      <title>Standardizer: a standardization framework for your security alerts</title>
+      <link>https://circlecitycon.com/talks/standardizer_a_standardization_framework_for_your_security_alerts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/standardizer_a_standardization_framework_for_your_security_alerts/</guid>
+      <description>It is necessary to write custom alerts within your organization to detect organization and product specific attacks. It can be difficult to maintain these alerts, enable alert creation continuity across multiple teams &amp;amp; geographic regions, have an objective when creating an alert, measuring historical activity, and making decisions on naming convention and standardization. In this session, you will learn how the incident response team at Atlassian has created a framework for the standardization of your alerts.</description>
+    </item>
+    
+    <item>
+      <title>Star Wars: How an ineffective Data Governance Program destroyed the Galactic Empire</title>
+      <link>https://circlecitycon.com/talks/star_wars_how_an_ineffective_data_governance_program_destroyed_the_galactic_empire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/star_wars_how_an_ineffective_data_governance_program_destroyed_the_galactic_empire/</guid>
+      <description>• The Galactic Empire in Star Wars Episode 4 was destroyed not by a farmboy from Tatooine, but by an ineffective Data Governance Program. Regardless if you are a traditionalist and follow the original story of Kyle Katarn stealing the Death Star plans out of the Danuta base form Star Wars: Dark Forces or if you believe the new cannon established in Rogue One where Jyn Erso and her team transmits the Death Star plans to the Rebel Alliance ships overhead the planet of Scarif the results is the same.</description>
+    </item>
+    
+    <item>
+      <title>The Hunter Games: How to find the adversary with Event Query Language</title>
+      <link>https://circlecitycon.com/talks/the_hunter_games_how_to_find_the_adversary_with_event_query_language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/the_hunter_games_how_to_find_the_adversary_with_event_query_language/</guid>
+      <description>How do you find malicious activity? We often resort to the cliche, you know it when you see it, but how do you even see it, without drowning in data? MITRE’s ATT&amp;amp;CK knowledge base organizes adversary behavior into tactics and techniques, and orients our approach to endpoint data. It suggests questions that might be worth asking, but not a way to ask them. The Event Query Language (EQL) allows a security analyst to naturally express queries for IOC search, hunting, and behavioral detections, while remaining platform and data source agnostic.</description>
+    </item>
+    
+    <item>
+      <title>The Resilient Reddit C2</title>
+      <link>https://circlecitycon.com/talks/the_resilient_reddit_c2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/the_resilient_reddit_c2/</guid>
+      <description>Twitter is frequently utilized to issue commands to a botnet: an account creates a post that is ran by a program locally on a user’s computer. Why limit it to Twitter? Reddit is a very viable platform that can be used to perform Command and Control operations while being able to blend in with other users as well as other network traffic. By combining multiple accounts with the post structure of Reddit, a Command and Control Herder can be persistent even past account or post deletion.</description>
+    </item>
+    
+    <item>
+      <title>Training and Education for the New Realities of Privacy and Security</title>
+      <link>https://circlecitycon.com/talks/training_and_education_for_the_new_realities_of_privacy_and_security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/training_and_education_for_the_new_realities_of_privacy_and_security/</guid>
+      <description>The recent security events over the past year have proven that technology is not enough in defending against cyber-attacks. Attack techniques such as BGP and DNS Hijacking, and privacy issues such as unauthorized Electronic Medical Record accesses don’t get detected by traditional tools and techniques. Our best weapon in this case is our end users. In this session, Mitch Parker, Executive Director of Information Security and Compliance at IU Health will discuss the training and education techniques used to inform a team of over 34,500 and build two-way communication.</description>
+    </item>
+    
+    <item>
+      <title>What Can Data Science Do for Security?</title>
+      <link>https://circlecitycon.com/talks/what_can_data_science_do_for_security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/what_can_data_science_do_for_security/</guid>
+      <description>We present a high-level overview of how data science is used to extract insights from security data. Data science is an interdisciplinary field encompassing math, statistics, information science and computer science that gleans actionable information from data. With cybersecurity, data science often attempts to differentiate between the normal and the malicious. Data science has been applied to network security monitoring and malware analysis. We discuss some general principles and terminology and walk through examples.</description>
+    </item>
+    
+    <item>
+      <title>What The Frida Gave Me: A Novel Take on E-Ticket Forging and E-Ticket Stealing</title>
+      <link>https://circlecitycon.com/talks/what_the_frida_gave_me_a_novel_take_on_eticket_forging_and_eticket_stealing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/what_the_frida_gave_me_a_novel_take_on_eticket_forging_and_eticket_stealing/</guid>
+      <description>Millions of people rely on mobile e-ticketing applications to get from Point A to Point B every day. These applications serve as vital components for mass transit and essentially power America’s major cities.
+But thanks to Frida – a well-known but not very popular dynamic instrumentation framework – you can easily reverse engineer mobile e-ticketing applications. In this talk, we’ll explore new application-specific attack avenues using Frida. We will be leaving the jailbreak bypasses and SSL pinning bypasses of yesteryear by the wayside as we explore a new attack vector.</description>
+    </item>
+    
+    <item>
+      <title>Wibbly Wobbly: Designing Security for Systems that are Bigger on the Inside</title>
+      <link>https://circlecitycon.com/talks/wibbly_wobbly_designing_security_for_systems_that_are_bigger_on_the_inside/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/wibbly_wobbly_designing_security_for_systems_that_are_bigger_on_the_inside/</guid>
+      <description>Security happens where man meets machine. Or, fails to happen, as we see all too often. Blame the users. They’ll click anything. Blame the developers. Half their code is riddled with vulnerabilities anyways. Blame the IT staff. You’d think they’d at least know better. But perhaps, we’ve been placing the blame on the wrong places. What exactly happens where people and technology meet? At that moment, that very moment, what factors in human psychology and industrial design are at play?</description>
+    </item>
+    
+    <item>
+      <title>an Implantable Computer</title>
+      <link>https://circlecitycon.com/talks/an_implantable_computer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/an_implantable_computer/</guid>
+      <description>fast prototyping an implantable computer from off the shelf parts, there are two phases to this project phase 1 is making a fast prototype from off the shelf parts, and implanting it into a host, this is meant to be a proof of concept for the implantable computer which is able to sniff wifi, bluetooth, and nfc from within the human body&amp;hellip; allow the hacker to remote into the computer/host and gather information from a possible distributed array of people involved in the test.</description>
+    </item>
+    
+    <item>
+      <title>iOS apps hacking just got a lot easier</title>
+      <link>https://circlecitycon.com/talks/ios_apps_hacking_just_got_a_lot_easier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/talks/ios_apps_hacking_just_got_a_lot_easier/</guid>
+      <description>When life gives your doors, search for windows:
+Imagine you&amp;rsquo;re testing an iOS application that requires paid registration. Maybe it has in app-purchase functionalities or some hidden privileged content. Perhaps even jailbreak detection or other mechanisms preventing your specific device from using the app. What would you do to bypass all of this? Often, bypassing such restrictions requires a deep analysis of the application&amp;rsquo;s methods and data structures. As time goes by, we need to find ways to do more, with less (time, effort, resources)&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

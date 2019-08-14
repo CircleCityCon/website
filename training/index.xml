@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trainings on CircleCityCon 7.0</title>
+    <link>https://circlecitycon.com/training/</link>
+    <description>Recent content in Trainings on CircleCityCon 7.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://circlecitycon.com/training/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blackhole DNS with a Raspberry Pi</title>
+      <link>https://circlecitycon.com/training/blackhole_dns_with_a_raspberry_pi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/blackhole_dns_with_a_raspberry_pi/</guid>
+      <description>DNS is a core protocol for everything we do on the Internet and we can use that to our advantage to protect our home &amp;amp; business networks. By sending malicious or ad-laden domains to a blackhole we are able to protect entire networks in a way no single endpoint software can. Want to protect your desktops, laptops, tablets, phones, and even smart devices on your network? Even better, do it with an inexpensive Raspberry Pi?</description>
+    </item>
+    
+    <item>
+      <title>Building Virtual Labs: CCC Edition</title>
+      <link>https://circlecitycon.com/training/building_virtual_labs_ccc_edition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/building_virtual_labs_ccc_edition/</guid>
+      <description>Most IT and Infosec professionals agree that hands-on experience is the key to developing your talent, and advancing your career. Everyone needs a place to practice, because practice makes perfect, Right? But where do you start? That is what this training is all about!
+This goal of this training will be to teach students on how to build a virtual lab environment for studying various aspects of information technology that interest you.</description>
+    </item>
+    
+    <item>
+      <title>Creating browser extension to hunt low hanging fruits</title>
+      <link>https://circlecitycon.com/training/creating_browser_extension_to_hunt_low_hanging_fruits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/creating_browser_extension_to_hunt_low_hanging_fruits/</guid>
+      <description>Automated scanners won’t yield you bugs these days. They take tens of hours to get completed that too with a high false rate. You need a minimal smart scanner with easy installation, easy configuration, and relatively high accuracy while hunting for bugs. This talk is focused on creating such a browser extension to yield better results in less time. The browser extension requires less manual effort and produces more accurate results in just a few seconds.</description>
+    </item>
+    
+    <item>
+      <title>Cuckoo Sandbox Setup: Malware Detection Through Detonation</title>
+      <link>https://circlecitycon.com/training/cuckoo_sandbox_setup_malware_detection_through_detonation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/cuckoo_sandbox_setup_malware_detection_through_detonation/</guid>
+      <description>This workshop is a crash course for anyone wanting to detonate malware and set up Cuckoo Sandbox. Students will receive hands-on experience in Cuckoo Sandbox’s malware analysis, reverse-engineering, and forensic capabilities. By providing step-by-step instructions during setup and first-time use, this workshop aims to remove the complexity and initial frustrations of setting up Cuckoo Sandbox alone.
+To help students gain familiarity with Cuckoo Sandbox’s rich feature set, the workshop is divided into two parts:</description>
+    </item>
+    
+    <item>
+      <title>Introduction to CTFs with Kali Linux</title>
+      <link>https://circlecitycon.com/training/introduction_to_ctfs_with_kali_linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/introduction_to_ctfs_with_kali_linux/</guid>
+      <description>Cyber Security can mean a lot of different things to a lot of different people. In this class we take a holistic approach to understanding Cyber Security using Kali Linux and describe section by section what the tools are and what they do. During the class you will be given a chance to use your new found skills in our custom CTF training environment.
+ SPEAKER Josh Turley
+ SPEAKER Jayson Brown</description>
+    </item>
+    
+    <item>
+      <title>Learning to Hack Bluetooth Low Energy with BLE CTF</title>
+      <link>https://circlecitycon.com/training/learning_to_hack_bluetooth_low_energy_with_ble_ctf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/learning_to_hack_bluetooth_low_energy_with_ble_ctf/</guid>
+      <description>While BLE CTF is in fact a cft, it was created as a series of learning exercises to teach the fundamentals of interacting with and hacking Bluetooth Low Energy. Each exercise, or flag, aims to iteratively teach a new concept to the user. For this workshop, we will step through a series of exercises to teach beginner students new concepts and allow more seasoned users to try new tools and techniques.</description>
+    </item>
+    
+    <item>
+      <title>Modern WAF Bypass Techniques for Autonomous Attacks</title>
+      <link>https://circlecitycon.com/training/modern_waf_bypass_techniques_for_autonomous_attacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/modern_waf_bypass_techniques_for_autonomous_attacks/</guid>
+      <description>Scripting and automation are absolutely critical to many aspects of an attacker’s effectiveness, penetration tester or otherwise. Modern WAFs and “bot detections” often add a small layer of intelligence to their monitoring, attempting to determine whether or not an attack is being automated, and shut the bot/botnet down. This class will cover how common forms of WAF &amp;amp; bot detections work and how you can modify your scripting to fly under the radar.</description>
+    </item>
+    
+    <item>
+      <title>Offensive Python: Custom scripts for pentests</title>
+      <link>https://circlecitycon.com/training/offensive_python_custom_scripts_for_pentests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/offensive_python_custom_scripts_for_pentests/</guid>
+      <description>In this workshop, we&amp;rsquo;ll write custom Python scripts to automate and augment penetration testing. Learn the basics of port scanning, crafting custom packets, and building your own exploits in Python.
+We will work through examples using a Jupyter Notebook, which you can make a copy of to play around with after the conference. (To get the most out of this class, you should already have some basic programming experience in Python or a similar programming language like Ruby.</description>
+    </item>
+    
+    <item>
+      <title>Powershell 101 for Security Teams</title>
+      <link>https://circlecitycon.com/training/powershell_101_for_security_teams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/powershell_101_for_security_teams/</guid>
+      <description>This is an introductory course on using Windows Powershell 5.1 and Powershell 7 (Formerly Powershell Core) with a focus on skills that are useful for Defenders. Powershell is a highly effective tool that is available in a large amount of enterprises. Agenda:
+Introduction to Windows Powershell and Powershell Core -Setting up a Powershell test lab in Amazon Web Services -Nuances of Powershell Core , and Powershell 5.1/ Powershell Core backwards compatibility -Current limitations of Powershell Core -Useful things you can make/ do in Powershell -Common Defensive Security Use-Cases for Powershell -Powershell Tips and Tricks, to make your life easier</description>
+    </item>
+    
+    <item>
+      <title>Red Teaming as a Service: Simulating Blackhat Attacks for Organisations</title>
+      <link>https://circlecitycon.com/training/red_teaming_as_a_service_simulating_blackhat_attacks_for_organisations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/red_teaming_as_a_service_simulating_blackhat_attacks_for_organisations/</guid>
+      <description>The goal of the training is to give a red teamer&amp;rsquo;s perspective to hackers and penetration testers who want to up their game of VAPT. We will start first with the fundamental concepts of red teaming and its process followed by differentiating how red-teaming is different than normal pentesting and the benefits of having a red-teaming approach towards application security testing. After this, the training will build upon from the ground up starting with the fundamental concepts of Information Gathering and Recon + various un-common tools and techniques to gather much more information about a target.</description>
+    </item>
+    
+    <item>
+      <title>Securing and Attacking APIs</title>
+      <link>https://circlecitycon.com/training/securing_and_attacking_apis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/securing_and_attacking_apis/</guid>
+      <description>With the increased, and eventually complete, reliance on APIs in modern systems, as well as the quick decline of the monolithic architecture for systems and applications; it is becoming increasingly necessary to tackle and understand the various security issues, weaknesses and gotchas in API designs. Many products, platforms and technologies now expose an API or two (or many more), sometimes in decentralized and autonomous fashion. Where does security come in this new world of rapid build-up and teardown of microservices and serverless (functionality as a Service - Faas) architectures?</description>
+    </item>
+    
+    <item>
+      <title>Sysmon Swimming Lessons for SOC folk and Hunt teams. AKA How not to drown in the deep end of the Windows internals enterprise ocean.</title>
+      <link>https://circlecitycon.com/training/sysmon_swimming_lessons_for_soc_folk_and_hunt_teams_aka_how_not_to_drown_in_the_deep_end_of_the_windows_internals_enterprise_ocean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://circlecitycon.com/training/sysmon_swimming_lessons_for_soc_folk_and_hunt_teams_aka_how_not_to_drown_in_the_deep_end_of_the_windows_internals_enterprise_ocean/</guid>
+      <description>System Internals System Monitor (Sysmon) seems to be the silver bullet that the cybersecurity community has been waiting for in Windows environments. It is “free”. It allows for an almost forensic view through log analysis. It finally cuts down on the damn amount of log types in Windows! The reality is exactly what it often is in security: disappointing, fantastic, and complicated. Sysmon can be bypassed, modified, and even just turned off.</description>
+    </item>
+    
+  </channel>
+</rss>
