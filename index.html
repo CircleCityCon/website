@@ -245,9 +245,7 @@
 
         <!-- REGISTER -->
         <section id="register">
-            <div class="container">
-                <div id="eventbrite-widget-container-62810947234"></div>
-            </div>
+            <div id="eventbrite-widget-container"></div>
         </section>
 
         <!-- SPONSORS --><!--
@@ -479,17 +477,11 @@
         <!-- Eventbrite Copde -->
         <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
         <script type="text/javascript">
-            var exampleCallback = function() {
-                console.log('Order complete!');
-            };
             window.EBWidgets.createWidget({
-                // Required
                 widgetType: 'checkout',
                 eventId: '62810947234',
-                iframeContainerId: 'eventbrite-widget-container-62810947234',
-                // Optional
-                iframeContainerHeight: 425,
-                onOrderComplete: exampleCallback
+                iframeContainerId: 'eventbrite-widget-container',
+                iframeContainerHeight: 700,
             });
         </script>
 
