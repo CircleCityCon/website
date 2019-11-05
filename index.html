@@ -57,8 +57,6 @@
         <meta name="msapplication-TileColor" content="#000000">
         <meta name="msapplication-TileImage" content="/img/favicon/ms-icon-144x144.png">
         <meta name="theme-color" content="#000000">
-
-
 	</head>
 
 	<body>
@@ -248,64 +246,7 @@
         <!-- REGISTER -->
         <section id="register">
             <div class="container">
-                <div class="row">
-
-                	<div class="col-lg-12">
-                    	<h2 class="uppercase text-center">register</h2>
-                        <p class="lead text-center">
-                            Get your tickets now, before they sell out!
-                        </p>
-                    </div>
-
-                    <div class="col-lg-12">
-                        <!-- PRICE TABLES -->
-                        <div id="price-carousel">
-
-                            <div class="price-table early-bird">
-                                <div class="icon">
-                                    <i class="pe-5x pe-7s-wristwatch"></i>
-                                </div>
-
-                                <div class="table-header">
-                                    <h3>sold out</h3>
-                                    <p class="price"><strike>$75</strike></p>
-
-                                    <ul class="desc list-unstyled">
-                                        <li>Conference Kit</li>
-                                        <li>First-come, first-served training</li>
-                                        <li>All seasons</li>
-                                    </ul>
-                                </div>
-                            </div>
-
-                            <div class="price-table standard">
-                                <div class="icon">
-                                    <i class="pe-5x pe-va pe-7s-ribbon"></i>
-                                </div>
-
-                                <div class="table-header">
-                                    <h3>Regular</h3>
-                                    <p class="price">$150</p>
-                                </div>
-
-                                <ul class="desc list-unstyled">
-                                    <li>Conference Kit</li>
-                                    <li>First-come, first-served training</li>
-                                    <li>All seasons</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-					<div class="col-lg-12 text-center">
-                        <a class="button button-small button-line-dark"
-                            href="https://www.eventbrite.com/e/circlecitycon-70-tickets-62810947234"
-                            target="_blank">
-                            register now
-                        </a>
-                    </div>
-
-                </div>
+                <div id="eventbrite-widget-container-62810947234"></div>
             </div>
         </section>
 
@@ -533,7 +474,24 @@
 
 		  ga('create', 'UA-57265159-1', 'circlecitycon.com');
 		  ga('send', 'pageview');
-		</script>
+        </script>
+
+        <!-- Eventbrite Copde -->
+        <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+        <script type="text/javascript">
+            var exampleCallback = function() {
+                console.log('Order complete!');
+            };
+            window.EBWidgets.createWidget({
+                // Required
+                widgetType: 'checkout',
+                eventId: '62810947234',
+                iframeContainerId: 'eventbrite-widget-container-62810947234',
+                // Optional
+                iframeContainerHeight: 425,
+                onOrderComplete: exampleCallback
+            });
+        </script>
 
 	</body>
 </html>
