@@ -1334,3 +1334,7 @@ figure.effect-ming:hover figcaption {
 figure.effect-ming:hover img {
 	opacity: 0.4;
 }
+
+a.pad-button {
+    margin: 5px;
+}
